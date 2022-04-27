@@ -1,17 +1,22 @@
 ---
-title: Reference & Resources
+title: Copyright & research data
 nav: Resources
 ---
+This page has been adapted from the Griffith University Copyright [research data](https://www.griffith.edu.au/copyright-matters/hdr-candidates/research-data) pages. 
 
-To learn about using `workshop-template-b`, the [Readme](https://github.com/evanwill/workshop-template-b/blob/master/README.md) and content pages have some documentation.
+# Copyright ownership
 
-Workshop sites using this template:
+Higher degree by Research (HDR) candidates own the copyright in the datasets they create (except when copyright is transferred to the University or another body by agreement). Griffith University owns the copyright in datasets staff create and permits their publication. Where two or more researchers significantly contribute to a dataset when working on a project, there is joint copyright ownership. Often researchers will sign an agreement assigning the copyright in the data to the project at the beginning.
+Griffith universitys Intellectual Property policy framework [here](https://sharepointpubstor.blob.core.windows.net/policylibrary-prod/Intellectual%20Property%20Policy.pdf)
 
-- [Make OER!](https://evanwill.github.io/make-oer/) (presentation)
-- [Hey API!](https://evanwill.github.io/hey-api/) (workshop)
-- [Teaching Tech Hands-on](https://evanwill.github.io/tech-hands-on/) (presentation)
-- [Refine APIs](https://evanwill.github.io/refine-apis/) (workshop)
-- [Mini Web Crash Course](https://evanwill.github.io/mini-web-crash-course/) (workshop)
+
+## Copyright requirements when publishing data
+
+### Publishing your dataset
+
+### Publishing sofware with your dataset
+
+### Publishing and sharing sensitive data
 
 Other workshop sites an [minimal version of this template](https://github.com/evanwill/workshop-template) (no bootstrap):
 
