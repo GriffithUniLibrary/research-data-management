@@ -13,63 +13,41 @@ Griffith universitys Intellectual Property policy framework [here](https://share
 ## Copyright requirements when publishing data
 
 ### Publishing your dataset
+When publishing your dataset, it’s best to attach a licence to let others know how they can use it.  A good principle is to use the least restrictive licence that is applicable to your data so it is published as openly as possible.
+
+If you want your data to be used as widely as possible, attach the Creative Commons CC BY 4.0 International licence.  This permits others to use your data for whatever purpose (including mixing it with other data and republishing) as long as they reference your data,  link to the license, and indicate if changes were made.  Funding agreements often recommend this licence.  Alternatively the CC BY NC 4.0 International licence is identical, except it does not permit commercial use.
 
 ### Publishing sofware with your dataset
+You may wish to publish software with your dataset to help others use and manipulate your data. The BSD 3-Clause license is the software equivalent of a CC BY licence, permitting others to use your software as widely as possible. However before publishing your software or attaching this licence, make sure any underlying open or proprietary software you may have included within your software permits publication and is compatible with this licence.
 
 ### Publishing and sharing sensitive data
+Sensitive data can often be deidentified and then published with a Creative Commons licence.  Where the data may not be deidentified, often an abstract describing the data can be published, and sometimes on request the data may be shared with other projects after Ethics approval.
 
-Other workshop sites an [minimal version of this template](https://github.com/evanwill/workshop-template) (no bootstrap):
 
-- [get-git](https://evanwill.github.io/get-git/)
-- [hello-arduino](https://evanwill.github.io/hello-arduino/)
-- [clean-your-data](https://evanwill.github.io/clean-your-data/)
-- [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/)
-- [Make @ the MILL](https://uidaholib.github.io/make-at-the-mill/)
+# Using existing data
+### Reusing datasets
+Being able to reuse datasets created by others will depend whether the licence on the dataset matches your intended use.  For example, you may be permitted to use a dataset for your private individual research, but not permitted to mix this dataset with another dataset for publication purposes (without written permission from the copyright owner).
 
-# Reference
+### Social media data
 
-### Git & GitHub
+Social Media datasets generally contain copyright material (such as, comments, images, videos) whose copyright belongs to individuals and not to the Social Media platform (although tweets are generally not considered long enough to attract copyright protection).   Before using such data for your research you should check the site’s Terms and Conditions and policies.  Contact the Information Policy Officer for assistance.
 
-[GitHub](https://github.com/) is a popular web service for hosting Git repositories--with benefits!
-It provides a handy web interface for editing and collaborating on repos, as well as, built in project management features and [free static web hosting](https://pages.github.com/) powered by [Jekyll](https://jekyllrb.com/).
-Accounts are free.
-To learn more check out Hello World on [GitHub Guides](https://guides.github.com/) or [GitHub Learning Lab](https://lab.github.com/).
 
-### Markdown
+# Help and support
+### copyright advice
+The Information Policy Officer provides copyright advice and training across Griffith University for staff and students. Contact the Information Policy Officer by emailing copyright@griffith.edu.au or phoning (0)7 3735 5695.
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a standard to simplify writing content for the web. 
-Markdown can be used any where on GitHub and in Jekyll.
+- Reading List Service digitises and makes readings available online for students through Learning@Griffith in a copyright compliant way.
+- The Library assists with supplying movies and TV material for teaching in a copyright compliant way.
+- Griffith Enterprise advises on ownership and development of potentially commercial copyright, inventions and other IP created by staff and students.
 
-- [Mastering Markdown GitHub Guide](https://guides.github.com/features/mastering-markdown/){:target="_blank" rel="noopener"}
-- [GitHub Markdown documentation](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax){:target="_blank" rel="noopener"}
-- [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)
+### Frequently asked questions
 
-### Bootstrap 4
+[What can I do if my thesis includes small excerpts from scores but I cannot find the copyright owner](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/3057?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+[How can I find copyright free images?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/3048?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+[Where can I find out about copyright?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/1038?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+[How do I publish and share research outputs while retaining copyright?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/4025?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+[Where can I find images to use in my assignment?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/1794?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+[Why are full text files not always available in Griffith Research Online?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/2972?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
 
-[Bootstrap](https://getbootstrap.com/) is a CSS framework designed to streamline developing user interfaces for your website. 
-It is combined with a JavaScript library [jQuery](https://jquery.com/) to simplify adding interactive components. 
-
-### FontAwesome 5
-
-[FontAwesome](https://fontawesome.com/) is an icon set used to easily add icons to websites.
-Check the [gallery](https://fontawesome.com/icons?d=gallery&m=free) for the freely available icons.
-
-### YAML
-
-[YAML](http://www.yaml.org/) is a human readable plain text data format.
-It is used in Jekyll for configuration, site data, and front matter.
-Jekyll projects are [configured](https://jekyllrb.com/docs/configuration/) using the `_config.yml` file.
-
-### Liquid
-
-[Liquid](http://shopify.github.io/liquid/) is a flexible template language.
-[In Jekyll]((https://jekyllrb.com/docs/liquid/) it allows you to layout pages built from modular components and data, using the `_includes`, `_layouts`, and `_data` directories.
-Liquid includes features such as operators, loops, and filters to manipulate raw content. 
-Liquid statements are enclosed by {% raw %}`{%  %}`{% endraw %} and variables in {% raw %}`{{  }}`{% endraw %}.
-
-### Sass  
-
-[Sass](http://sass-lang.com/) is a CSS extension / preprocessor. 
-All normal CSS is valid SCSS, but Sass adds many powerful functions and programmatic features. 
-Writing SCSS is often easier and more sensible, for example by supporting nesting, variables, and operators. 
-Jekyll lets you write SASS in modular chucks called partials, in the `_sass` directory, that will be combined and compiled into normal CSS files when the site is built.
+More answers at [Griffiths Ask us!](https://studenthelp.secure.griffith.edu.au/app/answers/list/st/5/kw/copyright/page/1?_gl=1*1fg0zt7*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
