@@ -43,11 +43,11 @@ The Information Policy Officer provides copyright advice and training across Gri
 
 ### Frequently asked questions
 
-[What can I do if my thesis includes small excerpts from scores but I cannot find the copyright owner](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/3057?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
-[How can I find copyright free images?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/3048?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
-[Where can I find out about copyright?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/1038?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
-[How do I publish and share research outputs while retaining copyright?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/4025?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
-[Where can I find images to use in my assignment?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/1794?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
-[Why are full text files not always available in Griffith Research Online?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/2972?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+- [What can I do if my thesis includes small excerpts from scores but I cannot find the copyright owner](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/3057?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+- [How can I find copyright free images?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/3048?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+- [Where can I find out about copyright?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/1038?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+- [How do I publish and share research outputs while retaining copyright?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/4025?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+- [Where can I find images to use in my assignment?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/1794?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
+- [Why are full text files not always available in Griffith Research Online?](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/2972?_gl=1*uq72mu*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
 
 More answers at [Griffiths Ask us!](https://studenthelp.secure.griffith.edu.au/app/answers/list/st/5/kw/copyright/page/1?_gl=1*1fg0zt7*_ga*MTU3ODMzMTczNi4xNjUwODUwODM5*_ga_5GKYJEBSN9*MTY1MTAyNTk5My40LjEuMTY1MTAyNjQ3MC4w)
