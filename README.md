@@ -1,19 +1,12 @@
-# workshop-template-b
+# Research data management
 
-A Jekyll template for a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
+This page to assist hdr candidates manage their research data through out their candidature.
+Research data management is one area that needs to at the front of the queue when undertaking a PhD as the skills set up good data practice for life.
 
-Works best for about 5 pages of instructions, plus an index page, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the sections.
+## whats here
 
-> Note: for a more minimal version, try the original [workshop-template](https://github.com/evanwill/workshop-template)
-
-## Why?
-
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this pretty easy.
-
-It is a better Open Educational Resource since anyone can make a copy and adapt!
+these pages take you through your responsibilities as a researcher, show how to set up good file and folder naming processes, and how to set up a data management plan. 
+The pages cover copyright and research ethics responsibilities as well as safe storage options and data lifecycle management. 
 
 ## How To Use Template
 
