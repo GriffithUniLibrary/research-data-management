@@ -1,12 +1,13 @@
 ---
 title: Introduction
-nav: Intro
+nav: what is good data management practice
 ---
 
-`workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
+The management of research data is an integral part of good research practice that allows reliable verification of results, protects the intellectual and financial investment made in its creation which enables it to be shared (if possible) potentially generating new and innovative research.
 
-It works best for about 5 pages of instructions, plus index, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
+Good data management practice will ensure compliance to government research codes and principles that underpin Australian research.   
+![image](https://user-images.githubusercontent.com/42364968/165414539-b6d2f326-3efc-429a-9d0a-bca05315e2c5.png)
+
 
 ### Why?
 
