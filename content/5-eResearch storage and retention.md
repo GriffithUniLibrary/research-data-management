@@ -1,7 +1,6 @@
 ---
 title: eResearch storage and retention
 nav: true
-topics: data storage; retention; destruction
 ---
 
 The `workshop-template-b` [repository](https://github.com/evanwill/workshop-template-b) is a template project--to get started quickly, make a copy and fill in your own content and customizations.
