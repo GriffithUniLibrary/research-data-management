@@ -25,6 +25,13 @@ This template has been 'Griffithised' in the following ways:
 {% endcapture %}
 {% include card.html header="What's been changed?" text=whatsdifferent %}
 
+<nav>
+      <ul class="nav justify-content-end">
+        {% for section in site.html_pages %}{% if section.nav == true %}
+        <li class="nav-item"><a class="nav-link{% if page.url == section.url %} active{% endif %}" href="{{ section.url | absolute_url }}">{{ section.title }}</a></li>
+        {% endif %}{% endfor %}
+      </ul>
+    </nav>
 *See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
 {% include toc.html %}
