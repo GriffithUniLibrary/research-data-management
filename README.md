@@ -12,14 +12,14 @@ The pages cover your research ethics and copyright responsibilities,  as well as
 Understanding and use file and folder naming convetions
 Copyright licencing for research data
 Ethical considerations with data including; 
--privacy 
--data sensitivity
--future data use
+-- privacy 
+- data sensitivity
+- future data use
 The Data lifecycle, including; 
--where you will keep your data
--archiving datasets
--data repositories
--data retention & data destruction
+- where you will keep your data
+- archiving datasets
+- data repositories
+- data retention & data destruction
 
 
 
