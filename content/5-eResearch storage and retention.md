@@ -26,7 +26,7 @@ Once you have edited the "_config.yml", you are ready to start editing your cont
 All your content is written in Markdown in the "content" folder.
 See [Create Lesson Content]({{ '/content/3-lesson.html' | relative_url }}) for details and options.
 
-## Advanced Customization Options (optional!)
+# section to confuse me later
 
 ### Basic style customization
 
