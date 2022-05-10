@@ -9,17 +9,17 @@ These pages take you through your responsibilities as a researcher, show how to 
 The pages cover your research ethics and copyright responsibilities,  as well as safe storage options and data lifecycle management. 
 
 ### Key Learning Outcomes: 
-- Understanding and use file and folder naming convetions
-- Copyright licencing for research data
-- Ethical considerations with data including; 
-- -privacy 
-- -data sensitivity
-- -future data use
-- The Data lifecycle, including; 
-- -where you will keep your data
-- -archiving datasets
-- -data repositories
-- -data retention & data destruction
+Understanding and use file and folder naming convetions
+Copyright licencing for research data
+Ethical considerations with data including; 
+-privacy 
+-data sensitivity
+-future data use
+The Data lifecycle, including; 
+-where you will keep your data
+-archiving datasets
+-data repositories
+-data retention & data destruction
 
 
 
