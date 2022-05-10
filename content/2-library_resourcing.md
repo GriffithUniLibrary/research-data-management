@@ -1,6 +1,6 @@
 ---
-title: Introduction
-nav: what is good data management practice
+title:Library resources
+nav: true
 ---
 
 The management of research data is an integral part of good research practice that allows reliable verification of results, protects the intellectual and financial investment made in its creation which enables it to be shared (if possible) potentially generating new and innovative research.
