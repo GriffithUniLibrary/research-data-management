@@ -1,6 +1,6 @@
 ---
 title: Copyright & research data
-nav: Resources
+nav: true
 ---
 This page has been adapted from the Griffith University Copyright [research data](https://www.griffith.edu.au/copyright-matters/hdr-candidates/research-data) pages. 
 
