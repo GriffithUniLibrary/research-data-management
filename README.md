@@ -10,10 +10,11 @@ The pages cover your research ethics and copyright responsibilities,  as well as
 
 ### Key Learning Outcomes: 
 
-Understanding and use file and folder naming convetions
-Copyright licencing for research data
-Ethical considerations with data including; 
+Understanding and use file and folder naming conventions
 
+Copyright licencing for research data
+
+Ethical considerations with data including; 
 - privacy 
 - data sensitivity
 - future data use
