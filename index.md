@@ -28,8 +28,6 @@ Download Data management planning templates, design naming convetions and set up
 
 *See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
-{% include toc.html %}
-
 Published by [Griffith University Library](http://www.griffith.edu.au/library/), {{ site.pub_year }}.
 
 ------
