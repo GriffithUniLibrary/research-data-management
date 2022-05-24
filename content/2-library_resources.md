@@ -8,37 +8,14 @@ The management of research data is an integral part of good research practice th
 Good data management practice will ensure compliance to government research codes and principles that underpin Australian research.   
 
 
-![image](https://user-images.githubusercontent.com/42364968/165414539-b6d2f326-3efc-429a-9d0a-bca05315e2c5.png)
+### data lifecycle
 
-{% comment %}
+### data types
 
-    Bootstrap Card, https://getbootstrap.com/docs/4.5/components/card/
+### Data management planning
 
-    e.g. --> {% include card.html text="Some interesting text" header="Example card" %}
-    
-    Options:
-    - "text" = main card text, can use markdown formatting. Use a Liquid capture to add more complex content.
-    - "header" = card header text (in bar above card content)
-    - "title" = card title text inside card content area
-    - "img" = give filename of image in your "images" folder, will create a card cap image
-    - "alt" = alt text for image
-    - "width" = will use responsive sizing to set the % size on desktop (will be 100% on mobile), choose from "25", "50", "75", or "100"
-    - "float"  = will use responsive float utility to add float on desktop (will not float on mobile), choose from "left" or "right"
-    - "centered" = give "true" to add mx-auto class on the card to center it (don't use with float!)
+### naming conventions
 
-{%- endcomment -%}
-<div class="card mb-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}">
-{% if include.img %}<img class="card-img-top" src="{{ '/images/' | append: include.img | relative_url }}" alt="{{ include.alt | default: 'Card image' }}">{% endif %}
-{% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{% endif %}
-<div class="card-body">
-{% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{% endif %}
-<div class="card-text">
-{{ include.text | markdownify }}
-</div>
-</div>
-</div>
-
-### Why?
 
 Rather than making slides for a workshop, why not make a website? 
 It's easier to write, access, share, and reuse. 
