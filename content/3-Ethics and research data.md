@@ -73,16 +73,16 @@ Whilst it may seem like a hassle to plan, revise your plan, version control, ret
 ```{% raw %}
 {% capture text %}
 Breaches of the Code that are related to management of data and information in research include, but are not limited to:
-falsification of research data or primary materials
-fabrication of research data or primary materials
-failure to notify the institution and relevant authorities in a timely manner of a data breach or instance of inappropriate access to data held by the researcher
-failure to retain clear, accurate, secure and complete records of all research including research data and primary materials
-failure to adhere to the conditions of any institutional policy or project-specific approvals that relate to the retention, sharing or destruction of research data or primary materials
-selective retention of research data or primary materials so as to hinder the verifiability of a research output or access request
-failure to apply appropriate security controls to research data or primary materials
-failure to obtain necessary approvals or acting inconsistently with a condition of any approval granted in relation to the management of research data or primary materials.
+- falsification of research data or primary materials
+- fabrication of research data or primary materials
+- failure to notify the institution and relevant authorities in a timely manner of a data breach or instance of inappropriate access to data held by the researcher
+- failure to retain clear, accurate, secure and complete records of all research including research data and primary materials
+- failure to adhere to the conditions of any institutional policy or project-specific approvals that relate to the retention, sharing or destruction of research data or primary materials
+- selective retention of research data or primary materials so as to hinder the verifiability of a research output or access request
+- failure to apply appropriate security controls to research data or primary materials
+- failure to obtain necessary approvals or acting inconsistently with a condition of any approval granted in relation to the management of research data or primary materials.
 {% endcapture %}
-{% include card.html text=text header="Example Card" title="Title example" img="uidaho-workshop.jpg" %}{% endraw %}
+{% include card.html text=text header="code breaches" title="example breaches" img="uidaho-workshop.jpg" %}{% endraw %}
 ```
 
 
