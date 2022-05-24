@@ -1,5 +1,5 @@
 ---
-title:Library resources
+title: Library resources
 nav: true
 ---
 
