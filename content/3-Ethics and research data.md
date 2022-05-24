@@ -15,8 +15,8 @@ Section 4: Breaches
 
 ## Introduction
 
-The Australian Code for the Responsible Conduct of Research (the Code) articulates the broad principles and responsibilities that underpin the responsible conduct of Australian research.  It contains X principles, and X responsibilities for both institutions and researchers.
- 
+The [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018) (the Code) articulates the broad principles and responsibilities that underpin the responsible conduct of Australian research. The code contains principles, and responsibilities for both institutions and researchers.
+   As a Griffith researcher you also need to know of the Griffith university policies on [responsible research.](https://sharepointpubstor.blob.core.windows.net/policylibrary-prod/The%20Responsible%20Conduct%20of%20Research.pdf) 
 The Code was updated in late 2018, so if you haven’t read it yet (or haven’t engaged with it more recently), I would encourage you to download this and do it now.  It is only 6 pages long and is easy to understand. (plus there is no defence for lack of awareness of the Code).  There are also supporting guidelines that accompany the Code, that deal with functions such as Managing Research Data (which is where I am drawing the majority of the material for this presentation), Authorship, Investigation of Breaches, Conflicts of Interest, and Supervision.  
 
 Focusing on this presentation, there are three principles that we are concerned with respect to managing research data and primary materials. These are:
