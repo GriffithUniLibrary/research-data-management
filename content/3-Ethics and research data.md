@@ -3,64 +3,46 @@ title: Ethics and research data
 nav: true
 ---
 
-## Content Pages
+# Ethics and Research data
+Section 1: Introduction​
 
-Content pages are written in markdown and can be enhanced using Liquid includes that are packaged with the template.
-Start by editing the examples or creating new files in the "content" folder.
+Section 2: Responsibilities for Institutions​
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 
-[GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub and in Jekyll.
-The basics are intuitive, you can learn in about a minute!
-See [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html) to get started.
+Section 3: Responsibilities for Researchers​
 
-At the top of each page is "YML front matter" used to configure the page.
-Use these options:
+Section 4: Breaches
 
-- to include a page in the header and footer navigation, add `nav:` push the text you want to appear to the file's yml front matter. Alternatively, add `nav: true` to use the page's `title:` value. All pages with a `nav` value will appear in the top-bar, sorted by order of filenames. For simplicity use leading numbers in the lesson page filenames to create correct order.
-- `title:` value will appear as `h1` at the top of the page.
-- `topics:` will appear as a small feature below the title (optional). 
-- `description:` will appear as an indented text block below the title (optional). This gives you a chance to summarize the section contents. 
-- `youtubeid:` will add an YouTube video embed (optional). Find the id in the YouTube link. For example, in `https://youtu.be/moJgWrD6dwg` or `https://www.youtube.com/watch?v=moJgWrD6dwg` the youtubeid is `moJgWrD6dwg`.
-- Alternatively, if you don't want `title` or other options to appear on the page, you can over ride the layout by adding `layout: default` 
 
-## Components Includes
+## Section 1
 
-`workshop-template-b` contains a series of [Liquid "includes"](https://jekyllrb.com/docs/includes/) to add basic [Bootstrap components](https://getbootstrap.com/docs/4.1/components/) to your Markdown content.
-The features are available in the "_includes" folder where you can check the comments for details about how to use them.
+The Australian Code for the Responsible Conduct of Research (the Code) articulates the broad principles and responsibilities that underpin the responsible conduct of Australian research.  It contains X principles, and X responsibilities for both institutions and researchers.
+ 
+The Code was updated in late 2018, so if you haven’t read it yet (or haven’t engaged with it more recently), I would encourage you to download this and do it now.  It is only 6 pages long and is easy to understand. (plus there is no defence for lack of awareness of the Code).  There are also supporting guidelines that accompany the Code, that deal with functions such as Managing Research Data (which is where I am drawing the majority of the material for this presentation), Authorship, Investigation of Breaches, Conflicts of Interest, and Supervision.  
 
-The examples below demonstrate some of the includes with sample include `code` followed by the rendered feature:
+Focusing on this presentation, there are three principles that we are concerned with respect to managing research data and primary materials. These are:
 
---------
+```{% raw %}
+{% capture text %}
+• Principle 2, ‘Rigour in the development, undertaking and reporting of research’, which requires that research be characterised by attention to detail and robust methodology and that researchers avoid or acknowledge biases.
+• Principle 3, ‘Transparency in declaring interests and reporting research methodology, data and findings’, which requires researchers to share and communicate research methodology, data and findings openly, responsibly and accurately.
+• Principle 7, ‘Accountability for the development, undertaking and reporting of research’ so as to comply with relevant legislation, policies and guidelines and ensure good stewardship of public resources used to conduct research.
+{% endcapture %}
+{% include card.html text=text header="Example Card" title="Title example" img="uidaho-workshop.jpg" %}{% endraw %} {% endcapture %}
 
-#### Figures 
+The Code and the guide apply to all research conducted under the auspices of Australian institutions. Whilst Griffith University will also have specific institutional policies and processes capable of fulfilling the aim of this guide there are appropriate options for flexibility in the application of this content.
 
-- put any images you want to use in the "images" folder.
-- in a markdown file where you want the image to appear, use the `figure.html` include on its own line, following the pattern: `{% raw %}{% include figure.html img="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}{% endraw %}`
-- figures will be centered, and can optionally be given a caption and percentage width.
 
-`{% raw %}{% include figure.html img="uidaho-workshop.jpg" alt="workshop scene" caption="Library workshops!" width="75%" %}{% endraw %}`
+## Section 2 Responsibilities for institutions
 
-{% include figure.html img="uidaho-workshop.jpg" alt="workshop scene" caption="Library workshops!" width="75%" %}
 
-----------
 
-#### Alerts
+![image](https://user-images.githubusercontent.com/42364968/169922544-18c34c2a-c3a3-45fd-83be-d35a5afe22ae.png)
 
-`{% raw %}{% include alert.html text="This is a Bootstrap [Alert](https://getbootstrap.com/docs/4.1/components/alerts/)" align="center" color="success" %}{% endraw %}`
 
-{% include alert.html text="This is a [Bootstrap Alert](https://getbootstrap.com/docs/4.1/components/alerts/)" align="center" color="success" %}
-
------------
-
-#### Link Buttons 
-
-`{% raw %}{% include button.html text="Bootstrap Docs" link="https://getbootstrap.com/docs/4.1/components/buttons/" color="info" %}{% endraw %}`
-
-{% include button.html text="Bootstrap Docs" link="https://getbootstrap.com/docs/4.1/components/buttons/" color="info" %}
 
 ---------
 
-#### Cards
+## Cards
 
 ```{% raw %}
 {% capture text %}
