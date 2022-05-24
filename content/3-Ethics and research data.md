@@ -13,7 +13,7 @@ Section 3: Responsibilities for Researchers​
 Section 4: Breaches
 
 
-## Section 1
+## Introduction
 
 The Australian Code for the Responsible Conduct of Research (the Code) articulates the broad principles and responsibilities that underpin the responsible conduct of Australian research.  It contains X principles, and X responsibilities for both institutions and researchers.
  
