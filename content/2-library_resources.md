@@ -14,7 +14,7 @@ Good data management practice will ensure compliance to government research code
 
 ### Data management planning
 
-### naming conventions
+### Naming conventions
 
 
 Rather than making slides for a workshop, why not make a website? 
