@@ -6,7 +6,7 @@ nav: true
 To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
 Basic familiarity with the GitHub web interface will be helpful.
 
-For a quick introduction check out GitHub's [Hello World guide](https://guides.github.com/activities/hello-world/), or the extensive [GitHub Learning Lab](https://lab.github.com/).
+`For a quick introduction check out GitHub's [Hello World guide](https://guides.github.com/activities/hello-world/), or the extensive [GitHub Learning Lab](https://lab.github.com/).`
 
 It is possible to create a website with this template using only GitHub's web interface--in fact, it works great!
 However, for more advanced uses you will want Git, Ruby, and Jekyll installed on your computer to do local development.
