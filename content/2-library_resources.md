@@ -13,8 +13,10 @@ The management of research data is an integral part of good research practice th
 Good data management practice will ensure compliance to government research codes and principles that underpin Australian research.
 ![Image showing representing verify protect share](https://github.com/GULibrarySandbox/RDM_practice_space/blob/7c59c3f8f9e7a3ceab6601f40f2f7bcc8b4a9192/images/2022-06-Data_Verify_Protect_Share.jpg)
 
-## Data management planning 
-### Considerations 
+## Data management planning
+<details open>
+<summary> Considerations </summary>
+<br>
 **Project details**
 >Description, copyright matters, data owner and joint collaborators, start and finish dates. 
 >If your project will involve human participants, which consent is correct one to ask? 
@@ -33,6 +35,9 @@ Good data management practice will ensure compliance to government research code
 
 **Data Post Project**
 >Sharing, licensing for reuse, archiving, retention, destruction.  Some funding agencies and publishers require a copy of your data be made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
+
+</details>
+## Data management planning 
 
 ## The Data Lifecycle
 
