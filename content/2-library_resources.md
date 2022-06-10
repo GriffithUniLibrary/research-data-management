@@ -2,8 +2,9 @@
 title: Library resources
 nav: true
 ---
-
-## Why good data manangement practice?
+# Why good data manangement practice?
+![Image representing verify protect share](https://github.com/GULibrarySandbox/RDM_practice_space/blob/7c59c3f8f9e7a3ceab6601f40f2f7bcc8b4a9192/images/2022-06-Data_Verify_Protect_Share.jpg)
+###### Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](https://unsplash.com/es/@towfiqu999999) and [AbsolutVision](https://unsplash.com/@freegraphictoday) on [Unsplash](https://unsplash.com/)
 The management of research data is an integral part of good research practice that allows for:
 
  - Reliable **verification** of results
@@ -11,12 +12,8 @@ The management of research data is an integral part of good research practice th
  - **Sharing** if possible and potentially generating new and innovative research 
 
 Good data management practice will ensure compliance to government research codes and principles that underpin Australian research.
-![Image showing representing verify protect share](https://github.com/GULibrarySandbox/RDM_practice_space/blob/7c59c3f8f9e7a3ceab6601f40f2f7bcc8b4a9192/images/2022-06-Data_Verify_Protect_Share.jpg)
-
-## Data management planning
-
-Considerations 
-
+# ![Small icon image of workflow planning](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-data-planning.jpg) Data management planning 
+### Considerations 
 **Project details**
 >Description, copyright matters, data owner and joint collaborators, start and finish dates. 
 >If your project will involve human participants, which consent is correct one to ask? 
@@ -36,18 +33,27 @@ Considerations
 **Data Post Project**
 >Sharing, licensing for reuse, archiving, retention, destruction.  Some funding agencies and publishers require a copy of your data be made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
 
+ # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-Loop.jpg)The Research Data Lifecycle
+**Planning Research**
+>Design research | Plan data management | Plan for consent sharing | Plan for data collecting, processing protocols and templates | Explore existing data sources
 
-## Data management planning 
+ **Data Collection** 
+ >Collect data | Capture data with metadata | Aquire third party data
+ 
+ **Processing and analysing data**
+ >Enter, digitize, transcribe and translate data | Check, validate, clean, anonymize | Derive data | Analyse and interpet data | Produce research outputs | Cite data sources
 
-## The Data Lifecycle
+ **Publishing and Sharing Data**
+ >Establish copyright | Create user documentation | Create discovery metadata | Select appropriate access to data | Publish / share data | Promote data
+
+ **Preserving Data**
+>Migrate to best format / media | Store and back up data | Create preservation documentation | Preserve and curate data
 
 
-![The Data Life Cycle: Gather, Analyse, Visual, Share or Archive or Destroy](https://upload.wikimedia.org/wikipedia/commons/0/0b/Data_lifecycle.svg)
+###### Source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
+ # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06_files-folders.jpg) Data formats, files names and folder structures
 
-Attribution: Thomas Shafee, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Data_lifecycle.svg)
-## Data formats, files names and folder structures
-
-### Different formats research data may take
+### Different formats research data may take 
 
 - Artefacts, specimens, physical samples
 - Content analysis
@@ -79,25 +85,12 @@ Attribution: Thomas Shafee, [CC BY 4.0](https://creativecommons.org/licenses/by/
  When applied, the FNC would look like this:
  
   #### 20210621_Southport_Humidity.csv
----
 
-The management of research data is an integral part of good research practice that allows reliable verification of results, protects the intellectual and financial investment made in its creation which enables it to be shared (if possible) potentially generating new and innovative research.
+### Folder structure
+Having a standard folder structure can keep your files neat and tidy and save you time looking for data. 
+It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
+- Follow a naming convention
+- Pre-fix folder names with numbers so the files can be ordered by the steps in your workflow
+- Good practice is to document your folder strucutre for future reference to a "README" file
+![image showing folder structure with README file and number to force folder order to workflow steps](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-Folder_Structure.jpg)
 
-Good data management practice will ensure compliance to government research codes and principles that underpin Australian research.   
-
-
-### data lifecycle
-
-### data types
-
-### Data management planning
-
-### Naming conventions
-
-
-
-{% capture text %}Note:
-There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
-If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
-All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
-{% include alert.html text=text color=secondary %}
