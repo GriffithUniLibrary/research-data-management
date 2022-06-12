@@ -24,6 +24,7 @@ This [site](https://evanwill.github.io/workshop-template-b/) demonstrates the ou
 {% include card.html header="Overview" text=text %}
 
 ## Working Research Storage
+![image](https://user-images.githubusercontent.com/42364968/173257008-e4827a47-9ec4-41ea-b64d-588dd76cf087.png)
 Griffith University offers various storage services to all researchers and research students affiliated with the University. The Research Storage Service is an area where researchers can gain access to digital storage based on their storage needs. The project data stored in these services are freely accessible and securely stored on Griffith servers. For more information, access the Research Space, Research Drive and the Research Vault options below. To acces this storage follow the link [here](https://research-storage.griffith.edu.au/).
 
 Edit the "_config.yml" to get your workshop website set up with the basics such as `title`, `description`, and `author`.
