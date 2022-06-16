@@ -91,7 +91,7 @@ Good data management practice will ensure compliance to government research code
   #### 20210621_Southport_Humidity.csv
 
 ### Folder structure
-Having a standard folder structure can keep your files neat and tidy and save you time looking for data. 
+>Having a standard folder structure can keep your files neat and tidy and save you time looking for data. 
 It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
 - Follow a naming convention
 - Pre-fix folder names with numbers so the files can be ordered by the steps in your workflow
