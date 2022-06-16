@@ -71,6 +71,8 @@ Good data management practice will ensure compliance to government research code
 ### File naming conventions
 >A File Naming Convention (FNC) is a protocol that enables you to systematically name your files in a way that describes what files contain and importantly, how they relate to other files. 
 **Prior to data collection establish an agreed FNC that is documented and shared with all stakeholders.**
+**Check for standard file naming conventions in your field**
+
 
  An example file naming convention:
 
