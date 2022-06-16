@@ -89,7 +89,7 @@ Good data management practice will ensure compliance to government research code
  When applied, the FNC would look like this:
  
   #### 20210621_Southport_Humidity.csv
-
+![image showing file name convention and example](https://github.com/GriffithUniLibrary/research-data-management/blob/main/images/2022-06-file-name-image.jpg)
 ### Folder structure
 >Having a standard folder structure can keep your files neat and tidy and save you time looking for data. 
 It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
