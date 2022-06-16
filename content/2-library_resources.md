@@ -73,7 +73,7 @@ Good data management practice will ensure compliance to government research code
  
    **Prior to data collection establish an agreed FNC that is documented and shared with all stakeholders.**
  
-   **Check for standard file naming conventions in your field**
+   **TIP! Check for standard file name conventions in your field**
 
 
  An example file naming convention:
