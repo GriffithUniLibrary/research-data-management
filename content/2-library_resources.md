@@ -33,19 +33,30 @@ Good data management practice will ensure compliance to government research code
 **Data Post Project**
 >Sharing, licensing for reuse, archiving, retention, destruction.  Some funding agencies and publishers require a copy of your data be made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
 
- # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-Loop.jpg)The Research Data Lifecycle
+ # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-Loop.jpg)Data Planning and The Research Data Lifecycle
 **Planning Research**
 >Design research | Plan data management | Plan for consent sharing | Plan for data collecting, processing protocols and templates | Explore existing data sources
+  ##### This looks like... 
+- Description, copyright matters, data owner and joint collaborators, start and finish dates. 
+- Human participants? What is the correct consent to ask? 
+- Do you want to re-use the data created from this project for future projects?
+- Good planning takes into account legal and ethical implications and facilitates future-proofing your research data.
 
  **Data Collection** 
- >Collect data | Capture data with metadata | Aquire third party data
+ >Collect data | Capture data with metadata | Aquire third party data |Establish tools, software and methods for data collection
+   ##### This looks like...
+ - Tools and software you will use during your project
+ - File formats - what is the best one to use?
+ - File name conventions and folder structures, using a README file.
+ - Encryption, access and premissions, safe file transfers
+ - Offers protection against loss, theft or misuse and facilitates data preservation
  
  **Processing and analysing data**
  >Enter, digitize, transcribe and translate data | Check, validate, clean, anonymize | Derive data | Analyse and interpet data | Produce research outputs | Cite data sources
 
  **Publishing and Sharing Data**
- >Establish copyright | Create user documentation | Create discovery metadata | Select appropriate access to data | Publish / share data | Promote data
-
+ >Establish copyright and licences | Create user documentation | Create discovery metadata | Select appropriate access to data | Publish / share data | Promote data | Attach permanent identifiers to your research data
+ 
  **Preserving Data**
 >Migrate to best format / media | Store and back up data | Create preservation documentation | Preserve and curate data
 
