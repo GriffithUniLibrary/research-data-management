@@ -12,7 +12,7 @@ The management of research data is an integral part of good research practice th
  - **Sharing** if possible and potentially generating new and innovative research 
 
 
- # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-Loop.jpg)Data Planning and The Research Data Lifecycle
+ # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-data-planning.jpg)Data Planning and The Research Data Lifecycle
 **Planning Research**
 >Design research | Plan data management | Plan for consent sharing | Plan for data collecting, processing protocols and templates | Explore existing data sources
   ##### This looks like... 
@@ -22,7 +22,7 @@ The management of research data is an integral part of good research practice th
 - Good planning takes into account legal and ethical implications and facilitates future-proofing your research data.
 
  **Data Collection** 
- >Collect data | Capture data with metadata | Aquire third party data |Establish tools, software and methods for data collection
+ >Collect data | Capture data with metadata | Aquire third party data
    ##### This looks like...
  - Tools and software you will use during your project
  - File formats - what is the best one to use?
@@ -44,7 +44,7 @@ The management of research data is an integral part of good research practice th
 **Re-Using Data**
 >Conduct secondary analysis | Undertake follw-up research | Conduct research reviews | Scrutinize findings | Use data for teaching and learning
 
-###### Source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
+###### Adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
  # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06_files-folders.jpg) Data formats, files names and folder structures
 
 ### Different formats research data may take 
