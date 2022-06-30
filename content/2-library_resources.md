@@ -49,6 +49,8 @@ Good data management practice will ensure compliance to government research code
  **Preserving Data**
 >Migrate to best format / media | Store and back up data | Create preservation documentation | Preserve and curate data
 
+**Re-Using Data**
+>Conduct secondary analysis | Undertake follw-up research | Conduct research reviews | Scrutinize findings | Use data for teaching and learning
 
 ###### Source: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
  # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06_files-folders.jpg) Data formats, files names and folder structures
