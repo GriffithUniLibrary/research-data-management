@@ -11,27 +11,6 @@ The management of research data is an integral part of good research practice th
  - **Protection** of the intellectual and financial investment made in the creation of your data
  - **Sharing** if possible and potentially generating new and innovative research 
 
-Good data management practice will ensure compliance to government research codes and principles that underpin Australian research.
-# ![Small icon image of workflow planning](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-data-planning.jpg) Data management planning 
-### Considerations 
-**Project details**
->Description, copyright matters, data owner and joint collaborators, start and finish dates. 
->If your project will involve human participants, which consent is correct one to ask? 
->Do you want to use the data from this project in your next project
->Good planning takes into account legal and ethical implications and will facilitate future-proofing your research data.
-
-**Data Collection** 
->Types of data to be created or collected, what data is already available for reuse, what tools or software are available for use. Plans for sharing and preserving the data post project.
-
-**Organising data**
->How data will be organised, and what is the best file naming convention and folder structures to use? Should you consider a “ReadME” file. File format type should be considered
-
-**Storage and Backup**
->How data will be stored and backed up. Encryption of devices, access permission and safe file transfers. 
->Offers protection against loss, theft or misuse.
-
-**Data Post Project**
->Sharing, licensing for reuse, archiving, retention, destruction.  Some funding agencies and publishers require a copy of your data be made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
 
  # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-Loop.jpg)Data Planning and The Research Data Lifecycle
 **Planning Research**
@@ -56,6 +35,8 @@ Good data management practice will ensure compliance to government research code
 
  **Publishing and Sharing Data**
  >Establish copyright and licences | Create user documentation | Create discovery metadata | Select appropriate access to data | Publish / share data | Promote data | Attach permanent identifiers to your research data
+ ##### This looks like...
+- Many funding agencies and publishers will require a copy of your data is made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
  
  **Preserving Data**
 >Migrate to best format / media | Store and back up data | Create preservation documentation | Preserve and curate data
