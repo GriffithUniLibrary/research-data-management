@@ -13,8 +13,9 @@ The management of research data is an integral part of good research practice th
 ###### Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](https://unsplash.com/es/@towfiqu999999) and [AbsolutVision](https://unsplash.com/@freegraphictoday) on [Unsplash](https://unsplash.com/)
 
 # Reserach Data Planning and The Research Data Lifecycle
-
-![Image shpwing the Reserach Data Life Cycle](https://github.com/GriffithUniLibrary/research-data-management/blob/main/images/2022-07-ResDataLifeCycle.jpg)
+<p align="center">
+  <img width="474" height="408" src="https://github.com/GriffithUniLibrary/research-data-management/blob/main/images/2022-07-ResDataLifeCycle.jpg">
+</p>
  
  **Planning Research**
 >Design research | Plan data management | Plan for consent sharing | Plan for data collecting, processing protocols and templates | Explore existing data sources
@@ -47,7 +48,7 @@ The management of research data is an integral part of good research practice th
 **Re-Using Data**
 >Conduct secondary analysis | Undertake follw-up research | Conduct research reviews | Scrutinize findings | Use data for teaching and learning
 
-###### Adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
+###### Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
  # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06_files-folders.jpg) Data formats, files names and folder structures
 
 ### Different formats research data may take 
