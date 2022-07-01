@@ -12,8 +12,11 @@ The management of research data is an integral part of good research practice th
  - **Sharing** if possible and potentially generating new and innovative research 
 ###### Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](https://unsplash.com/es/@towfiqu999999) and [AbsolutVision](https://unsplash.com/@freegraphictoday) on [Unsplash](https://unsplash.com/)
 
- # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-data-planning.jpg)Data Planning and The Research Data Lifecycle
-**Planning Research**
+# Reserach Data Planning and The Research Data Lifecycle
+
+![Image shpwing the Reserach Data Life Cycle](https://github.com/GriffithUniLibrary/research-data-management/blob/main/images/2022-07-ResDataLifeCycle.jpg)
+ 
+ **Planning Research**
 >Design research | Plan data management | Plan for consent sharing | Plan for data collecting, processing protocols and templates | Explore existing data sources
   ##### This looks like... 
 - Description, copyright matters, data owner and joint collaborators, start and finish dates. 
