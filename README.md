@@ -1,26 +1,26 @@
 # Research data management
 Self-paced online workshop developed by Griffith University Library.
-This page has been desigend to assist Griffith University HDR candidates better manage and store their research data throughout the duration their candidature and beyond. 
-Research data management is one area that needs to at the front of the queue when undertaking a PhD as the skills set up good data practice for life.
+This page has been designe to assist Griffith University HDR candidates better manage and store their research data throughout the duration of their candidature and beyond. 
+Research data management is one area that needs to be at the front of the queue when undertaking a PhD as the skills set up good data practices for life.
 
-## whats here
+## What's here
 
-These pages take you through your responsibilities as a researcher, show how to set up good file and folder naming processes, and how to set up a data management plan. 
-The pages cover your research ethics and copyright responsibilities,  as well as safe storage options and data lifecycle management. 
+These pages take you through your responsibilities as a researcher, show you how to set up good file and folder naming processes, and how to set up a data management plan. 
+The pages cover your research ethics and copyright responsibilities,  as well as provding information about safe storage options and data life-cycle management. 
 
 ### Key Learning Outcomes: 
 
-Understanding and use file and folder naming conventions
+The use of file and folder naming conventions
 
-Copyright licencing for research data
+Copyright licensing for research data
 
 Ethical considerations with data including; 
 - privacy 
 - data sensitivity
 - future data use
 
-The Data lifecycle, including; 
-- where you will keep your data
+The Data life-cycle, including; 
+- where you will store your data
 - archiving datasets
 - data repositories
 - data retention & data destruction
