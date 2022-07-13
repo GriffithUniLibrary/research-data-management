@@ -5,7 +5,7 @@ nav: true
 # Why good data manangement practice?
 ![Image representing verify protect share](https://github.com/GULibrarySandbox/RDM_practice_space/blob/7c59c3f8f9e7a3ceab6601f40f2f7bcc8b4a9192/images/2022-06-Data_Verify_Protect_Share.jpg)
 
-Managing the data that you use and generate from your reserach is integral to good research practice. When done well, research data management facilitates:
+Managing the data that you use and generate from your research is integral to good research practice. When done well, research data management facilitates:
 
  - Reliable **verification** of results
  - **Protection** of the intellectual and financial investment made in the creation of your data
