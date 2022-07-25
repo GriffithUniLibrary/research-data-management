@@ -31,8 +31,7 @@ Research Integrity and management of research data are critical elements of your
     Infrastructure provisioning for non-research based or personal websites.
     Support for research storage options managed by other organisational units at Griffith.
     Internal Network-Attached Storage (NAS) that is available to Staff (G Drive) and Students (H Drive).
-  
- </end details> 
+   </end details> 
 
 
 
