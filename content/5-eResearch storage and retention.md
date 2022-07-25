@@ -9,19 +9,15 @@ nav: true
 Well, you asked for it!
 </details>
 
+  
+## eResearch services
+  
+- Consult on IT needs for grants,  Discuss privacy, security and feasibility
+- Investigate possible software options not already offered at Griffith, Collect data through surveys, Learn to analyze using R or Python, Utilize High performance computing, Large data transfers
+- Data Storage​ Version control for your workflow
+- Publishing your open data, analysis and workflows
 
-The `workshop-template-b` [repository](https://github.com/evanwill/workshop-template-b) is a template project--to get started quickly, make a copy and fill in your own content and customizations.
-This [site](https://evanwill.github.io/workshop-template-b/) demonstrates the output on GitHub Pages, and the content pages serve as examples.
 
-{% capture text %}
-1. Click the green "Use this template" button on the [workshop-template-b repository](https://github.com/evanwill/workshop-template-b) to make your own new copy of the code in your account.
-2. Work on the GitHub web interface or clone to your local machine to edit files.
-3. Edit the `_config.yml` with your info.
-4. Edit the content pages in markdown.
-5. Add images to the "images" folder.
-5. Push to GitHub or commit on the web interface.
-6. In your repository's settings, activate GitHub Pages, using main branch.{% endcapture %}
-{% include card.html header="Overview" text=text %}
 
 ## Working Research Storage
 ![image](https://user-images.githubusercontent.com/42364968/173257008-e4827a47-9ec4-41ea-b64d-588dd76cf087.png)
@@ -30,11 +26,7 @@ Griffith University offers various storage services to all researchers and resea
 
 # section to confuse me later
 
-### Basic style customization
 
-- the `custom.scss` in the `assets/css` folder exposes variables that can customize the basic style of website.
-- Give a tiny splash of color on the header and footer borders by tweaking the `$top-border` 
-- `$link-color` colors links
 
 ### Add Optional Analytics
 
