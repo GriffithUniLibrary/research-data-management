@@ -8,7 +8,7 @@ Section 1: Introduction​
 
 Section 2: Responsibilities for Institutions​
 
-Section 3: Responsibilities for Researchers​
+Section 3: Responsibilities for Researchers
 
 Section 4: Breaches
 
@@ -17,16 +17,21 @@ Section 4: Breaches
 
 The [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018) (the Code) articulates the broad principles and responsibilities that underpin the responsible conduct of Australian research. The code contains principles, and responsibilities for both institutions and researchers.
    As a Griffith researcher you also need to know of the Griffith university policies on [responsible research.](https://sharepointpubstor.blob.core.windows.net/policylibrary-prod/The%20Responsible%20Conduct%20of%20Research.pdf) 
-The Code was updated in late 2018, so if you haven’t read it yet (or haven’t engaged with it more recently), I would encourage you to download this and do it now.  It is only 6 pages long and is easy to understand. (plus there is no defence for lack of awareness of the Code).  There are also supporting guidelines that accompany the Code, that deal with functions such as Managing Research Data (which is where I am drawing the majority of the material for this presentation), Authorship, Investigation of Breaches, Conflicts of Interest, and Supervision.  
+The Code was updated in late 2018, so if you haven’t read it yet (or haven’t engaged with it more recently), 
+I would encourage you to download this and do it now.  
+It is only 6 pages long and is easy to understand. (plus there is no defence for lack of awareness of the Code).  
 
-Focusing on this presentation, there are three principles that we are concerned with respect to managing research data and primary materials. These are:
+There are also supporting guidelines that accompany the Code, that deal with functions such as Managing Research Data, Authorship, Investigation of Breaches, Conflicts of Interest, and Supervision.  
 
-```
-- Principle 2: ‘Rigour in the development, undertaking and reporting of research'. 
+ there are three principles that we are concerned with respect to managing research data and primary materials. These are:
+
+- **Principle 2**: ‘Rigour in the development, undertaking and reporting of research'. 
 This requires that research be characterised by attention to detail and robust methodology and that researchers avoid or acknowledge biases.
-- Principle 3: ‘Transparency in declaring interests and reporting research methodology, data and findings’. This requires researchers to share and communicate research methodology, data and findings openly, responsibly and accurately.
-- Principle 7: ‘Accountability for the development, undertaking and reporting of research’. This section is so your reserach complies with relevant legislation, policies and guidelines and ensure good stewardship of public resources used to conduct research.
-```
+- **Principle 3**: ‘Transparency in declaring interests and reporting research methodology, data and findings’. 
+This requires researchers to share and communicate research methodology, data and findings openly, responsibly and accurately.
+- **Principle 7**: ‘Accountability for the development, undertaking and reporting of research’. 
+This section is so your reserach complies with relevant legislation, policies and guidelines and ensure good stewardship of public resources used to conduct research.
+
 
 The Code and the guide apply to all research conducted under the auspices of Australian institutions. Whilst Griffith University will also have specific institutional policies and processes capable of fulfilling the aim of this guide there are appropriate options for flexibility in the application of this content.
 
@@ -37,18 +42,18 @@ Developing and implementing policies
 Provision of training for researchers
 Provision of facilities for the safe and secure storage and management of data and primary materials
 Provision of guidance for managing research data and primary materials around:
-1.	Ownership, stewardship and control
-2.	Storage, retention, and disposal
-3.	Safety, security, and confidentiality
-4.	Access by interested parties
+1. Ownership, stewardship and control
+2. Storage, retention, and disposal
+3. Safety, security, and confidentiality
+4. Access by interested parties
 	
 
 ## Section 3: Responsibilities for Researchers
 
 Generally, your responsibilities as a researcher are to:
+- Adhere to Griffith University policies related to the management of data and information, relevant laws, regulations and guidelines, and research discipline-specific practices and standards.
+- Be clear about what your responsibilities are up front.
 
-Adhere to Griffith University policies related to the management of data and information, relevant laws, regulations and guidelines, and research discipline-specific practices and standards.
-Be clear about what your responsibilities are up front.
 We are going to focus on:
 Retention and publication, and
 Managing confidential and other sensitive information
@@ -59,8 +64,9 @@ We can’t talk about responsible conduct of research, without mentioning where 
 
 With regard to managing our research data and primary material, here is a list of common breaches that we may see in the Research Integrity Office.
 
-Whilst it may seem like a hassle to plan, revise your plan, version control, retain your data securely, and keep your promises, it will be an even bigger hassle if you are the subject of a breach investigation.  These aren’t nice, and can result in your not being able to use data that you have collected or analysed, through to losing your funding, your candidature, or even your position if a serious breach is upheld.
+Whilst it may seem like a hassle to plan, revise your plan, version control, retain your data securely, and keep your promises, it will be an even bigger hassle if you are the subject of a breach investigation.  
 
+These aren’t nice, and can result in your not being able to use data that you have collected or analysed, through to losing your funding, your candidature, or even your position if a serious breach is upheld.
 
 Breaches of the Code that are related to management of data and information in research include, but are not limited to:
 - falsification of research data or primary materials
