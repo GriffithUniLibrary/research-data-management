@@ -3,7 +3,6 @@ title: Introduction to Research data management
 nav: true
 ---
 
-# Research data management
 Research data management (RDM) is the process and coverall term for organising, managing and saving your research data. 
 
 Research data takes on many different formats and media types. It is a lot more than your survey results or interviews.  Your research data can be your library serach strings, notes from a text, annotations from text and on and on. We need to keep and organise this data as this helps your build and direct your research. 
