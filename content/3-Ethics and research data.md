@@ -3,10 +3,9 @@ title: Ethics and research data
 nav: true
 ---
 
-# Ethics and Research data
-Section 1: Introduction​
+Section 1: Introduction
 
-Section 2: Responsibilities for Institutions​
+Section 2: Responsibilities for Institutions
 
 Section 3: Responsibilities for Researchers
 
