@@ -81,6 +81,8 @@ the procedure described in the Research Integrity Breach Investigation. This is 
 implementation of the Guide to Managing and Investigating Potential Breaches of the Australian Code
 for the Responsible Conduct of Research, 2018, modified for conformity to the University’s Enterprise
 Bargaining Agreements
+
+[full code is available here](https://sharepointpubstor.blob.core.windows.net/policylibrary-prod/The%20Responsible%20Conduct%20of%20Research.pdf?_gl=1*16nhpcm*_ga*MTUwMzk1OTUwOC4xNjUzOTUxMjM1*_ga_5GKYJEBSN9*MTY1ODgwNDk0OC41MC4xLjE2NTg4MDUwMTUuMA..)
 ```
 
 We can’t talk about responsible conduct of research, without mentioning where we sometimes slip up.
