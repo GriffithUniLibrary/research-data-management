@@ -23,10 +23,6 @@ The [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.
 - The 2018 Code outlines the expectations for the conduct of research in Australia or research conducted under the auspices of Australian institutions.
 - The 2018 Code specifies various responsibilities for researchers and institutions, some of which refer to responsible data management
 
-- **Principle 2**: ‘Rigour in the development, undertaking and reporting of research'. 
-This requires that research be characterised by attention to detail and robust methodology and that researchers avoid or acknowledge biases.
-- **Principle 3**: ‘Transparency in declaring interests and reporting research methodology, data and findings’. 
-This requires researchers to share and communicate research methodology, data and findings openly, responsibly and accurately.
 - **Principle 7**: ‘Accountability for the development, undertaking and reporting of research’. 
 This section is so your reserach complies with relevant legislation, policies and guidelines and ensure good stewardship of public resources used to conduct research.
 
@@ -35,6 +31,9 @@ The Code and the guide apply to all research conducted under the auspices of Aus
 
 
 ## Section 2: Responsibilities for institutions
+
+Responsible management of research data is listed as Institutional Responsibility #8 in the 2018 Code.  As such, Griffith University must: ​
+“Provide access to facilities for the safe and secure storage and management of research data, records and primary materials and, where possible and appropriate, allow access and reference.”
 
 Developing and implementing policies
 Provision of training for researchers
@@ -48,13 +47,31 @@ Provision of guidance for managing research data and primary materials around:
 
 ## Section 3: Responsibilities for Researchers
 
+Researcher Responsibility (R22) of the 2018 Code directs that researchers must:​
+
+“Retain clear, accurate, secure and complete records of all research including research data and primary materials.          Where possible and appropriate, allow access and reference to these by interested parties (R22, The 2018 Code).”
+
 Generally, your responsibilities as a researcher are to:
 - Adhere to Griffith University policies related to the management of data and information, relevant laws, regulations and guidelines, and research discipline-specific practices and standards.
 - Be clear about what your responsibilities are up front.
 
-We are going to focus on:
-Retention and publication, and
-Managing confidential and other sensitive information
+Responsible data management applies to most stages of a research project, from the start of data collection to after the project is complete:
+- data collection
+- data storage
+- transferring of data to research collaborators
+- sharing of data with other researchers
+- retention of data for future use
+- storage of data in open-access repositories
+- deletion and destruction of data
+
+To complete the data management sections of your ethics appliction you need to know
+Q1: How will data be collected securely?
+Q2: How will it be stored securely and for how long?
+Q3: How will data be shared securely?
+Q4: How will data be destroyed securely?
+
+GU eResearch Services can help answer these Qs
+
 
 ## Section 4: Breaches
 
