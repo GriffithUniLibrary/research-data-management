@@ -22,9 +22,10 @@ The Code was updated in late 2018, so if you haven’t read it yet (or haven’t
 Focusing on this presentation, there are three principles that we are concerned with respect to managing research data and primary materials. These are:
 
 ```
-**Principle 2**: ‘Rigour in the development, undertaking and reporting of research’, which requires that research be characterised by attention to detail and robust methodology and that researchers avoid or acknowledge biases.
-**Principle 3**: ‘Transparency in declaring interests and reporting research methodology, data and findings’, which requires researchers to share and communicate research methodology, data and findings openly, responsibly and accurately.
-**Principle 7**: ‘Accountability for the development, undertaking and reporting of research’ so as to comply with relevant legislation, policies and guidelines and ensure good stewardship of public resources used to conduct research.
+- Principle 2: ‘Rigour in the development, undertaking and reporting of research'. 
+This requires that research be characterised by attention to detail and robust methodology and that researchers avoid or acknowledge biases.
+- Principle 3: ‘Transparency in declaring interests and reporting research methodology, data and findings’. This requires researchers to share and communicate research methodology, data and findings openly, responsibly and accurately.
+- Principle 7: ‘Accountability for the development, undertaking and reporting of research’. This section is so your reserach complies with relevant legislation, policies and guidelines and ensure good stewardship of public resources used to conduct research.
 ```
 
 The Code and the guide apply to all research conducted under the auspices of Australian institutions. Whilst Griffith University will also have specific institutional policies and processes capable of fulfilling the aim of this guide there are appropriate options for flexibility in the application of this content.
@@ -71,7 +72,3 @@ Breaches of the Code that are related to management of data and information in r
 - failure to apply appropriate security controls to research data or primary materials
 - failure to obtain necessary approvals or acting inconsistently with a condition of any approval granted in relation to the management of research data or primary materials.
 
-
-
-
--
