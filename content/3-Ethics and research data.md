@@ -42,7 +42,7 @@ Provision of guidance for managing research data and primary materials around:
 4.	Access by interested parties
 	
 
-## Section 3: Responsibilities for Researchers​
+## Section 3: Responsibilities for Researchers
 
 Generally, your responsibilities as a researcher are to:
 
@@ -51,9 +51,6 @@ Be clear about what your responsibilities are up front.
 We are going to focus on:
 Retention and publication, and
 Managing confidential and other sensitive information
-
-![image](https://user-images.githubusercontent.com/42364968/169923393-bf841de6-3016-4691-97ce-0c84702f42b4.png)
-
 
 ## Section 4: Breaches
 
