@@ -34,6 +34,15 @@ Sensitive data can often be deidentified and then published with a Creative Comm
 
 
 # Using existing data
+Prior to reusing a data set look over the following checklist;
+- Does the dataset have a licence?  
+- Find the publishers “Terms and Conditions” or policies?
+- What are you using the data for?
+- look for permissions or licences required? 
+- Are you text or data mining?
+- Are you Mixing datasets with different licences?
+
+
 ### Reusing datasets
 Being able to reuse datasets created by others will depend whether the licence on the dataset matches your intended use.  For example, you may be permitted to use a dataset for your private individual research, but not permitted to mix this dataset with another dataset for publication purposes (without written permission from the copyright owner).
 
