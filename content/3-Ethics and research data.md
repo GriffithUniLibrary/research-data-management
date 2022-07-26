@@ -74,14 +74,19 @@ GU eResearch Services can help answer these Qs
 
 
 ## Section 4: Breaches
+```
+BREACHES OF THE AUSTRALIAN CODE 2018
+Any alleged breach of the Australian Code 2018/research integrity complaint will be considered as per
+the procedure described in the Research Integrity Breach Investigation. This is Griffith University’s
+implementation of the Guide to Managing and Investigating Potential Breaches of the Australian Code
+for the Responsible Conduct of Research, 2018, modified for conformity to the University’s Enterprise
+Bargaining Agreements
+```
 
 We can’t talk about responsible conduct of research, without mentioning where we sometimes slip up.
 
-With regard to managing our research data and primary material, here is a list of common breaches that we may see in the Research Integrity Office.
-
-Whilst it may seem like a hassle to plan, revise your plan, version control, retain your data securely, and keep your promises, it will be an even bigger hassle if you are the subject of a breach investigation.  
-
-These aren’t nice, and can result in your not being able to use data that you have collected or analysed, through to losing your funding, your candidature, or even your position if a serious breach is upheld.
+With regard to managing our research data and primary material, below is a list of common breaches that we may see in the Research Integrity Office.
+Whilst it may seem like a hassle to plan, revise your plan, version control, retain your data securely, and keep your promises, it will be an even bigger hassle if you are the subject of a breach investigation. Breaches are not pleasant, and can result in your not being able to use data that you have collected or analysed, through to losing your funding, your candidature, or even your position if a serious breach is upheld.
 
 Breaches of the Code that are related to management of data and information in research include, but are not limited to:
 - falsification of research data or primary materials
