@@ -21,13 +21,10 @@ The Code was updated in late 2018, so if you haven’t read it yet (or haven’t
 
 Focusing on this presentation, there are three principles that we are concerned with respect to managing research data and primary materials. These are:
 
-
 ```
-{% capture text %}
 • Principle 2, ‘Rigour in the development, undertaking and reporting of research’, which requires that research be characterised by attention to detail and robust methodology and that researchers avoid or acknowledge biases.
 • Principle 3, ‘Transparency in declaring interests and reporting research methodology, data and findings’, which requires researchers to share and communicate research methodology, data and findings openly, responsibly and accurately.
 • Principle 7, ‘Accountability for the development, undertaking and reporting of research’ so as to comply with relevant legislation, policies and guidelines and ensure good stewardship of public resources used to conduct research.
-{% endcapture %}
 {% include card.html text=text header="Example Card" title="Title example" img="uidaho-workshop.jpg" %}
 ```
 
@@ -52,9 +49,7 @@ Generally, your responsibilities as a researcher are to:
 
 Adhere to Griffith University policies related to the management of data and information, relevant laws, regulations and guidelines, and research discipline-specific practices and standards.
 Be clear about what your responsibilities are up front.
-
  In this part of the presentation, we are going to focus on:
-
 Retention and publication, and
 Managing confidential and other sensitive information
 
@@ -70,8 +65,6 @@ With regard to managing our research data and primary material, here is a list o
 Whilst it may seem like a hassle to plan, revise your plan, version control, retain your data securely, and keep your promises, it will be an even bigger hassle if you are the subject of a breach investigation.  These aren’t nice, and can result in your not being able to use data that you have collected or analysed, through to losing your funding, your candidature, or even your position if a serious breach is upheld.
 
 
-
-{% capture text %}
 Breaches of the Code that are related to management of data and information in research include, but are not limited to:
 - falsification of research data or primary materials
 - fabrication of research data or primary materials
@@ -81,43 +74,8 @@ Breaches of the Code that are related to management of data and information in r
 - selective retention of research data or primary materials so as to hinder the verifiability of a research output or access request
 - failure to apply appropriate security controls to research data or primary materials
 - failure to obtain necessary approvals or acting inconsistently with a condition of any approval granted in relation to the management of research data or primary materials.
-{% endcapture %}
-{% include card.html text=text header="code breaches" title="example breaches" img="uidaho-workshop.jpg" %}
 
 
 
----------
 
-## Cards
-
-{% raw %}
-{% capture text %}
-1. Can add more complex text using markdown.
-2. Use a Liquid capture to create the text.
-3. It magically becomes a [Bootstrap Card](https://getbootstrap.com/docs/4.1/components/card/).
-{% endcapture %}
-{% include card.html text=text header="Example Card" title="Title example" img="uidaho-workshop.jpg" %}{% endraw %}
-```
-
-{% capture text %}
-1. Can add more complex text using markdown.
-2. Use a Liquid capture to create the text.
-3. It magically becomes a [Bootstrap Card](https://getbootstrap.com/docs/4.1/components/card/).
-{% endcapture %}
-{% include card.html text=text header="Example Card" title="Title example" img="uidaho-workshop.jpg" %}
-
-------------
-
-### Modal 
-
-`{% raw %}{% include modal.html button="Try Me" color="success" title="Example Modal" text="This is a modal, with little text." %}{% endraw %}`
-
-{% include modal.html button="Try Me" color="success" title="Example Modal" text="This is a modal, with little text." %}
-
--------------
-
-#### YouTube embed
-
-`{% raw %}{% include video-embed.html youtubeid="moJgWrD6dwg" caption="Example video" %}{% endraw %}`
-
-{% include video-embed.html youtubeid="moJgWrD6dwg" caption="Example video" %}
+-
