@@ -24,7 +24,7 @@ eResearch data management and storage solutions inlcude:
     
 - Griffith Research Online (GRO) Research data collection - this repository makes research data collections accessible and searchable via a web interface. Current submissions are restricted to approval from the Library. Please see the Collection Statement for more information.
 - QRISCloud - virtual machines for research use (such as compute-intensive analysis) and provides high-volume data storage capacity for research data
-- TerraNova - an interactive website and data repository that allows adaptation researchers to discover, store, communicate and utilise climate change adaptation data, information and tools
+
 - Microscopy Portal - analyse, visualise and store your microscopy images and easily create and customise algorithms to compare multiple samples, plates or batches
 ```
 Please note, our services do not include: 
