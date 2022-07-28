@@ -18,8 +18,8 @@ Managing the data that you use and generate from your research is integral to go
  - **Protection** of the intellectual and financial investment made in the creation of your data
  - **Sharing** if possible and potentially generating new and innovative research 
 
- 
- ###### Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](https://unsplash.com/es/@towfiqu999999) and [AbsolutVision](https://unsplash.com/@freegraphictoday) on [Unsplash](https://unsplash.com/)
+
+Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](https://unsplash.com/es/@towfiqu999999) and [AbsolutVision](https://unsplash.com/@freegraphictoday) on [Unsplash](https://unsplash.com/)
 
 ## Data Planning and The Research Data Lifecycle 
 <p align="center">
