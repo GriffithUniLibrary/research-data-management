@@ -68,7 +68,8 @@ This looks like...
 
 Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
  
- ## Data formats, files names and folder structures
+
+## Data formats, files names and folder structures
 
 ### Different formats research data may take 
 
