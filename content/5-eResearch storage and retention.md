@@ -1,5 +1,5 @@
 ---
-title: eResearch storage and retention
+title: Storage and retention
 nav: true
 ---
  
