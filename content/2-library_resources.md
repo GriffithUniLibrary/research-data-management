@@ -27,18 +27,20 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
 </p>
  
  **Planning Research**
-Design research | Plan data management | Plan for consent sharing | Plan for data collecting, processing protocols and templates | Explore existing data sources
 
-  ##### This looks like... 
+ Design research | Plan data management | Plan for consent sharing | Plan for data collecting, processing protocols and templates | Explore existing data sources
+
+  This looks like... 
 - Description, copyright matters, data owner and joint collaborators, start and finish dates. 
 - Human participants? What is the correct consent to ask? 
 - Do you want to re-use the data created from this project for future projects?
 - Good planning takes into account legal and ethical implications and facilitates future-proofing your research data.
 
  **Data Collection** 
- Collect data | Capture data with metadata | Aquire third party data
+ 
+  Collect data | Capture data with metadata | Aquire third party data
 
-##### This looks like...
+This looks like...
  - Tools and software you will use during your project
  - File formats - what is the best one to use?
  - File name conventions and folder structures, using a README file.
@@ -46,21 +48,25 @@ Design research | Plan data management | Plan for consent sharing | Plan for dat
  - Offers protection against loss, theft or misuse and facilitates data preservation
  
  **Processing and analysing data**
-Enter, digitize, transcribe and translate data | Check, validate, clean, anonymize | Derive data | Analyse and interpet data | Produce research outputs | Cite data sources
+
+ Enter, digitize, transcribe and translate data | Check, validate, clean, anonymize | Derive data | Analyse and interpet data | Produce research outputs | Cite data sources
 
  **Publishing and Sharing Data**
-Establish copyright and licences | Create user documentation | Create discovery metadata | Select appropriate access to data | Publish / share data | Promote data | Attach permanent identifiers to your research data
+
+ Establish copyright and licences | Create user documentation | Create discovery metadata | Select appropriate access to data | Publish / share data | Promote data | Attach permanent identifiers to your research data
  
- ##### This looks like...
+ This looks like...
 - Many funding agencies and publishers will require a copy of your data is made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
  
  **Preserving Data**
->Migrate to best format / media | Store and back up data | Create preservation documentation | Preserve and curate data
+
+ Migrate to best format / media | Store and back up data | Create preservation documentation | Preserve and curate data
 
 **Re-Using Data**
->Conduct secondary analysis | Undertake follw-up research | Conduct research reviews | Scrutinize findings | Use data for teaching and learning
 
-###### Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
+ Conduct secondary analysis | Undertake follw-up research | Conduct research reviews | Scrutinize findings | Use data for teaching and learning
+
+Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
  
  ## Data formats, files names and folder structures
 
