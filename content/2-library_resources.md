@@ -2,10 +2,10 @@
 title: Library resources
 nav: true
 ---
----
-This section will assist you with data managment plan sections: **Data collection-Creation** and **Data Organisation**
-Data management planning templates are available [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or from out library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan)
----
+```
+This section will assist you with data managment plan sections ???? 
+Data management planning templates are available [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or from out library datamanagement page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan)
+```
 
 ## Why good data manangement practice?
 
@@ -102,7 +102,6 @@ A File Naming Convention (FNC) is a protocol that enables you to systematically 
   - YYYYMMDD = **Date in standardised, agreed format**   
   - SiteA = **Location**  
   - Sensor B = **Sensor** 
-  
   - File name sections or chunks are separated by an **underscore**
  
  When applied, the FNC would look like this:
@@ -116,5 +115,5 @@ It can also help if you are sharing files with colleagues and having a standard 
 - Follow a naming convention
 - Pre-fix folder names with numbers so the files can be ordered by the steps in your workflow
 - Good practice is to document your folder strucutre for future reference to a "README" file
-![image showing folder structure with README file and number to force folder order to workflow steps](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-Folder_Structure.jpg)
 
+{% include figure.html img="2022-06-Folder_Structure.jpg" alt="Image showing folder structure with README file and number to force folder order to workflow steps" caption="Image showing folder structure with README file and number to force folder order to workflow steps" width="100%" %}
