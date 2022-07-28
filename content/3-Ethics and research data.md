@@ -12,8 +12,6 @@ Section 3: Responsibilities for Researchers
 Section 4: Breaches
 
 
-https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018
-
 ## Introduction
 
 The [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018) (the Code) articulates the broad principles and responsibilities that underpin the responsible conduct of Australian research. The code contains principles, and responsibilities for both institutions and researchers.
@@ -23,8 +21,7 @@ The [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.
 - The 2018 Code outlines the expectations for the conduct of research in Australia or research conducted under the auspices of Australian institutions.
 - The 2018 Code specifies various responsibilities for researchers and institutions, some of which refer to responsible data management
 
-- **Principle 7**: ‘Accountability for the development, undertaking and reporting of research’. 
-This section is so your reserach complies with relevant legislation, policies and guidelines and ensure good stewardship of public resources used to conduct research.
+
 
 
 The Code and the guide apply to all research conducted under the auspices of Australian institutions. Whilst Griffith University will also have specific institutional policies and processes capable of fulfilling the aim of this guide there are appropriate options for flexibility in the application of this content.
@@ -49,7 +46,7 @@ Provision of guidance for managing research data and primary materials around:
 
 Researcher Responsibility (R22) of the 2018 Code directs that researchers must:​
 
-“Retain clear, accurate, secure and complete records of all research including research data and primary materials.          Where possible and appropriate, allow access and reference to these by interested parties (R22, The 2018 Code).”
+“Retain clear, accurate, secure and complete records of all research including research data and primary materials. Where possible and appropriate, allow access and reference to these by interested parties (R22, The 2018 Code).”
 
 Generally, your responsibilities as a researcher are to:
 - Adhere to Griffith University policies related to the management of data and information, relevant laws, regulations and guidelines, and research discipline-specific practices and standards.
