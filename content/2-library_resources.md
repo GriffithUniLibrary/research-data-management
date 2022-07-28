@@ -70,6 +70,7 @@ Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learnin
  
 
 ## Data formats, files names and folder structures
+{% include figure.html img="2022-files-formats-folders.jpg" alt="File and folder images" caption="File and folder images" width="100%" %}
 
 ### Different formats research data may take 
 
