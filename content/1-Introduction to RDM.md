@@ -1,5 +1,5 @@
 ---
-title: Introduction to Research data management
+title: Introduction 
 nav: true
 ---
 
