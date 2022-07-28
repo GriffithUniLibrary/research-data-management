@@ -2,7 +2,7 @@
 title: Library resources
 nav: true
 ---
-# Why good data manangement practice?
+## Why good data manangement practice?
 
 {% include figure.html img="2022-06-Data_Verify_Protect_Share.jpg" alt="Image representing verify protect share" caption="Image representing verify protect share" width="100%" %}
 
@@ -12,9 +12,10 @@ Managing the data that you use and generate from your research is integral to go
  - Reliable **verification** of results
  - **Protection** of the intellectual and financial investment made in the creation of your data
  - **Sharing** if possible and potentially generating new and innovative research 
-###### Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](https://unsplash.com/es/@towfiqu999999) and [AbsolutVision](https://unsplash.com/@freegraphictoday) on [Unsplash](https://unsplash.com/)
 
-# ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06-Loop.jpg) Data Planning and The Research Data Lifecycle 
+ ###### Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](https://unsplash.com/es/@towfiqu999999) and [AbsolutVision](https://unsplash.com/@freegraphictoday) on [Unsplash](https://unsplash.com/)
+
+## Data Planning and The Research Data Lifecycle 
 <p align="center">
   <img width="474" height="408" src="https://github.com/GriffithUniLibrary/research-data-management/blob/main/images/2022-07-ResDataLifeCycle.jpg">
 </p>
@@ -51,7 +52,8 @@ Managing the data that you use and generate from your research is integral to go
 >Conduct secondary analysis | Undertake follw-up research | Conduct research reviews | Scrutinize findings | Use data for teaching and learning
 
 ###### Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
- # ![Small icon image of document and folder](https://github.com/GULibrarySandbox/RDM_practice_space/blob/main/images/2022-06_files-folders.jpg) Data formats, files names and folder structures
+ 
+ ## Data formats, files names and folder structures
 
 ### Different formats research data may take 
 
