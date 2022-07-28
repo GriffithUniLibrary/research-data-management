@@ -71,17 +71,6 @@ GU eResearch Services can help answer these Qs
 
 
 ## Section 4: Breaches
-```
-BREACHES OF THE AUSTRALIAN CODE 2018
-Any alleged breach of the Australian Code 2018/research integrity complaint will be considered as per
-the procedure described in the Research Integrity Breach Investigation. This is Griffith University’s
-implementation of the Guide to Managing and Investigating Potential Breaches of the Australian Code
-for the Responsible Conduct of Research, 2018, modified for conformity to the University’s Enterprise
-Bargaining Agreements
-```
-The Griffith University Responsible Conduct of Research policy is available [here](https://sharepointpubstor.blob.core.windows.net/policylibrary-prod/The%20Responsible%20Conduct%20of%20Research.pdf?_gl=1*16nhpcm*_ga*MTUwMzk1OTUwOC4xNjUzOTUxMjM1*_ga_5GKYJEBSN9*MTY1ODgwNDk0OC41MC4xLjE2NTg4MDUwMTUuMA.)
-
-
 We can’t talk about responsible conduct of research, without mentioning where we sometimes slip up.
 
 With regard to managing our research data and primary material, below is a list of common breaches that we may see in the Research Integrity Office.
@@ -97,3 +86,12 @@ Breaches of the Code that are related to management of data and information in r
 - failure to apply appropriate security controls to research data or primary materials
 - failure to obtain necessary approvals or acting inconsistently with a condition of any approval granted in relation to the management of research data or primary materials.
 
+```
+BREACHES OF THE AUSTRALIAN CODE 2018
+Any alleged breach of the Australian Code 2018/research integrity complaint will be considered as per
+the procedure described in the Research Integrity Breach Investigation. This is Griffith University’s
+implementation of the Guide to Managing and Investigating Potential Breaches of the Australian Code
+for the Responsible Conduct of Research, 2018, modified for conformity to the University’s Enterprise
+Bargaining Agreements
+```
+The Griffith University Responsible Conduct of Research policy is available [here](https://sharepointpubstor.blob.core.windows.net/policylibrary-prod/The%20Responsible%20Conduct%20of%20Research.pdf?_gl=1*16nhpcm*_ga*MTUwMzk1OTUwOC4xNjUzOTUxMjM1*_ga_5GKYJEBSN9*MTY1ODgwNDk0OC41MC4xLjE2NTg4MDUwMTUuMA.)
