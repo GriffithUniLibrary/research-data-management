@@ -4,8 +4,8 @@ nav: true
 ---
 
 ---
-This section will assist you with data managment planning template sections ???? 
-Data management planning templates are available [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or from out library datamanagement page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan)
+This section will assist you with data managment planning template sections: **Data collection-creation** and **Data post project** 
+Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan), the plans are linked at the base of the page. 
 ---
 
 This page has been adapted from the Griffith University Copyright [research data](https://www.griffith.edu.au/copyright-matters/hdr-candidates/research-data) pages. 
