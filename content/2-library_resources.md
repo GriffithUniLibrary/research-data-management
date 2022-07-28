@@ -28,7 +28,7 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
  
  **Planning Research**
 
- Design research - Plan data management - Plan for consent sharing - Plan for data collecting, processing protocols and templates - Explore existing data sources**
+ > Design research - Plan data management - Plan for consent sharing - Plan for data collecting, processing protocols and templates - Explore existing data sources**
 
   This looks like... 
 - Description, copyright matters, data owner and joint collaborators, start and finish dates. 
