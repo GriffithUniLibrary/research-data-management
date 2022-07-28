@@ -18,6 +18,7 @@ Managing the data that you use and generate from your research is integral to go
  - **Protection** of the intellectual and financial investment made in the creation of your data
  - **Sharing** if possible and potentially generating new and innovative research 
 
+ 
  ###### Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](https://unsplash.com/es/@towfiqu999999) and [AbsolutVision](https://unsplash.com/@freegraphictoday) on [Unsplash](https://unsplash.com/)
 
 ## Data Planning and The Research Data Lifecycle 
@@ -26,7 +27,8 @@ Managing the data that you use and generate from your research is integral to go
 </p>
  
  **Planning Research**
->Design research | Plan data management | Plan for consent sharing | Plan for data collecting, processing protocols and templates | Explore existing data sources
+Design research | Plan data management | Plan for consent sharing | Plan for data collecting, processing protocols and templates | Explore existing data sources
+
   ##### This looks like... 
 - Description, copyright matters, data owner and joint collaborators, start and finish dates. 
 - Human participants? What is the correct consent to ask? 
@@ -34,8 +36,9 @@ Managing the data that you use and generate from your research is integral to go
 - Good planning takes into account legal and ethical implications and facilitates future-proofing your research data.
 
  **Data Collection** 
- >Collect data | Capture data with metadata | Aquire third party data
-   ##### This looks like...
+ Collect data | Capture data with metadata | Aquire third party data
+
+##### This looks like...
  - Tools and software you will use during your project
  - File formats - what is the best one to use?
  - File name conventions and folder structures, using a README file.
@@ -43,10 +46,11 @@ Managing the data that you use and generate from your research is integral to go
  - Offers protection against loss, theft or misuse and facilitates data preservation
  
  **Processing and analysing data**
- >Enter, digitize, transcribe and translate data | Check, validate, clean, anonymize | Derive data | Analyse and interpet data | Produce research outputs | Cite data sources
+Enter, digitize, transcribe and translate data | Check, validate, clean, anonymize | Derive data | Analyse and interpet data | Produce research outputs | Cite data sources
 
  **Publishing and Sharing Data**
- >Establish copyright and licences | Create user documentation | Create discovery metadata | Select appropriate access to data | Publish / share data | Promote data | Attach permanent identifiers to your research data
+Establish copyright and licences | Create user documentation | Create discovery metadata | Select appropriate access to data | Publish / share data | Promote data | Attach permanent identifiers to your research data
+ 
  ##### This looks like...
 - Many funding agencies and publishers will require a copy of your data is made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
  
