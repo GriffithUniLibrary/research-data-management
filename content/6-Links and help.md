@@ -8,4 +8,5 @@ Data management planning templates are available [here](https://www.griffith.edu
 
 Here you will find useful links to assist with your data managment planning and data management through out your project.
 
-find research help here
+- Find liinks for library research help [here](https://www.griffith.edu.au/library/contact)
+- [Considerations for Sharing research data](https://sway.office.com/wFPGt0xXui0XMOrh) For anyone wanting to share their data at any stage of their candidature.
