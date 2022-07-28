@@ -26,9 +26,9 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
  {% include figure.html img="2022-07-ResDataLifeCycle.jpg" alt="Image showing the Research Data Lifecycle" caption="Image representing verify protect share" width="100%" %}
  
  
- **Planning Research**
+ ***Planning Research**
 
- _Design research - Plan data management - Plan for consent sharing - Plan for data collecting, processing protocols and templates - Explore existing data sources
+ **Design research - Plan data management - Plan for consent sharing - Plan for data collecting, processing protocols and templates - Explore existing data sources**
 
   This looks like... 
 - Description, copyright matters, data owner and joint collaborators, start and finish dates. 
