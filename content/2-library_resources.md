@@ -23,7 +23,7 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
 
 ## Data Planning and The Research Data Lifecycle 
 
- {% include figure.html img="2022-07-ResDataLifeCycle.jpg" alt="Image showing the Research Data Lifecycle" caption="Image showing the research data lifecycle" width="100%" %}
+ {% include figure.html img="2022-07-ResDataLifeCycle.jpg" alt="Image showing the Research Data Lifecycle" caption="Image showing the research data lifecycle" width="90%" %}
  
  
  **Planning Research**
