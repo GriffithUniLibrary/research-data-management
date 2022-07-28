@@ -26,9 +26,9 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
  {% include figure.html img="2022-07-ResDataLifeCycle.jpg" alt="Image showing the Research Data Lifecycle" caption="Image representing verify protect share" width="100%" %}
  
  
- ***Planning Research**
+ **Planning Research**
 
- **Design research - Plan data management - Plan for consent sharing - Plan for data collecting, processing protocols and templates - Explore existing data sources**
+ Design research - Plan data management - Plan for consent sharing - Plan for data collecting, processing protocols and templates - Explore existing data sources**
 
   This looks like... 
 - Description, copyright matters, data owner and joint collaborators, start and finish dates. 
@@ -38,7 +38,7 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
 
  **Data Collection** 
  
-  Collect data  Capture data with metadata  Aquire third party data
+  Collect data - Capture data with metadata - Aquire third party data
 
 This looks like...
  - Tools and software you will use during your project
@@ -49,22 +49,22 @@ This looks like...
  
  **Processing and analysing data**
 
- Enter, digitize, transcribe and translate data  Check, validate, clean, anonymize  Derive data  Analyse and interpet data  Produce research outputs  Cite data sources
+ Enter, digitize, transcribe and translate data - Check, validate, clean, anonymize - Derive data - Analyse and interpet data - Produce research outputs - Cite data sources
 
  **Publishing and Sharing Data**
 
- Establish copyright and licences  Create user documentation  Create discovery metadata  Select appropriate access to data  Publish / share data  Promote data  Attach permanent identifiers to your research data
+ Establish copyright and licences - Create user documentation - Create discovery metadata - Select appropriate access to data - Publish / share data - Promote data  - Attach permanent identifiers to your research data
  
  This looks like...
 - Many funding agencies and publishers will require a copy of your data is made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
  
  **Preserving Data**
 
- Migrate to best format / media  Store and back up data  Create preservation documentation  Preserve and curate data
+ Migrate to best format or media - Store and back up data - Create preservation documentation -  Preserve and curate data
 
 **Re-Using Data**
 
- Conduct secondary analysis  Undertake follw-up research  Conduct research reviews  Scrutinize findings  Use data for teaching and learning
+ Conduct secondary analysis - Undertake follw-up research - Conduct research reviews - Scrutinize findings - Use data for teaching and learning
 
 Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
  
