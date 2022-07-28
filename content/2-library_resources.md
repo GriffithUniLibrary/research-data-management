@@ -85,8 +85,10 @@ Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learnin
 - Questionnaires, transcripts, surveys
 - Sensor readings
 - Spatial or Geospatial: data related to a location
+
 ### File naming conventions
->A File Naming Convention (FNC) is a protocol that enables you to systematically name your files in a way that describes what files contain and importantly, how they relate to other files. 
+
+A File Naming Convention (FNC) is a protocol that enables you to systematically name your files in a way that describes what files contain and importantly, how they relate to other files. 
  
    **Prior to data collection establish an agreed FNC that is documented and shared with all stakeholders**
  
@@ -95,7 +97,7 @@ Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learnin
 
  An example file naming convention:
 
-  #### YYYYMMDD_SiteA_SensorB.csv
+#### YYYYMMDD_SiteA_SensorB.csv
  
   - YYYYMMDD = **Date in standardised, agreed format**   
   - SiteA = **Location**  
@@ -105,7 +107,7 @@ Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learnin
  
  When applied, the FNC would look like this:
  
-  #### 20210621_Southport_Humidity.csv
+ #### 20210621_Southport_Humidity.csv
 ![image showing file name convention and example](https://github.com/GriffithUniLibrary/research-data-management/blob/main/images/2022-06-file-name-image.jpg)
 ### Folder structure
 >Having a standard folder structure can keep your files neat and tidy and save you time looking for data. 
