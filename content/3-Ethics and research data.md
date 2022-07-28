@@ -1,5 +1,5 @@
 ---
-title: Ethics and research data
+title: Ethics
 nav: true
 ---
 
