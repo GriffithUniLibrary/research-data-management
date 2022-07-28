@@ -97,7 +97,7 @@ A File Naming Convention (FNC) is a protocol that enables you to systematically 
 
  An example file naming convention:
 
-#### YYYYMMDD_SiteA_SensorB.csv
+### YYYYMMDD_SiteA_SensorB.csv
  
   - YYYYMMDD = **Date in standardised, agreed format**   
   - SiteA = **Location**  
@@ -107,8 +107,9 @@ A File Naming Convention (FNC) is a protocol that enables you to systematically 
  
  When applied, the FNC would look like this:
  
- #### 20210621_Southport_Humidity.csv
-![image showing file name convention and example](https://github.com/GriffithUniLibrary/research-data-management/blob/main/images/2022-06-file-name-image.jpg)
+### 20210621_Southport_Humidity.csv
+
+{% include figure.html img="2022-06-file-name-image.jpg" alt="Image showing file name convention and example" caption="Image showing file name convention and example" width="100%" %}
 ### Folder structure
 >Having a standard folder structure can keep your files neat and tidy and save you time looking for data. 
 It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
