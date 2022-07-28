@@ -6,14 +6,13 @@ Research data management is one area that needs to be at the front of the queue 
 ## What's here
 
 These pages take you through your responsibilities as a researcher, show you how to set up good file and folder naming processes, and how to set up a data management plan. 
+
 The pages cover your research ethics and copyright responsibilities,  as well as provding information about safe storage options and data life-cycle management. 
 
 ### Key Learning Outcomes: 
 
 The use of file and folder naming conventions
-
 Copyright licensing for research data
-
 Ethical considerations with data including; 
 - privacy 
 - data sensitivity
@@ -24,7 +23,6 @@ The Data life-cycle, including;
 - archiving datasets
 - data repositories
 - data retention & data destruction
-
 
 
 
