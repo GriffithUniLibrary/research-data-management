@@ -11,7 +11,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Griffith Library Workshop
+title: Research Data Management
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
@@ -19,7 +19,7 @@ title-icon: fas fa-chalkboard-teacher
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 description: "A workshop companion site presented by Griffith University Library"
-keywords: "workshops, websites, gh-pages, jekyll"
+keywords: "research data management"
 featured-image: "/images/university-drive.jpg"
 # add search box to footer? true/false
 search: true
