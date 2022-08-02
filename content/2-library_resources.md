@@ -58,6 +58,7 @@ This looks like...
  
  This looks like...
 - Many funding agencies and publishers will require a copy of your data is made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
+{% include figure.html img="2022-08-Data-project-end.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan" width="100%" %}
  
  **Preserving Data**
 
