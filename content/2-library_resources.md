@@ -112,7 +112,7 @@ YYYYMMDD_SiteA_SensorB.csv
  
 20210621_Southport_Humidity.csv
 
-{% include figure.html img="2022-06-file-name-image.jpg" alt="Image showing file name convention and example" caption="Image showing file name convention and example" width="100%" %}
+{% include figure.html img="2022-06-file-name-image.jpg" alt="Image showing file name convention and example" caption="File name convention and example" width="100%" %}
 ### Folder structure
 >Having a standard folder structure can keep your files neat and tidy and save you time looking for data. 
 It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
@@ -120,4 +120,4 @@ It can also help if you are sharing files with colleagues and having a standard 
 - Pre-fix folder names with numbers so the files can be ordered by the steps in your workflow
 - Good practice is to document your folder strucutre for future reference to a "README" file
 
-{% include figure.html img="2022-06-Folder_Structure.jpg" alt="Image showing folder structure with README file and number to force folder order to workflow steps" caption="Image showing folder structure with README file and number to force folder order to workflow steps" width="100%" %}
+{% include figure.html img="2022-06-Folder_Structure.jpg" alt="Image showing folder structure with README file and number to force folder order to workflow steps" caption="Folder structure with README file and number to force folder order to workflow steps" width="100%" %}
