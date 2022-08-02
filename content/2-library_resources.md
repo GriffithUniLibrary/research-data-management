@@ -6,10 +6,12 @@ nav: true
 This section will assist you with data managment plan sections: **Data collection-creation** and **Data organisation.**
 Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan), the plans are linked at the base of the page. 
 ---
-Section 1: Why good data management practice?
-Section 2: Data Planning and the Research Data Lifecycle
-Section 3: Data formats, file names and folder structures
-## Section 1: Why good data manangement practice?
+ Section 1: Why good data management practice?
+ Section 2: Data Planning and the Research Data Lifecycle
+ Section 3: Data formats, file names and folder structures
+
+
+## Why good data manangement practice?
 
 {% include figure.html img="2022-06-Data_Verify_Protect_Share.jpg" alt="Image representing verify protect share" caption="Verify Protect Share" width="100%" %}
 
@@ -23,7 +25,7 @@ Managing the data that you use and generate from your research is integral to go
 
 Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](https://unsplash.com/es/@towfiqu999999) and [AbsolutVision](https://unsplash.com/@freegraphictoday) on [Unsplash](https://unsplash.com/)
 
-## Section 2: Data Planning and The Research Data Lifecycle 
+## Data Planning and The Research Data Lifecycle 
 
  {% include figure.html img="2022-07-ResDataLifeCycle.jpg" alt="Image showing the Research Data Lifecycle" caption="The research data lifecycle" width="100%" %}
  
@@ -73,7 +75,7 @@ This looks like...
 Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
  
 
-## Section 3: Data formats, files names and folder structures
+## Data formats, files names and folder structures
 {% include figure.html img="2022-files-formats-folders.jpg" alt="File and folder images" caption="Formats, files and folders - how will you organise your data?" width="100%" %}
 
 ### Different formats research data may take 
