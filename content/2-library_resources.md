@@ -35,6 +35,7 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
 - Human participants? What is the correct consent to ask? 
 - Do you want to re-use the data created from this project for future projects?
 - Good planning takes into account legal and ethical implications and facilitates future-proofing your research data.
+{% include figure.html img="2022-08-Data-collect-create.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan" width="100%" %}
 
  **Data Collection** 
  
