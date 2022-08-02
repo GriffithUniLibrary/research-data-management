@@ -35,7 +35,7 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
 - Human participants? What is the correct consent to ask? 
 - Do you want to re-use the data created from this project for future projects?
 - Good planning takes into account legal and ethical implications and facilitates future-proofing your research data.
-{% include figure.html img="2022-08-Data-collect-create.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan" width="100%" %}
+{% include figure.html img="2022-08-Data-collect-create.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data collection-creation" width="100%" %}
 
  **Data Collection** 
  
@@ -47,7 +47,7 @@ This looks like...
  - File name conventions and folder structures, using a README file.
  - Encryption, access and premissions, safe file transfers
  - Offers protection against loss, theft or misuse and facilitates data preservation
-{% include figure.html img="2022-08-data-organisation-back-up.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan" width="100%" %}
+{% include figure.html img="2022-08-data-organisation-back-up.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data organisation" width="100%" %}
  **Processing and analysing data**
 
  Enter, digitize, transcribe and translate data - Check, validate, clean, anonymize - Derive data - Analyse and interpet data - Produce research outputs - Cite data sources
@@ -58,7 +58,7 @@ This looks like...
  
  This looks like...
 - Many funding agencies and publishers will require a copy of your data is made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
-{% include figure.html img="2022-08-Data-project-end.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan" width="100%" %}
+{% include figure.html img="2022-08-Data-project-end.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data post project" width="100%" %}
  
  **Preserving Data**
 
