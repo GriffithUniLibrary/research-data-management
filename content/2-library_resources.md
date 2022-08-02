@@ -9,7 +9,7 @@ Data management planning templates are available for download [here](https://www
 
 ## Why good data manangement practice?
 
-{% include figure.html img="2022-06-Data_Verify_Protect_Share.jpg" alt="Image representing verify protect share" caption="Image representing verify protect share" width="100%" %}
+{% include figure.html img="2022-06-Data_Verify_Protect_Share.jpg" alt="Image representing verify protect share" caption="Verify Protect Share" width="100%" %}
 
 
 Managing the data that you use and generate from your research is integral to good research practice. When done well, research data management facilitates:
@@ -23,7 +23,7 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
 
 ## Data Planning and The Research Data Lifecycle 
 
- {% include figure.html img="2022-07-ResDataLifeCycle.jpg" alt="Image showing the Research Data Lifecycle" caption="Image showing the research data lifecycle" width="90%" %}
+ {% include figure.html img="2022-07-ResDataLifeCycle.jpg" alt="Image showing the Research Data Lifecycle" caption="The research data lifecycle" width="100%" %}
  
  
  **Planning Research**
@@ -70,7 +70,7 @@ Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learnin
  
 
 ## Data formats, files names and folder structures
-{% include figure.html img="2022-files-formats-folders.jpg" alt="File and folder images" caption="File and folder images" width="100%" %}
+{% include figure.html img="2022-files-formats-folders.jpg" alt="File and folder images" caption="Formats, files and folders - how will you organise your data?" width="100%" %}
 
 ### Different formats research data may take 
 
