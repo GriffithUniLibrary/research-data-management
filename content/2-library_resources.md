@@ -84,6 +84,7 @@ Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learnin
 
 ## Data formats, files names and folder structures
 {% include figure.html img="2022-files-formats-folders.jpg" alt="File and folder images" caption="Formats, files and folders - how will you organise your data?" width="100%" %}
+Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](https://unsplash.com/@markusspiske) and [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) on [Unsplash](https://unsplash.com/)
 
 ### Different formats research data may take 
 
