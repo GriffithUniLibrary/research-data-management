@@ -65,7 +65,11 @@ This looks like...
 
  **Processing and analysing data**
 
- Enter, digitize, transcribe and translate data - Check, validate, clean, anonymize - Derive data - Analyse and interpet data - Produce research outputs - Cite data sources
+Processing and analysing data in the context of you data management planning is noting how you undertook the processes involved.
+Mechanisms like how your created your dataset, was it a process of digitisation, did the data need transcription or to be translated prior to analysis.  Do you have systems in the place to check the validity of the data,  what if any tools did you use to clean the data and if the data is at all person based how did you anonymize the data for security?  If you have any question around personal data check our guides and [workshops](https://app.secure.griffith.edu.au/events/event/69861?REF=75560D41C47413CD32816D481B2E1812A06971F292927472A5D100000002) for sensitive data use.
+
+When you are in the analysis and interpretation phases of your research, it is very important that you explain and document how any analysis or interpretation was done. This adds authority to the research outputs as they can both be verified and reproduced.  As with any research you must cite sources, including existing datasets and tools or code sets used in the analysis.  
+
 
  **Publishing and Sharing Data**
 
