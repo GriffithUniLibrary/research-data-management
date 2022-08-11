@@ -52,7 +52,7 @@ Planning your research means thinking about your data needs prior to beginning y
 
  **Data Collection** 
  
-  Collect data - Capture data with metadata - Aquire third party data
+ In this section you will describe how you will collect, file and name and generally organise your data. We suggest that you create readme files to describe your naming convention and folder organization systems, and if using existing data how you have adapted these systems for your materials. We cover this in more detail in this lesson. The conventions and associated readme file are known as metadata,  the data that describes data, and will help set up safe storage systems for general use, for sharing or for archiving your data during or after the project. 
 
 This looks like...
  - Tools and software you will use during your project
