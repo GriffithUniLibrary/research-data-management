@@ -72,8 +72,11 @@ When you are in the analysis and interpretation phases of your research, it is v
 
 
  **Publishing and Sharing Data**
+ 
+Prior to publishing or externally sharing your data you need to assign licences for copyright. Check the copyright page of this resource or contact the Griffith university copyright officer for more details. Generally we assign a ??? licence to data you have personally created, however, this may change due to funding, university or project requirements.  
+When publishing data for others to use, you will need to create documentation on how the data is organised and stored as well as metadata tags for the repository to use so that others can find the dataset.   You will also need to decide upon what access you give to future users of your data set. 
+Once you upload your data to a repository your data should be assigned a DOI (digital object identifier). This is a persistent link to the dataset, you can use this link to share the location of the dataset and to promote the use of existing data. If you deposit your data into the and external repository you can link this DOI to the Griffith Research repository (GRO).  
 
- Establish copyright and licences - Create user documentation - Create discovery metadata - Select appropriate access to data - Publish / share data - Promote data  - Attach permanent identifiers to your research data
  
  This looks like...
 - Many funding agencies and publishers will require a copy of your data is made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
