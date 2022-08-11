@@ -61,6 +61,8 @@ This looks like...
  - Encryption, access and premissions, safe file transfers
  - Offers protection against loss, theft or misuse and facilitates data preservation
 {% include figure.html img="2022-08-data-organisation-back-up.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data organisation" width="100%" %}
+
+
  **Processing and analysing data**
 
  Enter, digitize, transcribe and translate data - Check, validate, clean, anonymize - Derive data - Analyse and interpet data - Produce research outputs - Cite data sources
