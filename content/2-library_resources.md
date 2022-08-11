@@ -2,19 +2,21 @@
 title: Library resources
 nav: true
 ---
+
 ---
-This section will assist you with data managment plan sections: **Data collection-creation** and **Data organisation.**
+This section will assist you with data managment planning document sections: **Data collection-creation** and **Data organisation.**
 Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan), the plans are linked at the base of the page. 
 ---
 
 
 
 
- Section 1: Why good data management practice?
 
-Section 2: Data Planning and the Research Data Lifecycle
+- Section 1: Why good data management practice?
 
-Section 3: Data formats, file names and folder structures
+- Section 2: Data Planning and the Research Data Lifecycle
+
+- Section 3: Data formats, file names and folder structures
 
 
 
@@ -39,10 +41,10 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
  
  **Planning Research**
 
- > Design research - Plan data management - Plan for consent sharing - Plan for data collecting, processing protocols and templates - Explore existing data sources
+Planning your research means thinking about your data needs prior to beginning your project. This includes the data management plan for the project as well as plans for consent sharing of data and resources, plans for how you collect the data and an examination of what processing protocols and templates for the data you might use.  If you are new to research or research data planning, have a look at some existing datasets for methods and systems used by others. Existing data sets are found (here)[ https://libraryguides.griffith.edu.au/finddata]
 
-  This looks like... 
-- Description, copyright matters, data owner and joint collaborators, start and finish dates. 
+  In practice, this looks like... 
+- Description of your data, a basic understanding of the copyright issues that may arise, who is the data owner and if have joint collaborators, start and finish dates. 
 - Human participants? What is the correct consent to ask? 
 - Do you want to re-use the data created from this project for future projects?
 - Good planning takes into account legal and ethical implications and facilitates future-proofing your research data.
