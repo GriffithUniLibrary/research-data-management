@@ -82,9 +82,26 @@ Once you upload your data to a repository your data should be assigned a DOI (di
 - Many funding agencies and publishers will require a copy of your data is made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
 {% include figure.html img="2022-08-Data-project-end.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data post project" width="100%" %}
  
- **Preserving Data**
+ **Preserving and Archiving Data sets**
 
- Migrate to best format or media - Store and back up data - Create preservation documentation -  Preserve and curate data
+When organised data to be archived there are a few key areas that all repositories will need to know.  The first element is copyright as there are different permissions required for data and data sets the are collected with external funding, this can effect how and where the data is stored and the access to it.  In most cases this is organised prior to the data being collected but for older data sets will need to be negotiated with the funding bodies, this is done with the assistance of the GU copyright officer. 
+- For research undertaken at Griffith University, Griffith owns the copyright to the data .
+- Where there is shared ownership, you will need permissions to archive and share the data. 
+Before submitting a dataset to an archive make sure you can fill out the following checklist:
+
+|Are there images?|	Who owns the rights to the images?|
+|Are the images of people?|  Do you have ethical clearance for these images?|
+|How was the data collected?|	Observational?
+Computational?
+Long form collection?|
+|Who collected the data?| 	Where multiple parties are involved, we need to get permissions from the other parties to publish the data|
+|Who funded the project?|Important but should not affect the publication |
+|Does the data set involve people?|	If no, no problem, if yes, do you have ethical clearance from the participants to publish|
+|Was any other body involved?| Funding agency, government body, external institution?	|
+|Was the data collected or analysed by more than one body?||
+|Was the project a collaboration with a government body or institution?||
+|What, if any, Licencing arrangements are in place?|	What type of licence do you wish to apply to the data?|
+
 
 **Re-Using Data**
 
