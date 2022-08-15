@@ -93,8 +93,7 @@ Before submitting a dataset to an archive make sure you can fill out the followi
 | ---- | ---- | 
 | Are there images? |	Who owns the rights to the images?|
 | Are the images of people? |  Do you have ethical clearance for these images?|
-| How was the data collected? |	Observational?
-Computational? Long form collection? |
+| How was the data collected? |	- Observational? - Computational? - Long form collection? |
 | Who collected the data? | 	Where multiple parties are involved, we need to get permissions from the other parties to publish the data |
 | Who funded the project? |Important but should not affect the publication |
 | Does the data set involve people? |	If no, no problem, if yes, do you have ethical clearance from the participants to publish|
