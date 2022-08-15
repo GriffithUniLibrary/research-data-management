@@ -84,10 +84,12 @@ Once you upload your data to a repository your data should be assigned a DOI (di
  
  **Preserving and Archiving Data sets**
 
-When organised data to be archived there are a few key areas that all repositories will need to know.  The first element is copyright as there are different permissions required for data and data sets the are collected with external funding, this can effect how and where the data is stored and the access to it.  In most cases this is organised prior to the data being collected but for older data sets will need to be negotiated with the funding bodies, this is done with the assistance of the GU copyright officer. 
+When preparing data to be archived there are a few key areas that all repositories will need to know.  The first element is copyright. There are different copyright permissions required for data and data sets that are collected with external funding, this funding can effect how and where the data is stored and the access to it.  In most cases copyright and access for datasets is organised prior to the data being collected, but for some older data sets these permsissions will need to be negotiated with the funding bodies, these negotiation are undertaken with the assistance of the GU copyright officer. 
 - For research undertaken at Griffith University, Griffith owns the copyright to the data .
 - Where there is shared ownership, you will need permissions to archive and share the data. 
 Before submitting a dataset to an archive make sure you can fill out the following checklist:
+
+**Copyright elements**
 
 | Element | Notes |
 | ---- | ---- | 
@@ -104,8 +106,9 @@ Before submitting a dataset to an archive make sure you can fill out the followi
 {:.table .table-bordered}
 
 
+To submit your data to a repository you will need a much wider range of documentation.  information around how and where the data was collected, if it meets university requriements, if hte data is publishable, who can access the data and if you want to submit the dataset to an Open access data repositoty. 
 
-### To submit your data to a repository you will need documentation around the following elements:
+Most repositories will need information around the following elements:
 
 | Topic/Question | Description/notes | Follow up  |
 | ---- | ---- | ---- |
@@ -123,21 +126,6 @@ Have you used File & folder naming conventions | Is this convention intuitive or
 | OPEN ACCESS?  | Can the data go into an open access repository? do you have a repository in mind? In certain cases GRO will not hold the data. If you wish to archive the data you will need to find an external repository. | Funding permissions may impact where the data can be stored and how it is accessed. |
 | Copyright licencing | find out which licence to use for your Data; For all data reuse purposes licencing is required. More details in the copyright section or contact the Copyright officer for more details. | Griffith copyright |
 {:.table .table-bordered}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
