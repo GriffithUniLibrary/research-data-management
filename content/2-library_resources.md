@@ -103,7 +103,7 @@ Before submitting a dataset to an archive make sure you can fill out the followi
 | What, if any, Licencing arrangements are in place? |	What type of licence do you wish to apply to the data? |
 
 
-** To submit your data to a repository you will need documentation around the following elements. **
+**To submit your data to a repository you will need documentation around the following elements. **
 
 | Topic/Question | Description/notes | Follow up  |
 | ---- | ---- | ---- |
