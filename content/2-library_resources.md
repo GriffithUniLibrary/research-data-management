@@ -131,7 +131,12 @@ Have you used File & folder naming conventions | Is this convention intuitive or
 
 **Re-Using Data**
 
- Conduct secondary analysis - Undertake follw-up research - Conduct research reviews - Scrutinize findings - Use data for teaching and learning
+Re-using and the analysis of exsiting datasets is an excellent way to expand, compare and test your research data. Where data exists in similar areas you can re-use the existing sets instead of creating or studying well researched areas, eg: gathering school data or public polling. 
+
+Using an exsiting dataset can help you to scrutinize your research findings, show areas of need in the data and in some cases generate new areas of research from the existing data. 
+
+To find and examine exisiting datasets explore the libraries (Find data)[https://libraryguides.griffith.edu.au/finddata] pages. 
+
 
 Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
  
