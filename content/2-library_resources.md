@@ -90,18 +90,17 @@ When organised data to be archived there are a few key areas that all repositori
 Before submitting a dataset to an archive make sure you can fill out the following checklist:
 
 ---
-| Element | Notes |
-| ---- | ---- | 
-| Are there images? |	Who owns the rights to the images?|
-| Are the images of people? |  Do you have ethical clearance for these images?|
-| How was the data collected? |	- Observational? - Computational? - Long form collection? |
-| Who collected the data? | 	Where multiple parties are involved, we need to get permissions from the other parties to publish the data |
-| Who funded the project? |Important but should not affect the publication |
-| Does the data set involve people? |	If no, no problem, if yes, do you have ethical clearance from the participants to publish|
-| Was any other body involved? | Funding agency, government body, external institution?	|
-| Was the data collected or analysed by more than one body?| |
-| Was the project a collaboration with a government body or institution?| |
-| What, if any, Licencing arrangements are in place? |	What type of licence do you wish to apply to the data? |
+ Element : Notes 
+ Are there images? :	Who owns the rights to the images?
+ Are the images of people? :  Do you have ethical clearance for these images?
+ How was the data collected? :	- Observational? - Computational? - Long form collection? 
+ Who collected the data? : 	Where multiple parties are involved, we need to get permissions from the other parties to publish the data 
+ Who funded the project? :Important but should not affect the publication 
+ Does the data set involve people? :	If no, no problem, if yes, do you have ethical clearance from the participants to publish
+ Was any other body involved? : Funding agency, government body, external institution?	
+ Was the data collected or analysed by more than one body?: 
+ Was the project a collaboration with a government body or institution?: 
+ What, if any, Licencing arrangements are in place? : What type of licence do you wish to apply to the data? 
 ---
 
 ### To submit your data to a repository you will need documentation around the following elements:
