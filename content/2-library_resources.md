@@ -118,7 +118,7 @@ Have you used File & folder naming conventions | Is this convention intuitive or
 | Do you want to deposit the data or link to the dataset in GRO? | Does the physical data need to go into the Griffith repository? | |
 | Historical datasets | Where do you wish to deposit the data? If you deposit to an External repositories, please link the DOI back to GRO. | What we do with Historic data? Previous funded research? Where to store it? Look at external repositories and link back to GRO |
 | Metadata | You need the minimum 6 metadata elements Identifier, title, creator(s), publisher, publication, year, resource type  | the followings show example metadata schema |
-| OPEN ACCESS? In certain cases GRO will not hold the data. If you wish to archive the data you will need to find an external repository. | Can the data go into an open access repository? do you have a repository in mind? | Funding permissions may impact where the data can be stored and how it is accessed. |
+| OPEN ACCESS?  | Can the data go into an open access repository? do you have a repository in mind? In certain cases GRO will not hold the data. If you wish to archive the data you will need to find an external repository. | Funding permissions may impact where the data can be stored and how it is accessed. |
 | Copyright licencing | find out which licence to use for your Data; For all data reuse purposes licencing is required. More details in the copyright section or contact the Copyright officer for more details. | Griffith copyright |
 
 
