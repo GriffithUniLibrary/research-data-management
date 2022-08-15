@@ -89,6 +89,7 @@ When organised data to be archived there are a few key areas that all repositori
 - Where there is shared ownership, you will need permissions to archive and share the data. 
 Before submitting a dataset to an archive make sure you can fill out the following checklist:
 
+---
 | Element | Notes |
 | ---- | ---- | 
 | Are there images? |	Who owns the rights to the images?|
@@ -101,7 +102,7 @@ Before submitting a dataset to an archive make sure you can fill out the followi
 | Was the data collected or analysed by more than one body?| |
 | Was the project a collaboration with a government body or institution?| |
 | What, if any, Licencing arrangements are in place? |	What type of licence do you wish to apply to the data? |
-
+---
 
 ### To submit your data to a repository you will need documentation around the following elements:
 
