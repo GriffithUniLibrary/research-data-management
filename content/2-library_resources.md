@@ -103,9 +103,9 @@ Before submitting a dataset to an archive make sure you can fill out the followi
 | What, if any, Licencing arrangements are in place? |	What type of licence do you wish to apply to the data? |
 
 
-To the submit your data to a repository you will need documentation around the following elements. 
+** To submit your data to a repository you will need documentation around the following elements. **
 
-| Topic/Question | Description/notes/follow up |  |
+| Topic/Question | Description/notes | Follow up  |
 | ---- | ---- | ---- |
 | Singular data set or collection of data? | | |
 | Does the dataset meet deposit requirements for deposit in Griffith research online (GRO)? | GRO is for data required for new manuscripts, or new/old data supporting projects funded by ARC/NHMRC. | Does the data meet the requirements for High use in the GRO team |
@@ -114,9 +114,7 @@ To the submit your data to a repository you will need documentation around the f
 | Does the dataset have a DOI? | GRO can create DOI’s, however most external data repositories will also mint a DOI for you that can be linked back to the GRO repository | |
 | Is the data in a publishable state/ready state? | Does the meet open research/FAIR/CAIR guidelines? Is the data; •	De- identified •	De- sensitised.  
 Have you used File & folder naming conventions | Is this convention intuitive or described in a read me file? |
-| Access level of the data | What level of access do you need for the dataset? 
- 
-Open or mediated access? |  |
+| Access level of the data | What level of access do you need for the dataset? Open or mediated access? |  |
 | Do you want to deposit the data or link to the dataset in GRO? | Does the physical data need to go into the Griffith repository? | |
 | Historical datasets | Where do you wish to deposit the data? If you deposit to an External repositories, please link the DOI back to GRO. | What we do with Historic data? Previous funded research? Where to store it? Look at external repositories and link back to GRO |
 | Metadata | You need the minimum 6 metadata elements Identifier, title, creator(s), publisher, publication, year, resource type  | the followings show example metadata schema |
