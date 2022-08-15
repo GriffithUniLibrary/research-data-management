@@ -100,7 +100,8 @@ Before submitting a dataset to an archive make sure you can fill out the followi
 | Was any other body involved? | Funding agency, government body, external institution?	|
 | Was the data collected or analysed by more than one body?| |
 | Was the project a collaboration with a government body or institution?| |
-| What, if any, Licencing arrangements are in place? |	What type of licence do you wish to apply to the data? |
+| What, if any, Licencing arrangements are in place? |	What type of licence do you wish to apply to the data? | 
+{:.table .table-bordered}
 
 
 
@@ -121,6 +122,7 @@ Have you used File & folder naming conventions | Is this convention intuitive or
 | Metadata | You need the minimum 6 metadata elements Identifier, title, creator(s), publisher, publication, year, resource type  | the followings show example metadata schema |
 | OPEN ACCESS?  | Can the data go into an open access repository? do you have a repository in mind? In certain cases GRO will not hold the data. If you wish to archive the data you will need to find an external repository. | Funding permissions may impact where the data can be stored and how it is accessed. |
 | Copyright licencing | find out which licence to use for your Data; For all data reuse purposes licencing is required. More details in the copyright section or contact the Copyright officer for more details. | Griffith copyright |
+{:.table .table-bordered}
 
 
 
