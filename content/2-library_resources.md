@@ -102,6 +102,17 @@ Before submitting a dataset to an archive make sure you can fill out the followi
 | Was the project a collaboration with a government body or institution?| |
 | What, if any, Licencing arrangements are in place? |	What type of licence do you wish to apply to the data? |
 
+To the submit your data to a repository you will need documentation around the following elements. 
+
+| Topic/Question | Description/notes/follow up |  |
+| ---- | ---- | ---- |
+| Singular data set or collection of data? | | |
+| Does the dataset meet deposit requirements for deposit in Griffith research online (GRO)? | GRO is for data required for new manuscripts, or new/old data supporting projects funded by ARC/NHMRC. | Does the data meet the requirements for High use in the GRO team |
+| Who funded the reserach | | | 
+
+
+
+
 
 **Re-Using Data**
 
