@@ -135,7 +135,7 @@ Re-using and the analysis of exsiting datasets is an excellent way to expand, co
 
 Using an exsiting dataset can help you to scrutinize your research findings, show areas of need in the data and in some cases generate new areas of research from the existing data. 
 
-To find and examine exisiting datasets explore the libraries (Find data)[https://libraryguides.griffith.edu.au/finddata] pages. 
+To find and examine exisiting datasets explore the libraries [Find data](https://libraryguides.griffith.edu.au/finddata) pages. 
 
 
 Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
