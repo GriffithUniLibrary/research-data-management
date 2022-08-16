@@ -52,7 +52,7 @@ Think about your data needs before starting your project. Your project's data ma
 
  **Data Collection** 
  
-This section describe how you collect, file, name and organise your data. We suggest that you create readme files to describe your naming convention and folder organization system(s). If you are using existing data sets, it will explain you have adapted these data sets for your project. The conventions and associated readme files are known as metadata or data that describes data. It will help set up safe storage systems for general use, for sharing and archiving your data during or after the project has finished. 
+This section describe how you collect, file, name and organise your data. We suggest that you create readme files to describe your naming convention and folder organization system(s). If you are using existing data sets, it will explain you have adapted these data sets for your project. The conventions and associated readme files are known as metadata or data that describes data. It will assist you in setting up safe storage systems for general use, for sharing and archiving your data while your project is running and after the project has finished. 
 
 This looks like...
  - Tools and software you will use during your project
