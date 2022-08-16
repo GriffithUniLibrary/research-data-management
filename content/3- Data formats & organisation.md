@@ -5,8 +5,9 @@ nav: true
 
 ---
 This module exapnds further explores the **Data organisation** sections of your data management plan. Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan).
-Section 1: Different formats research data may take
 ---
+
+Section 1: Different formats research data may take
 
 Section 2: File naming conventions
 
