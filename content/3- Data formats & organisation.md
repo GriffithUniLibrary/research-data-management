@@ -7,11 +7,11 @@ nav: true
 This module exapnds further explores the **Data organisation** sections of your data management plan. Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan).
 ---
 
-Section 1: Different formats research data may take
+- Section 1: Different formats research data may take
 
-Section 2: File naming conventions
+- Section 2: File naming conventions
 
-Section 3: Folder structures
+- Section 3: Folder structures
 
 {% include figure.html img="2022-files-formats-folders.jpg" alt="File and folder images" caption="Formats, files and folders - how will you organise your data?" width="100%" %}
 Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](https://unsplash.com/@markusspiske) and [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) on [Unsplash](https://unsplash.com/)
