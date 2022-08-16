@@ -42,7 +42,7 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
  **Planning Research**
 
 Think about your data needs before starting your project. 
-Your project's data management plan includes planning for consent, sharing of data and resources, data collection and examining the data processing protocols and templates you might use.  If you are new to research or research data planning, have a look at some existing datasets for methods and systems used by others. 
+Your project's data management plan includes planning for consent, sharing of data and resources, how your data will be collected and examining the data processing protocols and templates you might use.  If you are new to research or research data planning, have a look at some existing datasets for methods and systems used by others. 
 You can find existing data sets [here](https://libraryguides.griffith.edu.au/finddata)
 
   In practice, this looks like... 
