@@ -2,8 +2,10 @@
 title: Sharing your research data
 nav: true
 ---
+---
 This module will help you with the **Data collection-creation** section of your data management plan.
-Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan). 
+Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan).
+---
 
 
  More information on this topic can be found [here](https://sway.office.com/wFPGt0xXui0XMOrh)
