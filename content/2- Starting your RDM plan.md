@@ -1,5 +1,5 @@
 ---
-title: starting the RDM
+title: Starting the RDM plan
 nav: true
 ---
 
