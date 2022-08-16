@@ -1,5 +1,5 @@
 ---
-title: data formats & organisation
+title: Data formats & organisation
 nav: true
 ---
 
