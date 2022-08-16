@@ -51,7 +51,7 @@ You can find existing data sets [here](https://libraryguides.griffith.edu.au/fin
 - Good planning takes into account legal and ethical implications and facilitates future-proofing your research data.
 {% include figure.html img="2022-08-Data-collect-create.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data collection-creation" width="100%" %}
 
- **Data Collection** 
+ **Data Organisation** 
  
 This section describes how you will collect, file, name and organise your data. We suggest that you create readme files to describe your naming convention and folder organization system(s). If you are using existing data sets, it will explain you have adapted these data sets for your project. The conventions and associated readme files are known as metadata or data that describes data. It will assist you in setting up safe storage systems for general use, for sharing and archiving your data while your project is running and after the project has finished. 
 
