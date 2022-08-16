@@ -12,7 +12,7 @@ Data management planning templates are available for download [here](https://www
 - Section 3: Working research storage
 
 ## eResearch services
-  https://www.griffith.edu.au/eresearch-services 
+[eResearh Services at Griffith University](https://www.griffith.edu.au/eresearch-services) 
 {% include figure.html img="2022-08-data-storage.jpg" alt="File and folder images" caption="eResearch services" width="100%" %}
 Images: [Lia Trevarthen](https://unsplash.com/@melodi2) and [Carlos Muza](https://unsplash.com/@kmuza) and [Mika Baumeister](https://unsplash.com/@mbaumi) on [Unsplash](https://unsplash.com/)  
 
