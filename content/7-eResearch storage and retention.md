@@ -9,8 +9,7 @@ Data management planning templates are available for download [here](https://www
 
 - Section 1: eResearch services
 - Section 2: Research data management and storage services
-- Section 3: Working with research storage
-- Section 4: 
+- Section 3: Working research storage
 
 ## eResearch services
   https://www.griffith.edu.au/eresearch-services 
