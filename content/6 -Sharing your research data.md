@@ -8,13 +8,13 @@ Data management planning templates are available for download [here](https://www
 
  More information on this topic can be found [here](https://sway.office.com/wFPGt0xXui0XMOrh)
  
-  Section 1: Publishing and sharing data
+  - Section 1: Publishing and sharing data
   
-  Section 2: Preserving and archiving data sets
+  - Section 2: Preserving and archiving data sets
   
-  Section 3: Copyright elements
+  - Section 3: Copyright elements
   
-  Section 4: Re-using data
+  - Section 4: Re-using data
 
 **Publishing and Sharing Data**
  
