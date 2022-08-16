@@ -37,7 +37,7 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
 
  {% include figure.html img="2022-07-ResDataLifeCycle.jpg" alt="Image showing the Research Data Lifecycle" caption="The research data lifecycle" width="100%" %}
  
- ###### Image adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
+ Image adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
  
  **Planning Research**
 
