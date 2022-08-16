@@ -1,5 +1,5 @@
 ---
-title: links and help
+title: Links and help
 nav: true
 ---
 ---
