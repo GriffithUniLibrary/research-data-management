@@ -11,11 +11,11 @@ This module will help you with the **Data collection-creation** and **Data organ
 
 
 
-- Section 1: Why good data management practice?
+Section 1: Why good data management practice?
 
-- Section 2: Data Planning and the Research Data Lifecycle
+Section 2: Data Planning and the Research Data Lifecycle
 
-- Section 3: Data formats, file names and folder structures
+Section 3: Data formats, file names and folder structures
 
 
 
