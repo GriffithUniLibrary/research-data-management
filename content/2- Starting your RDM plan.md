@@ -41,7 +41,9 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
  
  **Planning Research**
 
-Think about your data needs before starting your project. Your project's data management plan includes plans for consent, sharing of data and resources, how you collect data and examining the data processing protocols and templates you might use.  If you are new to research or research data planning, have a look at some existing datasets for methods and systems used by others. You can find existing data sets [here](https://libraryguides.griffith.edu.au/finddata)
+Think about your data needs before starting your project. 
+Your project's data management plan includes plans for consent, sharing of data and resources, how you collect data and examining the data processing protocols and templates you might use.  If you are new to research or research data planning, have a look at some existing datasets for methods and systems used by others. 
+You can find existing data sets [here](https://libraryguides.griffith.edu.au/finddata)
 
   In practice, this looks like... 
 - Description of your data, a basic understanding of the copyright issues that may arise, who is the data owner and if have joint collaborators, start and finish dates. 
@@ -52,7 +54,7 @@ Think about your data needs before starting your project. Your project's data ma
 
  **Data Collection** 
  
-This section describe how you collect, file, name and organise your data. We suggest that you create readme files to describe your naming convention and folder organization system(s). If you are using existing data sets, it will explain you have adapted these data sets for your project. The conventions and associated readme files are known as metadata or data that describes data. It will assist you in setting up safe storage systems for general use, for sharing and archiving your data while your project is running and after the project has finished. 
+This section describes how you will collect, file, name and organise your data. We suggest that you create readme files to describe your naming convention and folder organization system(s). If you are using existing data sets, it will explain you have adapted these data sets for your project. The conventions and associated readme files are known as metadata or data that describes data. It will assist you in setting up safe storage systems for general use, for sharing and archiving your data while your project is running and after the project has finished. 
 
 This looks like...
  - Tools and software you will use during your project
@@ -66,9 +68,9 @@ This looks like...
  **Processing and analysing data**
 
 Processing and analysing data in the context of you data management planning is noting how you undertook the processes involved.
-Mechanisms like how your created your dataset, was it a process of digitisation, did the data need transcription or to be translated prior to analysis.  Do you have systems in the place to check the validity of the data,  what if any tools did you use to clean the data and if the data is at all person based how did you anonymize the data for security?  If you have any question around personal data check our guides and [workshops](https://app.secure.griffith.edu.au/events/event/69861?REF=75560D41C47413CD32816D481B2E1812A06971F292927472A5D100000002) for sensitive data use.
+Mechanisms like how your created your dataset, was it a process of digitisation, did the data need transcription or to be translated prior to analysis?  Do you have systems in the place to check the validity of the data?  Did you clean your data? What tools did you use? Does your data contain sensitive personal, cultural, financial or commercial information? How did you anonymize or protect the data?  If you have any question around personal or sensitive data check our guides and [workshops](https://app.secure.griffith.edu.au/events/event/69861?REF=75560D41C47413CD32816D481B2E1812A06971F292927472A5D100000002) on working with this type of data.
 
-When you are in the analysis and interpretation phases of your research, it is very important that you explain and document how any analysis or interpretation was done. This adds authority to the research outputs as they can both be verified and reproduced.  As with any research you must cite sources, including existing datasets and tools or code sets used in the analysis.  
+When you are in the analysis and interpretation phases of your research, it is essential that you explain and document how your analysis or interpretation was done. This adds authority to your research outputs as are able to be verified and reproduced.  As with any research, you must cite your sources, this includes existing datasets, tools or code sets used in the analysis.  
 
 
  
