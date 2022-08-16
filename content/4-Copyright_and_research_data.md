@@ -7,12 +7,17 @@ nav: true
 This module will help you with the **Data collection-creation** and **Data post project** sections of your data management plan.
 Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan). 
 ---
-- Section 1: Overview
-- Section 2: Copyright ownership
-- Section 3: Copyright requirements when publishing data
-- Section 4: Using existing data
-- Section 5: Help and support
-- Section 6: Frequently asked questions
+Section 1: Overview
+
+Section 2: Copyright ownership
+
+Section 3: Copyright requirements when publishing data
+
+Section 4: Using existing data
+
+Section 5: Help and support
+
+Section 6: Frequently asked questions
 
 This page has been adapted from the Griffith University Copyright [research data](https://www.griffith.edu.au/copyright-matters/hdr-candidates/research-data) pages. 
 
