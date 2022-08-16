@@ -31,7 +31,7 @@ Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](h
 - Questionnaires, transcripts, surveys
 - Sensor readings
 - Spatial or Geospatial: data related to a location
-{% include figure.html img="2022-08-Data-Org-2.jpg" alt="Example data management plan showing data organisation and storage" caption="EXample data management plan: Data organisation, Storage and back up" width="100%" %}
+{% include figure.html img="2022-08-Data-Org-2.jpg" alt="Example data management plan showing data organisation and storage" caption="Example data management plan: Data organisation, Storage and back up" width="100%" %}
 ### File naming conventions
 
 A File Naming Convention (FNC) is a protocol that enables you to systematically name your files in a way that describes what files contain and importantly, how they relate to other files. 
