@@ -4,7 +4,7 @@ nav: true
 ---
 
 ---
-This section will assist you with data managment planning document sections: **Data collection-creation** and **Data organisation.**
+Use this module to assist with this sections **Data collection-creation** and **Data organisation** in the data management planning document.
 Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan), the plans are linked at the base of the page. 
 ---
 
@@ -42,7 +42,7 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
  **Planning Research**
 
 Think about your data needs before starting your project. 
-Your project's data management plan includes plans for consent, sharing of data and resources, how you collect data and examining the data processing protocols and templates you might use.  If you are new to research or research data planning, have a look at some existing datasets for methods and systems used by others. 
+Your project's data management plan includes planning for consent, sharing of data and resources, data collection and examining the data processing protocols and templates you might use.  If you are new to research or research data planning, have a look at some existing datasets for methods and systems used by others. 
 You can find existing data sets [here](https://libraryguides.griffith.edu.au/finddata)
 
   In practice, this looks like... 
