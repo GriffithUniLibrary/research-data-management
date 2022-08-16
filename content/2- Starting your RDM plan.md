@@ -4,7 +4,7 @@ nav: true
 ---
 
 ---
-Use this module to assist with this sections **Data collection-creation** and **Data organisation** in the data management planning document.
+Use this module to assist with the **Data collection-creation** and **Data organisation** sections in the data management planning document.
 Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan), the plans are linked at the base of the page. 
 ---
 
