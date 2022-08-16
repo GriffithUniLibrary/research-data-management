@@ -1,5 +1,5 @@
 ---
-title: Library resources
+title: starting the RDM
 nav: true
 ---
 
