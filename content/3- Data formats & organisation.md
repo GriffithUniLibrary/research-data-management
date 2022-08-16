@@ -3,7 +3,12 @@ title: Data formats & organisation
 nav: true
 ---
 
-## Data formats, files names and folder structures
+Section 1: Different formats research data may take
+
+Section 2: File naming conventions
+
+Section 3: Folder structures
+
 {% include figure.html img="2022-files-formats-folders.jpg" alt="File and folder images" caption="Formats, files and folders - how will you organise your data?" width="100%" %}
 Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](https://unsplash.com/@markusspiske) and [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) on [Unsplash](https://unsplash.com/)
 
@@ -46,7 +51,7 @@ YYYYMMDD_SiteA_SensorB.csv
 20210621_Southport_Humidity.csv
 
 {% include figure.html img="2022-06-file-name-image.jpg" alt="Image showing file name convention and example" caption="File name convention and example" width="100%" %}
-### Folder structure
+### Folder structures
 >Having a standard folder structure can keep your files neat and tidy and save you time looking for data. 
 It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
 - Follow a naming convention
