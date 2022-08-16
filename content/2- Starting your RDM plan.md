@@ -38,10 +38,11 @@ Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](http
  {% include figure.html img="2022-07-ResDataLifeCycle.jpg" alt="Image showing the Research Data Lifecycle" caption="The research data lifecycle" width="100%" %}
  
  ###### Image adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
+ 
  **Planning Research**
 
 Think about your data needs before starting your project. 
-Your project's data management plan includes planning for consent, sharing of data and resources, how your data will be collected and examining the data processing protocols and templates you might use.  If you are new to research or research data planning, have a look at some existing datasets for methods and systems used by others. 
+Your project's data management plan includes planning for consent, sharing of data and resources, **how your data will be collected** and examining the data processing protocols and templates you might use.  If you are new to research or research data planning, have a look at some existing datasets for methods and systems used by others. 
 You can find existing data sets [here](https://libraryguides.griffith.edu.au/finddata)
 
   In practice, this looks like... 
@@ -53,7 +54,7 @@ You can find existing data sets [here](https://libraryguides.griffith.edu.au/fin
 
  **Data Organisation** 
  
-This section describes how you will collect, file, name and organise your data. We suggest that you create readme files to describe your naming convention and folder organization system(s). If you are using existing data sets, it will explain you have adapted these data sets for your project. The conventions and associated readme files are known as metadata or data that describes data. It will assist you in setting up safe storage systems for general use, for sharing and archiving your data while your project is running and after the project has finished. 
+This section describes how you will file, name and organise your data. We suggest that you create readme files to describe your naming convention and folder organization system(s). If you are using existing data sets, it will explain you have adapted these data sets for your project. The conventions and associated readme files are known as metadata or data that describes data. It will assist you in setting up safe storage systems for general use, for sharing and archiving your data while your project is running and after the project has finished. 
 
 This looks like...
  - Tools and software you will use during your project
