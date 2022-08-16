@@ -3,7 +3,7 @@ title: Storage and retention
 nav: true
 ---
 ---
-This section will assist you with data managment planning template sections: **Data organisation**, **storage and back up** and **Data post project**
+This module will help you with the **Data organisation**, **storage and back up** and **Data post project** sections of your data management plan.
 Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan), the plans are linked at the base of the page. 
 ---
 
