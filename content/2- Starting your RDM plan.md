@@ -64,7 +64,7 @@ This looks like...
  - Offers protection against loss, theft or misuse and facilitates data preservation
 {% include figure.html img="2022-08-data-organisation-back-up.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data organisation" width="100%" %}
 
-
+More details examples and explanations of data organisation can be found in [Data formats & organisation](https://griffithunilibrary.github.io/research-data-management/content/3-%20Data%20formats%20&%20organisation.html)
  **Processing and analysing data**
 
 Processing and analysing data in the context of you data management planning is noting how you undertook the processes involved.
