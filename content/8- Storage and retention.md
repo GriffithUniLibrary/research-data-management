@@ -19,11 +19,15 @@ Research Integrity and management of research data are critical elements of your
 The following services are available to researchers and HDR students. Service specific information can be found for each tool listed below by clicking on the associated link or visiting the Service Catalogue. 
   
 eResearch data management and storage solutions inlcude:
+
 | working research storage | | 
-| Research Space | 5GB+ to store primary data and associated documentation from research projects conducted at Griffith|
+|--- | --- |
+| Research Space | 5GB+ to store primary data and associated documentation from research projects conducted at Griffith |
 | Research Drive | designed to specifically meet the needs of laboratories or other situations where large volumes of data are produced |
-| Research Vault | long term archival of digital data that is infrequently accessed (slower to access than other tiers of storage)|
-| please note, if the standard offerings don't fit your research or if you have more than 2TB of data contact [eRresearch support](https://www.griffith.edu.au/digital-solutions/service-catalogue/eresearch-services)|
+| Research Vault | long term archival of digital data that is infrequently accessed (slower to access than other tiers of storage) |
+| please note, if the standard offerings don't fit your research or if you have more than 2TB of data contact [eRresearch support](https://www.griffith.edu.au/digital-solutions/service-catalogue/eresearch-services) | |
+{:.table .table-bordered}
+
 
     
 - Griffith Research Online (GRO) Research data collection - this repository makes research data collections accessible and searchable via a web interface. Current submissions are restricted to approval from the Library. Please see the Collection Statement for more information.
