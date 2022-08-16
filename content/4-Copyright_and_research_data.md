@@ -12,7 +12,7 @@ Data management planning templates are available for download [here](https://www
 - Section 3: Copyright requirements when publishing data
 - Section 4: Using existing data
 - Section 5: Help and support
-- Frequently Asked Questions
+- Section 6: Frequently asked questions
 
 This page has been adapted from the Griffith University Copyright [research data](https://www.griffith.edu.au/copyright-matters/hdr-candidates/research-data) pages. 
 
