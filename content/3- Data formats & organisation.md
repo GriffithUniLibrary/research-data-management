@@ -1,6 +1,6 @@
 ---
 title: data formats & organisation
-nav: tue
+nav: true
 ---
 
 ## Data formats, files names and folder structures
