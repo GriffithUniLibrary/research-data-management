@@ -10,10 +10,11 @@ Data management planning templates are available for download [here](https://www
  Section 1: Research data management and storage services
 
  Section 2: Working research storage
+ 
+ Section 3: Storing sensitive data
 
 
-
-### Research data management and storage services
+### 1 Research data management and storage services
 Research Integrity and management of research data are critical elements of your research project. We can work with you to develop systems to manage data for capture through to long term presentation. There are in-house solutions, such as Research Space, Storage and Vault and a number of external providers that we endorse who offer discipline specific and general data management and storage.
 
 The following services are available to researchers and HDR students. Service specific information can be found for each tool listed below by clicking on the associated link or visiting the Service Catalogue. 
@@ -43,12 +44,35 @@ Please note, our services do not include:
 ```
 
 
-## Working Research Storage
+## 2 Working Research Storage
 ![image](https://user-images.githubusercontent.com/42364968/173257008-e4827a47-9ec4-41ea-b64d-588dd76cf087.png)
 Griffith University offers various storage services to all researchers and research students affiliated with the University. The Research Storage Service is an area where researchers can gain access to digital storage based on their storage needs. The project data stored in these services are freely accessible and securely stored on Griffith servers. For more information, access the Research Space, Research Drive and the Research Vault options below. To acces this storage follow the link [here](https://research-storage.griffith.edu.au/).
 
 **retention and achiving**
+Retention
+
+What is retention
+
+How long do I need to retain the data: Link to retention in policy library 
+
+Where do I retain the data: Research vault, https://research-storage.griffith.edu.au/vault/
+
+Log job for access here: https://www.griffith.edu.au/digital-solutions/research-storage/online-forms/research-vault-request-form
 
 [Griffith Information managment guides](https://griffitheduau.sharepoint.com/sites/Information-Management?OR=Teams-HL&CT=1660620159077&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA3MDMwMDgxNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
+
+## 3 Sensitive data
+My data is sensitive, how does that affect storage
+
+![Storage options](https://user-images.githubusercontent.com/42364968/185262811-f3b6479d-effb-431e-990f-fcd34b8a886a.png)
+
+
+work out how sensitive it is: https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/information-security.aspx
+
+What does that sensitivity level actually mean? https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/information-security.aspx#official-(internal)
+
+Knowign how sensitive my data is, where can i store it: https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/Approved-services.aspx
+
+where do I store hard copy (physical not digital) data: https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/Offsite-storage-of-research-data.aspx
 
 
