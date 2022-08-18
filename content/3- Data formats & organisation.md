@@ -79,10 +79,14 @@ Also note, in this convention we have used *underscores* between key sections an
 
 
 ### Folder structures
->Having a standard folder structure can keep your files neat and tidy and save you time looking for data. 
-It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
-- Follow a naming convention
-- Pre-fix folder names with numbers so the files can be ordered by the steps in your workflow
-- Good practice is to document your folder strucutre for future reference to a "README" file
+>Having a standard folder structure will help you keep your files organised and save you time looking for data. Proper folder structures also help if you are sharing materials with colleagues as by having a folder structures and standards in place it is both easier to find and save working data and documentation.
+To create a folder naming convention
+- Assign folders real titles
+- Folder titles should be easily understood by external parties
+- Create new folders and sub folders for new areas of work
+- Pre-fix folder names with numbers so the files can be ordered by the steps in your workflow, eg; 01, 02 etc always use zero first to avoid later confusion. 
+
+Good practice is to document your folder structure for future reference to a "README" file saved in each folder set. This file will explain the folder systems and the basic contents of the folders.
+
 
 {% include figure.html img="2022-06-Folder_Structure.jpg" alt="Image showing folder structure with README file and number to force folder order to workflow steps" caption="Folder structure with README file and number to force folder order to workflow steps" width="100%" %}
