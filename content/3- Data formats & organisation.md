@@ -52,20 +52,24 @@ File naming conventions need to be;
 Machine readable in this context means that it is easy to search for you files, that you can refine your file lists based upon how you have named them and you can easily extract the information you need from the file name. 
 you also want the file name to easily read and understood by people, not just you.  To do this, give your files meaningful and consistent titles, which project the file applies to, which part of the project and when it was created. 
 
-Our creation date will start to give us order, dates for file management are always in YYYYMMDD order, eg : 20220815. next we have the version of the document 
+Our creation date will start to give us order, dates for file management are always in YYYYMMDD order, eg : 20220815. 
+
+
 
  An example file naming convention:
-
-YYYYMMDD_SiteA_SensorB.csv
  
   - YYYYMMDD = **Date in standardised, agreed format**   
-  - SiteA = **Location**  
-  - Sensor B = **Sensor** 
-  - File name sections or chunks are separated by an **underscore**
+  - overarching project = this can be where the data is from, what section of the reserach you are at or other large sections of work, maybe a chapter or article
+  - file element = this is the element you are working on, say the data analysis for a chapter, a specific interviewee transcript or a datapoint in the field
+  - Next we have the version of the document = **01** keep this simple
+  
+for easy machine readability file name sections or chunks are separated by an underscore or hyphen, do not use punctuation or upper or lower cases as this can effect the file order and confuse things.
  
- When applied, the FNC would look like this:
+When applied, the FNC would look like this:
  
-20210621_Southport_Humidity.csv
+20220818_researchinterviews_candidate-1-transcript_01.doc
+
+note how you can clearly see what the file is about, which version and when you created it. Also note, underscores between key sections and hyphens connecting elements. 
 
 {% include figure.html img="2022-06-file-name-image.jpg" alt="Image showing file name convention and example" caption="File name convention and example" width="100%" %}
 
