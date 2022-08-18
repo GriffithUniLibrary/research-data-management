@@ -13,6 +13,11 @@ Here you will find useful links to assist with your data managment planning and 
 
 
 file and folder naming conventions
+
 https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
+
 https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure 
+
 https://speakerdeck.com/jennybc/how-to-name-files?slide=27
+
+https://www.earley.com/insights/tips-and-tricks-simple-and-quick-folder-and-file-naming-conventions
