@@ -13,3 +13,4 @@ Images: [Lia Trevarthen](https://unsplash.com/@melodi2) and [Carlos Muza](https:
 - Investigate possible software options not already offered at Griffith; Collect data through surveys, Learn to analyze using R or Python, Utilize High performance computing, Large data transfers
 - Data Storage - Version control for your workflow
 - Publishing your open data -  analysis and workflows
+Images: [Lia Trevarthen](https://unsplash.com/@melodi2) and [Carlos Muza](https://unsplash.com/@kmuza) and [Mika Baumeister](https://unsplash.com/@mbaumi) on [Unsplash](https://unsplash.com/) 
