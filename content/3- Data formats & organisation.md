@@ -35,11 +35,11 @@ Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](h
 ### File naming conventions
 
 A File Naming Convention (FNC) is a protocol that enables you to systematically name your files in a way that describes what files contain and importantly, how they relate to other files. 
- 
-   **Prior to data collection establish an agreed FNC that is documented and shared with all stakeholders**
- 
-   **TIP!** Check for standard file name conventions in your field
 
+It is very important to set up your naming conventions and filing structures early in your disseration. Getting the convetions and filing systems in place and in use early on will keep you organised and ensure that you find the materails you need. 
+Prior to starting check for standards or existing file name conventions in your field, this will make collaboration and sharing of data easier.  If you are working with external bodies it is also vital that file naming conventions (FNC) are agreed upon at the beginning of any project. 
+
+File naming conventions need to be 
 
  An example file naming convention:
 
@@ -55,6 +55,9 @@ YYYYMMDD_SiteA_SensorB.csv
 20210621_Southport_Humidity.csv
 
 {% include figure.html img="2022-06-file-name-image.jpg" alt="Image showing file name convention and example" caption="File name convention and example" width="100%" %}
+
+
+
 ### Folder structures
 >Having a standard folder structure can keep your files neat and tidy and save you time looking for data. 
 It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
