@@ -4,7 +4,6 @@ nav: true
 ---
 
 
-## eResearch services
 [eResearch Services at Griffith University](https://www.griffith.edu.au/eresearch-services) 
 
 {% include figure.html img="2022-08-data-storage.jpg" alt="File and folder images" caption="eResearch services" width="100%" %}
