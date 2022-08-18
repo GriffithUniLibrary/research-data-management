@@ -49,7 +49,10 @@ File naming conventions need to be;
 - human readable
 - ordered
 
+Machine readable in this context means that it is easy to search for you files, that you can refine your file lists based upon how you have named them and you can easily extract the information you need from the file name. 
+you also want the file name to easily read and understood by people, not just you.  To do this, give your files meaningful and consistent titles, which project the file applies to, which part of the project and when it was created. 
 
+Our creation date will start to give us order, dates for file management are always in YYYYMMDD order, eg : 20220815. next we have the version of the document 
 
  An example file naming convention:
 
