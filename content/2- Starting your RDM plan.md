@@ -67,10 +67,19 @@ This looks like...
 More details examples and explanations of data organisation can be found in [Data formats & organisation](https://griffithunilibrary.github.io/research-data-management/content/3-%20Data%20formats%20&%20organisation.html)
  **Processing and analysing data**
 
-Processing and analysing data in the context of you data management planning is noting how you undertook the processes involved.
-Mechanisms like how your created your dataset, was it a process of digitisation, did the data need transcription or to be translated prior to analysis?  Do you have systems in the place to check the validity of the data?  Did you clean your data? What tools did you use? Does your data contain sensitive personal, cultural, financial or commercial information? How did you anonymize or protect the data?  If you have any question around personal or sensitive data check our guides and [workshops](https://app.secure.griffith.edu.au/events/event/69861?REF=75560D41C47413CD32816D481B2E1812A06971F292927472A5D100000002) on working with this type of data.
+Processing and analysing data in the context of you data management plan is noting down the processes involved.
 
-When you are in the analysis and interpretation phases of your research, it is essential that you explain and document how your analysis or interpretation was done. This adds authority to your research outputs as are able to be verified and reproduced.  As with any research, you must cite your sources, this includes existing datasets, tools or code sets used in the analysis.  
+**How did you create your dataset? 
+- Was your dataset created via digitisation?
+- Did the data need transcription or to be translated prior to analysis?  
+- Do you have systems in the place to check the validity of the data?  
+- Did you clean your data? What tools did you use? 
+- Does your data contain sensitive personal, cultural, financial or commercial information? 
+- How did you anonymize or protect the data?  
+ If you have any question around personal or sensitive data check our guides and [workshops](https://app.secure.griffith.edu.au/events/event/69861?REF=75560D41C47413CD32816D481B2E1812A06971F292927472A5D100000002) on working with this type of data.
+
+  During the analysis and interpretation phases of your research, explain and document how your analysis or interpretation was done. This is essential and adds authority to your research outputs as are able to be verified and reproduced.  
+  As with any research, you must cite your sources, this includes existing datasets, tools or code sets used in the analysis.  
 
 
  
