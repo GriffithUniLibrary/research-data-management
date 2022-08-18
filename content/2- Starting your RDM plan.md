@@ -70,9 +70,9 @@ More details examples and explanations of data organisation can be found in [Dat
 Processing and analysing data in the context of you data management plan is noting down the processes involved.
 
 #### How did you create your dataset? 
-- via digitisation?
+- Was the data created via digitisation?
 - Did the data need to be transcribed or translated prior to analysis?  
-- What systems did you use to check the validity of the data?  
+- How did you check the validity of the data?  
 - Did you clean your data? What tools did you use? 
 - Does your data contain sensitive personal, cultural, financial or commercial information? 
 - How did you anonymize or protect the data?  
