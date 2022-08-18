@@ -10,7 +10,9 @@ This module exapnds further explores the **Data organisation** sections of your 
 This page will show the many forms data can take and how you can organise them. We will explaing folder and file naming systems, showing how you can organise your research for finding and sharing as well as good record keeping practice. 
 
 Section 1: Different formats research data may take
+
 Section 2: Folder structures
+
 Section 3: File naming conventions
 
 
