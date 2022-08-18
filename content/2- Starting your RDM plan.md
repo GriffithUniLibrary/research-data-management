@@ -72,7 +72,7 @@ Processing and analysing data in the context of you data management plan is noti
 #### How did you create your dataset? 
 - Was the data created via digitisation?
 - Did the data need to be transcribed or translated prior to analysis?  
-- How did you check the validity of the data?  
+- How did you check the validity of the data? What systems were in place to do this?  
 - Did you clean your data? What tools did you use? 
 - Does your data contain sensitive personal, cultural, financial or commercial information? 
 - How did you anonymize or protect the data?  
