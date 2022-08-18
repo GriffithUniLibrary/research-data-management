@@ -18,6 +18,11 @@ Section 3: Folder structures
 {% include figure.html img="2022-files-formats-folders.jpg" alt="File and folder images" caption="Formats, files and folders - how will you organise your data?" width="100%" %}
 Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](https://unsplash.com/@markusspiske) and [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) on [Unsplash](https://unsplash.com/)
 
+
+During the course of your research you will collect a huge amount of documentation and materails that were used to in the process of writing the disseration. It is important for auditability and reprocudability that you capture and store these materails. These materails can include drafts of chapters, interview questionss, video and audio recordings and the transcripts as well as research notes, log books and basic analysis. All of this materail helped you generate the content of your research and much of it can be used again. Your research data can help you better explain how you came to certain conclusions, why you took the path you did and help you to trouble shoot issues in your work.
+
+Research data can take many forms inculding;
+
 - Artefacts, specimens, physical samples
 - Content analysis
 - Datasets
