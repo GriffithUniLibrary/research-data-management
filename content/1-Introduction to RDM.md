@@ -7,7 +7,7 @@ The validity of your research depends on the quality of your data, and the quali
 
 Research data management (RDM) is a process for protecting the quality and validity of your research through systematically organising, managing, and saving your data.  
 
-This guide will assist you to prepare the data management planning documentation required for your dissertation or research project. Templates are avialable from the Library’s [Data Management](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan) page.  
+This guide will assist you to prepare the data management planning documentation required for your dissertation or research project. Templates are available from the Library’s [Data Management](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan) page.  
 
 Research data can consist of many different formats and media types. 
 Physical items, such as artifacts and organic samples, will demand careful management over time. 
