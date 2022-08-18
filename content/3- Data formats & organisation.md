@@ -44,7 +44,12 @@ A File Naming Convention (FNC) is a protocol that enables you to systematically 
 It is very important to set up your naming conventions and filing structures early in your disseration. Getting the convetions and filing systems in place and in use early on will keep you organised and ensure that you find the materails you need. 
 Prior to starting check for standards or existing file name conventions in your field, this will make collaboration and sharing of data easier.  If you are working with external bodies it is also vital that file naming conventions (FNC) are agreed upon at the beginning of any project. 
 
-File naming conventions need to be 
+File naming conventions need to be; 
+- machine readable
+- human readable
+- ordered
+
+
 
  An example file naming convention:
 
