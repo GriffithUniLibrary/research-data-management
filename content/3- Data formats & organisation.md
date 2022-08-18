@@ -7,7 +7,7 @@ nav: true
 This module exapnds further explores the **Data organisation** sections of your data management plan. Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan).
 ---
 
-This page will show the many forms data can take and how you can organise them. We will explaing folder and file naming systems, showing how you can organise your research for finding and sharing as well as good record keeping practice. 
+>This page will show the many forms data can take and how you can organise them. We will explaing folder and file naming systems, showing how you can organise your research for finding and sharing as well as good record keeping practice. 
 
 Section 1: Different formats research data may take
 
@@ -22,7 +22,7 @@ Section 3: File naming conventions
 Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](https://unsplash.com/@markusspiske) and [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) on [Unsplash](https://unsplash.com/)
 
 
-During the course of your research you will collect a huge amount of documentation and materails that were used to in the process of writing the disseration. It is important for auditability and reprocudability that you capture and store these materails. These materails can include drafts of chapters, interview questionss, video and audio recordings and the transcripts as well as research notes, log books and basic analysis. All of this materail helped you generate the content of your research and much of it can be used again. Your research data can help you better explain how you came to certain conclusions, why you took the path you did and help you to trouble shoot issues in your work.
+>During the course of your research you will collect a huge amount of documentation and materails that were used to in the process of writing the disseration. It is important for auditability and reprocudability that you capture and store these materails. These materails can include drafts of chapters, interview questionss, video and audio recordings and the transcripts as well as research notes, log books and basic analysis. All of this materail helped you generate the content of your research and much of it can be used again. Your research data can help you better explain how you came to certain conclusions, why you took the path you did and help you to trouble shoot issues in your work.
 
 
 Research data can take many forms inculding;
@@ -58,7 +58,7 @@ like your file naming systems, it is best practice is to document your folder na
 
 ### File naming conventions
 
-A File Naming Convention (FNC) is a protocol that enables you to systematically name your files in a way that describes what files contain and importantly, how they relate to other files. 
+>A File Naming Convention (FNC) is a protocol that enables you to systematically name your files in a way that describes what files contain and importantly, how they relate to other files. 
 
 It is very important to set up your naming conventions and filing structures early in your disseration. Getting the convetions and filing systems in place and in use early on will keep you organised and ensure that you find the materails you need. 
 Prior to starting check for standards or existing file name conventions in your field, this will make collaboration and sharing of data easier.  If you are working with external bodies it is also vital that file naming conventions (FNC) are agreed upon at the beginning of any project. 
