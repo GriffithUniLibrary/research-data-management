@@ -54,9 +54,7 @@ Machine readable in this context means that it is easy to search for you files, 
 you also want the file name to easily read and understood by people, not just you.  To do this, give your files meaningful and consistent titles, which project the file applies to, which part of the project and when it was created. 
 
 Our creation date will start to give us order, dates for file management are always in YYYYMMDD order, eg : 20220815. 
-
-
- An example file naming convention:
+An example file naming convention:
  
   - YYYYMMDD = **Date in standardised, agreed format**   
   - overarching project = this can be where the data is from, what section of the reserach you are at or other large sections of work, maybe a chapter or article
@@ -72,6 +70,8 @@ When applied, the FNC would look like this:
 Note how you can clearly see what the file is about, which version its is and when you created it. When you start to add additional files you can see how the folder structure will work and how you can search within. 
 Also note, in this convention we have used *underscores* between key sections and *hyphens* to connect the elements. 
 
+Best practice is to document this file naming structure into a README file that is contained in the folders where your documents are stored.  The README document should explain the system so that it can easily be understood without the need for further explanation. The hardest part of file naming conventions is adherence, embed the systems early to make them part of your reserach practice.
+
 *This section has been adapted from Jenny Bryan's [Naming Things]( https://speakerdeck.com/jennybc/how-to-name-files?slide=14) presentation for the Reproduclible Science Workshop.*
 
 {% include figure.html img="2022-06-file-name-image.jpg" alt="Image showing file name convention and example" caption="File name convention and example" width="100%" %}
@@ -86,7 +86,7 @@ To create a folder naming convention
 - Create new folders and sub folders for new areas of work
 - Pre-fix folder names with numbers so the files can be ordered by the steps in your workflow, eg; 01, 02 etc always use zero first to avoid later confusion. 
 
-Good practice is to document your folder structure for future reference to a "README" file saved in each folder set. This file will explain the folder systems and the basic contents of the folders.
+like your file naming systems, it is best practice is to document your folder naming structures for future reference into a "README" file saved in each folder set. This file will explain the folder systems in use and outline the basic contents of the folders. 
 
 
 {% include figure.html img="2022-06-Folder_Structure.jpg" alt="Image showing folder structure with README file and number to force folder order to workflow steps" caption="Folder structure with README file and number to force folder order to workflow steps" width="100%" %}
