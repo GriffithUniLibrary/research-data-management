@@ -9,8 +9,9 @@ Data management planning templates are available for download [here](https://www
 ---
 
 
+<iframe src="https://player.vimeo.com/video/741709358" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<div class='embed-container'><iframe width="854" height="480" src='https://player.vimeo.com/video/741709358' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
 
 
 
