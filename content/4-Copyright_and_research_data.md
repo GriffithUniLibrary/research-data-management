@@ -10,7 +10,10 @@ Data management planning templates are available for download [here](https://www
 
 Prior to working thorugh this section please watch the following Video https://vimeo.com/741709358/733f17efba
 
-<iframe width="560" height="315" src="https://vimeo.com/741709358/733f17efba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class='embed-container'><iframe width="854" height="480" src='https://player.vimeo.com/video/428348749' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+
 
 Section 1: Overview
 
