@@ -8,8 +8,9 @@ This module will help you with the **Data collection-creation** and **Data post 
 Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan). 
 ---
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src=https://player.vimeo.com/video/741709358?h=733f17efba&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479 frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Copyright and data"></iframe></div><script src=https://player.vimeo.com/api/player.js></script>
 
- Section 1: Overview
+Section 1: Overview
 
 Section 2: Copyright ownership
 
