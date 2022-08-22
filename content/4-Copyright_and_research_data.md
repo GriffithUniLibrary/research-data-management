@@ -16,6 +16,8 @@ Data management planning templates are available for download [here](https://www
 
 
 
+Watch the video [here](https://vimeo.com/741709358/733f17efba) 
+
 Section 1: Overview
 
 Section 2: Copyright ownership
