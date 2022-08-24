@@ -8,26 +8,18 @@ This module will help you with the **Data collection-creation** and **Data post 
 Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan). 
 ---
 
-<iframe src="https://player.vimeo.com/video/741709358?h=733f17efba&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Copyright and data"></iframe>
-
-
 
 <iframe src="https://player.vimeo.com/video/741709358?h=733f17efba&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
 Watch the video [here](https://vimeo.com/741709358/733f17efba) 
 
-Section 1: Overview
 
-Section 2: Copyright ownership
-
-Section 3: Copyright requirements when publishing data
-
-Section 4: Using existing data
-
-Section 5: Help and support
-
-Section 6: Frequently asked questions
+- Section 1: Overview
+- Section 2: Copyright ownership
+- Section 3: Copyright requirements when publishing data
+- Section 4: Using existing data
+- Section 5: Help and support
+- Section 6: Frequently asked questions
 
 This page has been adapted from the Griffith University Copyright [research data](https://www.griffith.edu.au/copyright-matters/hdr-candidates/research-data) pages. 
 
