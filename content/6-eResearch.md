@@ -8,6 +8,8 @@ The following content has been adapted from the [eResearch Services at Griffith 
 
 {% include figure.html img="2022-08-data-storage.jpg" alt="File and folder images" caption="eResearch services" width="100%" %}
 
+Ereserach can assist you with your data management in many ways. Their primary servcies are in the use and application of computational methods.  Eresearch can assist with data capture methodology, the management and storage of large or sensitive data sets and the use of computational tools for data analysis and visualisation. Eresearch also offers training in computational methods such as R and Python and cand assist with  training from [QCIF](https://www.qcif.edu.au/) and the [ARDC](https://ardc.edu.au/). 
+
 The key areas of assistance provided by eResearch services at giffith are in;
 - [Application development and support](https://www.griffith.edu.au/eresearch-services#app)
 - [Data management and storage](https://www.griffith.edu.au/eresearch-services#storage)
