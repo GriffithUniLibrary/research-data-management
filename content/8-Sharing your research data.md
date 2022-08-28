@@ -20,12 +20,27 @@ Data management planning templates are available for download [here](https://www
 
 **Publishing and Sharing Data**
  
-Prior to publishing or externally sharing your data you need to assign licences for copyright. Check the copyright page of this resource or contact the Griffith university copyright officer for more details. Generally we assign a 'Creative Commons CC BY 4.0 International licence' licence to data you have personally created, however, this may change due to funding, university or project requirements. *see the copyright pages for more detail* 
-When publishing data for others to use, you will need to create documentation on how the data is organised and stored as well as metadata tags for the repository to use so that others can find the dataset.   You will also need to decide upon what access you give to future users of your data set. 
-Once you upload your data to a repository your data should be assigned a DOI (digital object identifier). This is a persistent link to the dataset, you can use this link to share the location of the dataset and to promote the use of existing data. If you deposit your data into the and external repository you can link this DOI to the Griffith Research repository (GRO).  
+To benefit from making your datasets open, make sure that they: 
+- are easy to find 
+- include information on how the data was collected, saved and accessed 
+- give clear information about how the datasets can be used. 
 
- 
- This looks like...
+***Easy to find*** 
+
+To make it easy for researchers to find, choose a digital repository that is either commonly used in your field of study or is covered by databases such as Google’s [Dataset Search](https://datasetsearch.research.google.com/). When uploading the datasets, include as many relevant labels and tags as possible, and write a description that uses all the words that researchers might use to search for that subject. This is important because most databases do not search for words within the datasets itself; only the words in the labels, tags and descriptions. 
+
+Once you upload your data to a repository, your data should be assigned a DOI (digital object identifier). This is a persistent link to the dataset, you (and other researchers) can use this link to share the location of the dataset and to promote the use of existing data. If you deposit your data into the and external repository you can link this DOI to the [Griffith Research repository (GRO)](https://research-repository.griffith.edu.au/). 
+
+***Information about the data*** 
+
+To make it easy to understand, prepare clear and comprehensive documentation outlining how the data was collected, what instrumentation was used, what software was used to analyse and save the data, what conventions you used in naming, and any other details that will assist researchers to process your datasets fully and correctly to faithfully replicate an analysis of your data.  
+
+***How datasets can be used*** 
+
+A clear statement about how the datasets can be used, and how you can be acknowledged for your work, is in the copyright licence that you assign. For highest impact, consider assigning an [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence allowing anyone to use and adapt your datasets while requiring that you be given appropriate credit. This licence is commonly recommended by funding agreements; however, it is important to consider both the funding and the publishing agreements when assigning the licence. 
+
+Check the copyright page of this guide or contact the Griffith university copyright officer for more details.  
+
 - Many funding agencies and publishers will require a copy of your data is made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
 {% include figure.html img="2022-08-Data-project-end.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data post project" width="100%" %}
  
