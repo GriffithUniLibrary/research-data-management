@@ -4,7 +4,7 @@ nav: true
 ---
 
 
-The following content has been adapted from the [eResearch Services at Griffith University](https://www.griffith.edu.au/eresearch-services) pages. Please refer to these webpagea for more detail. 
+The following content has been adapted from the [eResearch Services at Griffith University](https://www.griffith.edu.au/eresearch-services) pages. Please refer to these webpages for more detail. 
 
 {% include figure.html img="2022-08-data-storage.jpg" alt="File and folder images" caption="eResearch services" width="100%" %}
 
