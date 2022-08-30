@@ -79,7 +79,7 @@ Processing and analysing data in the context of you data management plan is noti
 
  If you have any question around personal or sensitive data check our guides and [workshops](https://app.secure.griffith.edu.au/events/event/69861?REF=75560D41C47413CD32816D481B2E1812A06971F292927472A5D100000002) on working with this type of data.
 
-During the analysis and interpretation phases of your research, explain and document how your analysis or interpretation was done. This is essential and adds authority to your research outputs as are able to be verified and reproduced.  
+As you analyse and interpret your data, document and explain how this process was done. This is essential and adds authority to your research outputs as they are able to be verified and reproduced.  
 As with any research, you must cite your sources, this includes existing datasets, tools or code sets used in the analysis.  
 
 
