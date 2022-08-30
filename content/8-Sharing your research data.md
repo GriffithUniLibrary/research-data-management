@@ -74,10 +74,15 @@ Before submitting a dataset to an archive make sure you can fill out the followi
 | What, if any, Licencing arrangements are in place? |	What type of licence do you wish to apply to the data? | 
 {:.table .table-bordered}
 
+Record all relevant data when submitting your datasets to a repository. Comprehensive description of how the data was gathered and stored will maximise the benefits of storing the datasets in a repository. These benefits include
+- greater reuse and citations by other researchers if you make the datasets open 
+- your research can be faithfully replicated by other researchers questioning your findings.
+- you can replicate your own research if you wish to revisit your research in the future. 
 
-To submit your data to a repository you will need a much wider range of documentation.  information around how and where the data was collected, if it meets university requriements, if hte data is publishable, who can access the data and if you want to submit the dataset to an Open access data repositoty. 
+This information assists researchers (including you in the future) to use the dataset correctly, whether it is for replicating your research, interrogating your findings, or drawing upon your work in new research. 
 
 Most repositories will need information around the following elements:
+
 
 | Topic/Question | Description/notes | Follow up  |
 | ---- | ---- | ---- |
