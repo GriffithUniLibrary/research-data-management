@@ -63,34 +63,40 @@ Set up and standardise your naming conventions and file structures early in your
 
 **IMPORTANT** Check for standards or existing file name conventions in your field **BEFORE** you start. It is particularly important when working with external parties that file naming conventions (FNC) are agreed upon at the beginning of any project. 
 
-If you are creating your own file naming conventions be sure to document them.
+If you are creating your own file naming conventions be sure to document them. 
+
+Once decided, document your file naming structure into a README file located in the folders where your documents are stored. The hardest part of file naming conventions is adherence, embed the systems early to make them part of your reserach practice.
 
 File naming conventions need to be: 
 - machine readable
 - human readable
 - ordered
 
-Machine readable means that it is easy to search for you files, that you can refine your file lists based on how you have named them and you can easily extract the information you need from the file name. 
-File names to need to be easily read and understood by other people, not just you.  Give your files meaningful and consistent titles so you can identify which project the file applies to, which part of the project and when it was created. 
+Machine readable means that it is easy to search your files, that you can refine your file lists based on how you have named them and you can easily extract the information you need from the file name. 
+File names to need to be easily read and understood by other people, not just you. Give your files meaningful and consistent titles so you can identify which project the file applies to, which part of the project and when it was created. 
 
 Our creation date will start to give us order, dates for file management are always in YYYYMMDD order, eg : 20220815. 
+
 An example file naming convention:
+
+**YYYYMMDD_project_element-version.doc**
  
-  - YYYYMMDD = **Date in standardised, agreed format**   
-  - overarching project = this can be where the data is from, what section of the reserach you are at or other large sections of work, maybe a chapter or article
-  - file element = this is the element you are working on, say the data analysis for a chapter, a specific interviewee transcript or a datapoint in the field
+  - YYYYMMDD = **Date in standardised, agreed format**  
+  - Overarching project = location, project section, chapter or article
+  - File element = this is the element you are working on, say the data analysis for a chapter, a specific interviewee transcript or a datapoint in the field
   - Next we have the version of the document = **01** keep this simple
-  
-For easy machine readability file name sections or chunks are separated by an underscore or hyphen, do not use punctuation or upper or lower cases as this can effect the file order and confuse things.
+  - Separate file name sections by an underscore or hyphen. 
+  - **Do not** use punctuation, upper case or special characters as this may alter the file order 
+  - The example below uses *underscores* between key sections and *hyphens* to connect the elements. 
  
 When applied, the FNC would look like this:
  
 **20220818_researchinterviews_candidate-1-transcript_01.doc**
 
-Note how you can clearly see what the file is about, which version its is and when you created it. When you start to add additional files you can see how the folder structure will work and how you can search within. 
-Also note, in this convention we have used *underscores* between key sections and *hyphens* to connect the elements. 
+Note how you can clearly see what the file is about, the version and when you created it. The convention will allow to add additional files that you can be easily searched. 
 
-Best practice is to document this file naming structure into a README file that is contained in the folders where your documents are stored.  The README document should explain the system so that it can easily be understood without the need for further explanation. The hardest part of file naming conventions is adherence, embed the systems early to make them part of your reserach practice.
+
+
 
 *This section has been adapted from Jenny Bryan's [Naming Things]( https://speakerdeck.com/jennybc/how-to-name-files?slide=14) presentation for the Reproduclible Science Workshop.*
 
