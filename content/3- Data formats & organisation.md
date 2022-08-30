@@ -112,9 +112,9 @@ Applied FNC:
 File name sections or chunks are separated by an underscore
 
 
-*This section has been adapted from Jenny Bryan's [Naming Things]( https://speakerdeck.com/jennybc/how-to-name-files?slide=14) presentation for the Reproduclible Science Workshop.*
-
 {% include figure.html img="2022-06-file-name-image.jpg" alt="Image showing file name convention and example" caption="File name convention and example" width="100%" %}
 
+
+*This section has been adapted from Jenny Bryan's [Naming Things]( https://speakerdeck.com/jennybc/how-to-name-files?slide=14) presentation for the Reproduclible Science Workshop.*
 
 
