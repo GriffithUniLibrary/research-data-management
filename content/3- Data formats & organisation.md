@@ -21,9 +21,7 @@ Section 3: File naming conventions
 {% include figure.html img="2022-files-formats-folders.jpg" alt="File and folder images" caption="Formats, files and folders - how will you organise your data?" width="100%" %}
 Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](https://unsplash.com/@markusspiske) and [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) on [Unsplash](https://unsplash.com/)
 
-
-Research data or materials, gathered and produced during the course of your project, can include drafts, interview questions, video and audio recordings, transcripts, research notes, log books and basic analysis. Much of this material can be used again in future projects. Your research data, when properly oragniased and mananged, can explain how your conclusions were reached, validate your findings and help you to trouble shoot issues in your work.
-
+Your research data, when properly oragniased and mananged, can document how your conclusions were reached, validate your findings, to help trouble shoot issues in your work and can also be used again in future projects. 
 
 Research data can take many forms including;
 
