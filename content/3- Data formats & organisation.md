@@ -77,7 +77,7 @@ File names to need to be easily read and understood by other people, not just yo
 
 Our creation date will start to give us order, dates for file management are always in YYYYMMDD order, eg : 20220815. 
 
-**An example file naming convention:
+**An example file naming convention
 
 YYYYMMDD_project_element-version.doc**
 
@@ -97,7 +97,7 @@ TIP!
  
 You can clearly see what the file is about, the version and when the file was created. The convention will allow to add additional files that can be easily searched based off the file name.
 
-**Another example of file naming convention:
+**Another example of file naming convention
 
 YYYYMMDD_SiteA_SensorB.csv
 
