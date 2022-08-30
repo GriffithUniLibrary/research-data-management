@@ -67,7 +67,7 @@ This looks like...
 More details examples and explanations of data organisation can be found in [Data formats & organisation](https://griffithunilibrary.github.io/research-data-management/content/3-%20Data%20formats%20&%20organisation.html)
  **Processing and analysing data**
 
-Processing and analysing data in the context of you data management plan is noting down the processes involved.
+In the context of you data management plan, document the processes, systems, workflows and tools used to porcess and analyse your research data.
 
 #### How did you create your dataset? 
 - Was the data created via digitisation?
@@ -80,6 +80,7 @@ Processing and analysing data in the context of you data management plan is noti
  If you have any question around personal or sensitive data check our guides and [workshops](https://app.secure.griffith.edu.au/events/event/69861?REF=75560D41C47413CD32816D481B2E1812A06971F292927472A5D100000002) on working with this type of data.
 
 As you analyse and interpret your data, document and explain how this process was done. This is essential and adds authority to your research outputs as they are able to be verified and reproduced.  
+
 As with any research, you must cite your sources, this includes existing datasets, tools or code sets used in the analysis.  
 
 
