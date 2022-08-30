@@ -46,10 +46,17 @@ Check the copyright page of this guide or contact the Griffith university copyri
  
  **Preserving and Archiving Data sets**
 
-When preparing data to be archived there are a few key areas that all repositories will need to know.  The first element is copyright. There are different copyright permissions required for data and data sets that are collected with external funding, this funding can effect how and where the data is stored and the access to it.  In most cases copyright and access for datasets is organised prior to the data being collected, but for some older data sets these permsissions will need to be negotiated with the funding bodies, these negotiation are undertaken with the assistance of the GU copyright officer. 
-- For research undertaken at Griffith University, Griffith owns the copyright to the data .
-- Where there is shared ownership, you will need permissions to archive and share the data. 
-Before submitting a dataset to an archive make sure you can fill out the following checklist:
+When archiving your datasets, there are factors which can influence the decisions you make. Your choices can be limited by: 
+- the requirements of funders 
+- the guidelines from journal publishers  
+- the practices within the academic discipline 
+- legislation (i.e., human subjects) 
+
+One or more of these requirements may determine your choice of access, repository, and copyright licence. 
+
+To release a dataset with a copyright licence, you must first have sufficient rights to the dataset. Details such as intellectual property rights can be confusing, particularly if it is being determined retrospectively. For more Information, go to Griffith’s [Copyright matters](https://www.griffith.edu.au/copyright-matters) page, where you can also find the contact details for the Information Policy Officer. 
+
+Before submitting a dataset to an archive make sure you can fill out the following checklist: 
 
 **Copyright elements**
 
