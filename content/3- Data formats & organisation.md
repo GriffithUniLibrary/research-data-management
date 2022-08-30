@@ -97,13 +97,13 @@ TIP!
  
 You can clearly see what the file is about, the version and when the file was created. The convention will allow to add additional files that can be easily searched based off the file name.
 
-Another example of file naming convention:
+**Another example of file naming convention:
 
-**YYYYMMDD_SiteA_SensorB.csv
+YYYYMMDD_SiteA_SensorB.csv
 
 APPLIED FNC
 
-**20210621_Southport_Humidity.csv
+20210621_Southport_Humidity.csv
 
 YYYYMMDD = Date in standardised, agreed format
 
