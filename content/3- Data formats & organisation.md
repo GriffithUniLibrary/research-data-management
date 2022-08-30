@@ -22,7 +22,7 @@ Section 3: File naming conventions
 Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](https://unsplash.com/@markusspiske) and [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) on [Unsplash](https://unsplash.com/)
 
 
->During the course of your research project you will collect a large amount of documentation and materails that were used to in the process of writing the disseration. It is important for auditability and reprocudability that you capture and store these materails. These materails can include drafts of chapters, interview questionss, video and audio recordings and the transcripts as well as research notes, log books and basic analysis. All of this materail helped you generate the content of your research and much of it can be used again. Your research data can help you better explain how you came to certain conclusions, why you took the path you did and help you to trouble shoot issues in your work.
+>Duringyour research project you will gather and produce a vast amounts of material. Materials can include drafts, interview questions, video and audio recordings, transcripts, research notes, log books and basic analysis. Much of this material can be used again in future projects. Your research data, when properly oragniased and mananged, can explain how your conclusions were reached, validate your findings and help you to trouble shoot issues in your work.
 
 
 Research data can take many forms inculding;
@@ -43,7 +43,7 @@ Research data can take many forms inculding;
 {% include figure.html img="2022-08-Data-Org-2.jpg" alt="Example data management plan showing data organisation and storage" caption="Example data management plan: Data organisation, Storage and back up" width="100%" %}
 
 ### Folder structures
->Having a standard folder structure will help you keep your files organised and save you time looking for data. Proper folder structures also help if you are sharing materials with colleagues as by having a folder structures and standards in place it is both easier to find and save working data and documentation.
+>A standard folder structure will help you keep your files organised and save you time looking for data. Proper folder structures also help if you are sharing materials with colleagues as by having a folder structures and standards in place it is both easier to find and save working data and documentation.
 To create a folder naming convention
 - Assign folders real titles
 - Folder titles should be easily understood by external parties
