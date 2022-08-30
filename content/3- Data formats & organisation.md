@@ -47,9 +47,9 @@ A standard folder structure will assist with organising, locating and sharing yo
 To create a folder naming convention:
 - Assign folders real titles that can be understood by external parties
 - Create new folders and sub folders for new areas of work
-- Pre-fix folder names with numbers, e.g. 01, 02 etc to order files by the steps in your workflow. Use zero  
+- Pre-fix folder names with numbers, e.g. 01, 02 etc to order files by the steps in your workflow. Use zero before each number to maintain numerical order. 
 
-We recommned documenting your folder structures into a "README" file saved in each folder set. The README file will explain the folder system and outline the contents of your folders. 
+We recommned documenting your folder structures into a "README" file saved in each folder set. The README file will explain your folder system and outline the contents of your folders. 
 
 
 {% include figure.html img="2022-06-Folder_Structure.jpg" alt="Image showing folder structure with README file and number to force folder order to workflow steps" caption="Folder structure with README file and number to force folder order to workflow steps" width="100%" %}
