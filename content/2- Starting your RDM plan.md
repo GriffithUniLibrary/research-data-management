@@ -15,7 +15,7 @@ Section 1: Why good data management practice?
 
 Section 2: Data Planning and the Research Data Lifecycle
 
-Section 2: Processing and Analysing Data
+Section 3: Processing and Analysing Data
 
 
 
