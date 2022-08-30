@@ -89,11 +89,12 @@ Applied FNC:
   - Overarching project = examples include location, project section, chapter or article
   - File element = data analysis for a chapter, a specific interviewee transcript, datapoint in the field
   - Document version = 01, 02, 03 etc keep this simple
-  - Separate file name sections by an underscore or hyphen
+
+
+File name sections or chunks are separated file by an underscore or hyphen. This example uses *underscores* between key sections and *hyphens* to connect the elements. 
 
 TIP! 
   - **Do not** use punctuation, upper case or special characters as this may alter the file order 
-  - The example below uses *underscores* between key sections and *hyphens* to connect the elements. 
  
 You can clearly see what the file is about, the version and when the file was created. The convention will allow you to add additional files that can be easily searched based off the file name.
 
