@@ -112,4 +112,3 @@ Using an exsiting dataset can help you to scrutinize your research findings, sho
 To find and examine exisiting datasets explore the libraries [Find data](https://libraryguides.griffith.edu.au/finddata) pages. 
 
 
-Image & text adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
