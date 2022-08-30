@@ -18,24 +18,24 @@ Data management planning templates are available for download [here](https://www
   
   Section 4: Re-using data
 
-**Publishing and Sharing Data**
+## Publishing and Sharing Data
  
 To benefit from making your datasets open, make sure that they: 
 - are easy to find 
 - include information on how the data was collected, saved and accessed 
 - give clear information about how the datasets can be used. 
 
-***Easy to find*** 
+### Easy to find
 
 To make it easy for researchers to find, choose a digital repository that is either commonly used in your field of study or is covered by databases such as Google’s [Dataset Search](https://datasetsearch.research.google.com/). When uploading the datasets, include as many relevant labels and tags as possible, and write a description that uses some of the words that researchers might use to search for that subject. This is important because most databases do not search through words within the datasets itself; only the words in the labels, tags and descriptions. 
 
 Once you upload your data to a repository, your data should be assigned a DOI (digital object identifier). This is a persistent link to the dataset, you (and other researchers) can use this link to share the location of the dataset and to promote the use of existing data. If you deposit your data into the and external repository you can link this DOI to the [Griffith Research repository (GRO)](https://research-repository.griffith.edu.au/). 
 
-***Information about the data*** 
+### Information about the data
 
 To make it easy to understand, prepare clear and comprehensive documentation outlining how the data was collected, what instrumentation was used, what software was used to analyse and save the data, what conventions you used in naming, and any other details that will assist researchers to process your datasets fully and correctly to faithfully replicate an analysis of your data.  
 
-***How datasets can be used*** 
+### How datasets can be used
 
 A clear statement about how the datasets can be used, and how you can be acknowledged for your work, is in the copyright licence that you assign. For highest impact, consider assigning an [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence allowing anyone to use and adapt your datasets while requiring that you be given appropriate credit. This licence is commonly recommended by funding agreements; however, it is important to consider both the funding and the publishing agreements when assigning the licence. 
 
@@ -44,7 +44,7 @@ Check the copyright page of this guide or contact the Griffith university copyri
 - Many funding agencies and publishers will require a copy of your data is made available via a repository ie [Griffith Research Online (GRO)](https://research-repository.griffith.edu.au/)
 {% include figure.html img="2022-08-Data-project-end.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data post project" width="100%" %}
  
- **Preserving and Archiving Data sets**
+## Preserving and Archiving Data sets
 
 When archiving your datasets, there are factors which can influence the decisions you make. Your choices can be limited by: 
 - the requirements of funders 
@@ -58,7 +58,7 @@ To release a dataset with a copyright licence, you must first have sufficient ri
 
 Before submitting a dataset to an archive make sure you can fill out the following checklist: 
 
-**Copyright elements**
+## Copyright elements
 
 | Element | Notes |
 | ---- | ---- | 
@@ -98,7 +98,7 @@ Have you used File & folder naming conventions | Is this convention intuitive or
 
 
 
-**Re-Using Data**
+## Re-Using Data
 
 Re-using and the analysis of exsiting datasets is an excellent way to expand, compare and test your research data. Where data exists in similar areas you can re-use the existing sets instead of creating or studying well researched areas, eg: gathering school data or public polling. 
 
