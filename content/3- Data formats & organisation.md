@@ -57,11 +57,13 @@ We recommend documenting your folder structures into a "README" file saved in ea
 
 ### File naming conventions
 
-A File Naming Convention (FNC) or protocol allows you to systematically name your files, describing not only what each file contains but also how the project files relate to each other. Set up and standardise your naming conventions and file structures early in your research project. 
+A File Naming Convention (FNC) or protocol allows you to systematically name your files, describing not only what each file contains but also how the project files relate to each other. 
+
+Set up and standardise your naming conventions and file structures early in your research project. 
 
 **IMPORTANT** Check for standards or existing file name conventions in your field **BEFORE** you start. It is particularly important when working with external parties that file naming conventions (FNC) are agreed upon at the beginning of any project. 
 
-When creating your own file naming conventions make sure you document them.
+If you are creating your own file naming conventions be sure to document them.
 
 File naming conventions need to be: 
 - machine readable
@@ -69,7 +71,7 @@ File naming conventions need to be:
 - ordered
 
 Machine readable means that it is easy to search for you files, that you can refine your file lists based on how you have named them and you can easily extract the information you need from the file name. 
-File name to need to be easily read and understood by other people, not just you.  Give your files meaningful and consistent titles so you can identify which project the file applies to, which part of the project and when it was created. 
+File names to need to be easily read and understood by other people, not just you.  Give your files meaningful and consistent titles so you can identify which project the file applies to, which part of the project and when it was created. 
 
 Our creation date will start to give us order, dates for file management are always in YYYYMMDD order, eg : 20220815. 
 An example file naming convention:
