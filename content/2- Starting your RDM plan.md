@@ -81,7 +81,7 @@ In the context of you data management plan, document the processes, systems, wor
 
 As you analyse and interpret your data, document and explain how these processes were done. This is essential and adds authority to your research outputs as they are able to be independantly verified and reproduced.  
 
-As with any research, you must cite your sources. This requirement includes existing datasets, tools or code sets used in the analysis.  
+**Remember** As with any research, you must cite your sources. This requirement includes existing datasets, tools or code sets used in the analysis.  
 
 
  
