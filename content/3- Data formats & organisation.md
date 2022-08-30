@@ -57,13 +57,13 @@ We recommned documenting your folder structures into a "README" file saved in ea
 
 ### File naming conventions
 
->A File Naming Convention (FNC) or protocol allows you to systematically name your files, describing not only what each file contains but also how the project files relate to each other
+>A File Naming Convention (FNC) or protocol allows you to systematically name your files, describing not only what each file contains but also how the project files relate to each other. Set up and standardise your naming conventions and file structures early in your research project. 
 
-Set up and standardise your naming conventions and file structures early in your research project. Having your convetions and filing systems in place will keep you organised and 
+**IMPORTANT** Check for standards or existing file name conventions in your field **BEFORE** you start. It is particularly important when working with external parties that file naming conventions (FNC) are agreed upon at the beginning of any project. 
 
-**IMPORTANT** Check for standards or existing file name conventions in your field BEFORE you start. If you are working with external bodies it is also vital that file naming conventions (FNC) are agreed upon at the beginning of any project. 
+When creating your own file naming conventions make sure you document them.
 
-File naming conventions need to be; 
+File naming conventions need to be: 
 - machine readable
 - human readable
 - ordered
