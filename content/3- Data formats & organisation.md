@@ -22,7 +22,7 @@ Section 3: File naming conventions
 Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](https://unsplash.com/@markusspiske) and [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) on [Unsplash](https://unsplash.com/)
 
 
->Duringyour research project you will gather and produce a vast amounts of material. Materials can include drafts, interview questions, video and audio recordings, transcripts, research notes, log books and basic analysis. Much of this material can be used again in future projects. Your research data, when properly oragniased and mananged, can explain how your conclusions were reached, validate your findings and help you to trouble shoot issues in your work.
+Research data or materials, gathered and produced during the course of your project, can include drafts, interview questions, video and audio recordings, transcripts, research notes, log books and basic analysis. Much of this material can be used again in future projects. Your research data, when properly oragniased and mananged, can explain how your conclusions were reached, validate your findings and help you to trouble shoot issues in your work.
 
 
 Research data can take many forms inculding;
