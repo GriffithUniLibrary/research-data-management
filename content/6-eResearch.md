@@ -4,11 +4,11 @@ nav: true
 ---
 
 
-The following content has been adapted from the [eResearch Services at Griffith University](https://www.griffith.edu.au/eresearch-services) pages. Please refer to these page for more detail. 
+The following content has been adapted from the [eResearch Services at Griffith University](https://www.griffith.edu.au/eresearch-services) pages. Please refer to these webpagea for more detail. 
 
 {% include figure.html img="2022-08-data-storage.jpg" alt="File and folder images" caption="eResearch services" width="100%" %}
 
-eReserach can assist you with many aspects of data management, in particular, the use and application of computational methods.  eResearch Services can assist with data capture methodology, the management and storage of large or sensitive data sets and the use of computational tools for data analysis and visualisation. eResearch also offers training in computational methods such as R and Python and can assist with High Performance Computing (HPC). eResearch Services provides inhouse training as well as training from external providers such as [QCIF](https://www.qcif.edu.au/) and the [ARDC](https://ardc.edu.au/). 
+eReserach can help you with many aspects of data management, particularly in the use and application of computational methods.  eResearch Services can assist with data capture methodology, the management and storage of large or sensitive data sets and the use of computational tools for data analysis and visualisation. eResearch also offers training in computational methods such as R and Python and can assist with High Performance Computing (HPC). eResearch Services provides inhouse training as well as training from external providers such as [QCIF](https://www.qcif.edu.au/) and the [ARDC](https://ardc.edu.au/). 
 
 The key services provided by eResearch services at Giffith University include:
 - [Application development and support](https://www.griffith.edu.au/eresearch-services#app)
