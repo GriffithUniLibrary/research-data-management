@@ -106,9 +106,7 @@ Applied FNC:
 *20210621_Southport_Humidity.csv*
 
 - YYYYMMDD = Date in standardised, agreed format
-
 - SiteA = Location
-
 - Sensor B = Sensor
 
 File name sections or chunks are separated by an underscore
