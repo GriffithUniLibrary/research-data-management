@@ -62,7 +62,7 @@ like your file naming systems, it is best practice is to document your folder na
 
 Set up and standardise your naming conventions and file structures early in your research project. Having your convetions and filing systems in place will keep you organised and 
 
-**IMPORTANT**Prior to starting check for standards or existing file name conventions in your field, this will make collaboration and sharing of data easier.  If you are working with external bodies it is also vital that file naming conventions (FNC) are agreed upon at the beginning of any project. 
+**IMPORTANT** Check for standards or existing file name conventions in your field BEFORE you start. If you are working with external bodies it is also vital that file naming conventions (FNC) are agreed upon at the beginning of any project. 
 
 File naming conventions need to be; 
 - machine readable
