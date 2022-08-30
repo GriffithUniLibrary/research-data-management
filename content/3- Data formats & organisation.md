@@ -74,7 +74,7 @@ Machine readable means that it is easy to search your files, that you can refine
 
 File names to need to be easily read and understood by other people, not just you. Give your files meaningful and consistent titles so you can identify which project the file applies to, which part of the project and when it was created. 
 
-The creation date is the starting point creating order. We estrongly recommend that dates for file management are formatted as YYYYMMDD order eg : 20220815, in line with intenational standards [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
+The creation date is the best place to begin organising our files. We strongly recommend that dates for file management are formatted as YYYYMMDD order eg : 20220815, in line with intenational standards [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
 
 **An example file name convention**
 
