@@ -49,7 +49,7 @@ To create a folder naming convention:
 - Create new folders and sub folders for new areas of work
 - Pre-fix folder names with numbers, e.g. 01, 02 etc to order files by the steps in your workflow. Use zero before each number to maintain numerical order. 
 
-We recommned documenting your folder structures into a "README" file saved in each folder set. The README file will explain your folder system and outline the contents of your folders. 
+We recommend documenting your folder structures into a "README" file saved in each folder set. The README file will explain your folder system and outline the contents of your folders. 
 
 
 {% include figure.html img="2022-06-Folder_Structure.jpg" alt="Image showing folder structure with README file and number to force folder order to workflow steps" caption="Folder structure with README file and number to force folder order to workflow steps" width="100%" %}
@@ -57,7 +57,7 @@ We recommned documenting your folder structures into a "README" file saved in ea
 
 ### File naming conventions
 
->A File Naming Convention (FNC) or protocol allows you to systematically name your files, describing not only what each file contains but also how the project files relate to each other. Set up and standardise your naming conventions and file structures early in your research project. 
+A File Naming Convention (FNC) or protocol allows you to systematically name your files, describing not only what each file contains but also how the project files relate to each other. Set up and standardise your naming conventions and file structures early in your research project. 
 
 **IMPORTANT** Check for standards or existing file name conventions in your field **BEFORE** you start. It is particularly important when working with external parties that file naming conventions (FNC) are agreed upon at the beginning of any project. 
 
@@ -68,8 +68,8 @@ File naming conventions need to be:
 - human readable
 - ordered
 
-Machine readable in this context means that it is easy to search for you files, that you can refine your file lists based upon how you have named them and you can easily extract the information you need from the file name. 
-you also want the file name to easily read and understood by people, not just you.  To do this, give your files meaningful and consistent titles, which project the file applies to, which part of the project and when it was created. 
+Machine readable means that it is easy to search for you files, that you can refine your file lists based on how you have named them and you can easily extract the information you need from the file name. 
+File name to need to be easily read and understood by other people, not just you.  Give your files meaningful and consistent titles so you can identify which project the file applies to, which part of the project and when it was created. 
 
 Our creation date will start to give us order, dates for file management are always in YYYYMMDD order, eg : 20220815. 
 An example file naming convention:
