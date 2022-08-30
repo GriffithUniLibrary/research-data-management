@@ -13,9 +13,9 @@ This module will help you with the **Data collection-creation** and **Data organ
 
 Section 1: Why good data management practice?
 
-Section 2: Data Planning and the Research Data Lifecycle
+Section 2: Data planning and the research data lifecycle
 
-Section 3: Processing and Analysing Data
+Section 3: Processing and analysing data
 
 
 
@@ -34,13 +34,13 @@ Managing the data that you use and generate from your research is integral to go
 
 Images: [Nong V](https://unsplash.com/@californong) and [Towfiqu barbhuiya](https://unsplash.com/es/@towfiqu999999) and [AbsolutVision](https://unsplash.com/@freegraphictoday) on [Unsplash](https://unsplash.com/)
 
-## Data Planning and The Research Data Lifecycle 
+## Data planning and the research data lifecycle 
 
  {% include figure.html img="2022-07-ResDataLifeCycle.jpg" alt="Image showing the Research Data Lifecycle" caption="The research data lifecycle" width="100%" %}
  
  Image adapted from: [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) [Research Data Lifecycle](https://youtu.be/-wjFMMQD3UA)
  
- **Planning Research**
+ **Planning research**
 
 Think about your data needs before starting your project. 
 Your project's data management plan includes planning for consent, sharing of data and resources, **how your data will be collected** and examining the data processing protocols and templates you might use.  If you are new to research or research data planning, have a look at some existing datasets for methods and systems used by others. 
@@ -53,7 +53,7 @@ You can find existing data sets [here](https://libraryguides.griffith.edu.au/fin
 - Good planning takes into account legal and ethical implications and facilitates future-proofing your research data.
 {% include figure.html img="2022-08-Data-collect-create.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data collection-creation" width="100%" %}
 
- **Data Organisation** 
+ **Data organisation** 
  
 This section describes how you will file, name and organise your data. We suggest that you create readme files to describe your naming convention and folder organization system(s). If you are using existing data sets, it will explain you have adapted these data sets for your project. The conventions and associated readme files are known as metadata or data that describes data. It will assist you in setting up safe storage systems for general use, for sharing and archiving your data while your project is running and after the project has finished. 
 
@@ -68,7 +68,7 @@ This looks like...
 More details examples and explanations of data organisation can be found in [Data formats & organisation](https://griffithunilibrary.github.io/research-data-management/content/3-%20Data%20formats%20&%20organisation.html)
 
 
-## Processing and Analysing Data
+## Processing and analysing data
 
 In the context of you data management plan, document the processes, systems, workflows and tools used to porcess and analyse your research data.
 
