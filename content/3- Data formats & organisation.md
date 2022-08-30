@@ -80,9 +80,13 @@ Our creation date will start to give us order, dates for file management are alw
 An example file naming convention:
 
 **YYYYMMDD_project_element-version.doc**
+
+APPLLIED FNC
+
+**20220818_researchinterviews_candidate-1-transcript_01.doc**
  
-  - YYYYMMDD = **Date in standardised, agreed format**  
-  - Overarching project = location, project section, chapter or article
+  - YYYYMMDD = Date in standardised, agreed format  
+  - Overarching project = examples include location, project section, chapter or article
   - File element = data analysis for a chapter, a specific interviewee transcript, datapoint in the field
   - Document version = 01, 02, 03 etc keep this simple
   - Separate file name sections by an underscore or hyphen
@@ -91,15 +95,15 @@ TIP!
   - **Do not** use punctuation, upper case or special characters as this may alter the file order 
   - The example below uses *underscores* between key sections and *hyphens* to connect the elements. 
  
-When applied, the FNC would look like this:
- 
-**20220818_researchinterviews_candidate-1-transcript_01.doc**
-
-Note that you can clearly see what the file is about, the version and when the file was created. The convention will allow to add additional files that can be easily searched based off the file name.
+You can clearly see what the file is about, the version and when the file was created. The convention will allow to add additional files that can be easily searched based off the file name.
 
 Another example of file naming convention:
 
 **YYYYMMDD_SiteA_SensorB.csv
+
+APPLIED FNC
+
+**20210621_Southport_Humidity.csv
 
 YYYYMMDD = Date in standardised, agreed format
 
@@ -109,9 +113,6 @@ Sensor B = Sensor
 
 File name sections or chunks are separated by an underscore
 
-When applied, the FNC would look like this:
-
-20210621_Southport_Humidity.csv
 
 *This section has been adapted from Jenny Bryan's [Naming Things]( https://speakerdeck.com/jennybc/how-to-name-files?slide=14) presentation for the Reproduclible Science Workshop.*
 
