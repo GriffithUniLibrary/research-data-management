@@ -68,7 +68,7 @@ This looks like...
 More details examples and explanations of data organisation can be found in [Data formats & organisation](https://griffithunilibrary.github.io/research-data-management/content/3-%20Data%20formats%20&%20organisation.html)
 
 
-## Processing and analysing data
+## Processing and Analysing Data
 
 In the context of you data management plan, document the processes, systems, workflows and tools used to porcess and analyse your research data.
 
@@ -84,7 +84,7 @@ In the context of you data management plan, document the processes, systems, wor
 
 As you analyse and interpret your data, document and explain how these processes were done. This is essential and adds authority to your research outputs as they are able to be independantly verified and reproduced.  
 
-**Remember** As with any research, you must cite your sources. This requirement includes existing datasets, tools or code sets used in the analysis.  
+**Remember**, as with any research, you must cite your sources. This requirement includes existing datasets, tools or code sets used in the analysis.  
 
 
  
