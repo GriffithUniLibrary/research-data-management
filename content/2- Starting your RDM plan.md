@@ -15,7 +15,6 @@ Section 1: Why good data management practice?
 
 Section 2: Data Planning and the Research Data Lifecycle
 
-Section 3: Data formats, file names and folder structures
 
 
 
@@ -65,7 +64,9 @@ This looks like...
 {% include figure.html img="2022-08-data-organisation-back-up.jpg" alt="Image showing worked example of data management plan" caption="Example data management plan: Data organisation" width="100%" %}
 
 More details examples and explanations of data organisation can be found in [Data formats & organisation](https://griffithunilibrary.github.io/research-data-management/content/3-%20Data%20formats%20&%20organisation.html)
- **Processing and analysing data**
+
+
+### Processing and analysing data
 
 In the context of you data management plan, document the processes, systems, workflows and tools used to porcess and analyse your research data.
 
