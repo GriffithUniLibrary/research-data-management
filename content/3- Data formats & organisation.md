@@ -83,9 +83,11 @@ An example file naming convention:
  
   - YYYYMMDD = **Date in standardised, agreed format**  
   - Overarching project = location, project section, chapter or article
-  - File element = this is the element you are working on, say the data analysis for a chapter, a specific interviewee transcript or a datapoint in the field
-  - Document version = **01**  keep this simple
-  - Separate file name sections by an underscore or hyphen. 
+  - File element = data analysis for a chapter, a specific interviewee transcript, datapoint in the field
+  - Document version = 01, 02, 03 etc keep this simple
+  - Separate file name sections by an underscore or hyphen
+
+TIP! 
   - **Do not** use punctuation, upper case or special characters as this may alter the file order 
   - The example below uses *underscores* between key sections and *hyphens* to connect the elements. 
  
