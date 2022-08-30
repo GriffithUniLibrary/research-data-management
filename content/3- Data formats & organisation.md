@@ -95,9 +95,9 @@ File name sections or chunks are separated file by an underscore or hyphen.
 
 This example uses *underscores* between key sections and *hyphens* to connect the elements. 
 
-TIP! **Do not** use punctuation, upper case or special characters as this may alter the file order 
- 
 You can clearly see what the file is about, the version and when the file was created. The convention will allow you to add additional files that can be easily searched based off the file name.
+
+TIP! **Do not** use punctuation, upper case or special characters as this may alter the file order 
 
 **Second example of a file name convention**
 
