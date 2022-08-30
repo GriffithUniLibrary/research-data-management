@@ -25,7 +25,7 @@ Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](h
 Research data or materials, gathered and produced during the course of your project, can include drafts, interview questions, video and audio recordings, transcripts, research notes, log books and basic analysis. Much of this material can be used again in future projects. Your research data, when properly oragniased and mananged, can explain how your conclusions were reached, validate your findings and help you to trouble shoot issues in your work.
 
 
-Research data can take many forms inculding;
+Research data can take many forms including;
 
 - Artefacts, specimens, physical samples
 - Content analysis
@@ -43,14 +43,13 @@ Research data can take many forms inculding;
 {% include figure.html img="2022-08-Data-Org-2.jpg" alt="Example data management plan showing data organisation and storage" caption="Example data management plan: Data organisation, Storage and back up" width="100%" %}
 
 ### Folder structures
->A standard folder structure will help you keep your files organised and save you time looking for data. Proper folder structures also help if you are sharing materials with colleagues as by having a folder structures and standards in place it is both easier to find and save working data and documentation.
-To create a folder naming convention
-- Assign folders real titles
-- Folder titles should be easily understood by external parties
+A standard folder structure will assist with organising, locating and sharing your research data. 
+To create a folder naming convention:
+- Assign folders real titles that can be understood by external parties
 - Create new folders and sub folders for new areas of work
-- Pre-fix folder names with numbers so the files can be ordered by the steps in your workflow, eg; 01, 02 etc always use zero first to avoid later confusion. 
+- Pre-fix folder names with numbers, e.g. 01, 02 etc to order files by the steps in your workflow. Use zero  
 
-like your file naming systems, it is best practice is to document your folder naming structures for future reference into a "README" file saved in each folder set. This file will explain the folder systems in use and outline the basic contents of the folders. 
+We recommned documenting your folder structures into a "README" file saved in each folder set. The README file will explain the folder system and outline the contents of your folders. 
 
 
 {% include figure.html img="2022-06-Folder_Structure.jpg" alt="Image showing folder structure with README file and number to force folder order to workflow steps" caption="Folder structure with README file and number to force folder order to workflow steps" width="100%" %}
