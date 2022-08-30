@@ -71,9 +71,10 @@ File naming conventions need to be:
 - ordered
 
 Machine readable means that it is easy to search your files, that you can refine your file lists based on how you have named them and you can easily extract the information you need from the file name. 
+
 File names to need to be easily read and understood by other people, not just you. Give your files meaningful and consistent titles so you can identify which project the file applies to, which part of the project and when it was created. 
 
-Our creation date will start to give us order, dates for file management are always in YYYYMMDD order, eg : 20220815. 
+The creation date is the starting point creating order. We estrongly recommend that dates for file management are formatted as YYYYMMDD order eg : 20220815, in line with intenational standards [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
 
 **An example file name convention**
 
