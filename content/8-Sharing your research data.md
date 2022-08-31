@@ -27,6 +27,8 @@ To benefit from making your datasets open, make sure that they:
 
 ### Easy to find
 
+<img src="/research-data-management/images/data-drives.png" alt="Image for decoration" align="right"> 
+
 To make it easy for researchers to find, choose a digital repository that is either commonly used in your field of study or is covered by databases such as Google’s [Dataset Search](https://datasetsearch.research.google.com/). When uploading the datasets, include as many relevant labels and tags as possible, and write a description that uses some of the words that researchers might use to search for that subject. This is important because most databases do not search through words within the datasets itself; only the words in the labels, tags and descriptions. 
 
 Once you upload your data to a repository, your data should be assigned a DOI (digital object identifier). This is a persistent link to the dataset, you (and other researchers) can use this link to share the location of the dataset and to promote the use of existing data. If you deposit your data into the and external repository you can link this DOI to the [Griffith Research repository (GRO)](https://research-repository.griffith.edu.au/). 
@@ -53,6 +55,8 @@ When archiving your datasets, there are factors which can influence the decision
 - the guidelines from journal publishers  
 - the practices within the academic discipline 
 - legislation (i.e., human subjects) 
+
+img src="/research-data-management/images/FloppyDiscsLittle.png" alt="Image for decoration" align="left"> 
 
 One or more of these requirements may determine your choice of access, repository, and copyright licence. 
 
