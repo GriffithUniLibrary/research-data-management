@@ -56,7 +56,7 @@ When archiving your datasets, there are factors which can influence the decision
 - the practices within the academic discipline 
 - legislation (i.e., human subjects) 
 
-img src="/research-data-management/images/FloppyDiscsLittle.png" alt="Image for decoration" align="left"> 
+<img src="/research-data-management/images/FloppyDiscsLittle.png" alt="Image for decoration" align="left"> 
 
 One or more of these requirements may determine your choice of access, repository, and copyright licence. 
 
