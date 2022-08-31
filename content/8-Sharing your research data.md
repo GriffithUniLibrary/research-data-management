@@ -33,8 +33,9 @@ Once you upload your data to a repository, your data should be assigned a DOI (d
 
 ### Information about the data
 
-To make it easy to understand, prepare clear and comprehensive documentation outlining how the data was collected, what instrumentation was used, what software was used to analyse and save the data, what conventions you used in naming, and any other details that will assist researchers to process your datasets fully and correctly to faithfully replicate an analysis of your data.  
 <img src="image/data-acquisition-system-small.png" alt="Image for decoration" align="right"> 
+
+To make it easy to understand, prepare clear and comprehensive documentation outlining how the data was collected, what instrumentation was used, what software was used to analyse and save the data, what conventions you used in naming, and any other details that will assist researchers to process your datasets fully and correctly to faithfully replicate an analysis of your data.  
 
 ### How datasets can be used
 
