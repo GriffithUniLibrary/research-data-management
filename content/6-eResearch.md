@@ -6,6 +6,10 @@ nav: true
 
 The following content has been adapted from the [eResearch Services at Griffith University](https://www.griffith.edu.au/eresearch-services) pages. Please refer to these webpages for more detail. 
 
+
+This module will help you with the Storage and Backup section of your data management plan. Data management planning templates are available for download here or directly from our library data management page here.
+----
+
 {% include figure.html img="2022-08-data-storage.jpg" alt="File and folder images" caption="eResearch Services" width="100%" %}
 
 eReserach can help you with many aspects of data management, particularly in the use and application of computational methods.  eResearch Services can assist with data capture methodology, the management and storage of large or sensitive data sets and the use of computational tools for data analysis and visualisation. eResearch Services also offers training in computational methods such as R and Python and can assist with High Performance Computing (HPC). eResearch Services provides inhouse training as well as training from external providers such as [QCIF](https://www.qcif.edu.au/) and the [ARDC](https://ardc.edu.au/). 
