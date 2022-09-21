@@ -74,11 +74,13 @@ If your data is sensitive, you need to know that affects storage options.
 ![Storage options](https://user-images.githubusercontent.com/42364968/185262811-f3b6479d-effb-431e-990f-fcd34b8a886a.png)
 
 
-firsly you will need to work out how sensitive the dataset is: https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/information-security.aspx
-and then discern what that sensitivity level actually means for your datasets https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/information-security.aspx#official-(internal)
+**First** work out how sensitive the dataset is: https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/information-security.aspx
 
-the sensitivity of your data dictates where you can store it: https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/Approved-services.aspx
 
-if you have hardcopy datasets these still need to ne archived and stored. check here for options. https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/Offsite-storage-of-research-data.aspx
+**Second** discern what that sensitivity level means for your datasets https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/information-security.aspx#official-(internal)
+
+**Note:** the sensitivity of your data dictates where you can store it: https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/Approved-services.aspx
+
+**Hardcopy datasets** still need to ne archived and stored. Check here for options. https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/Offsite-storage-of-research-data.aspx
 
 
