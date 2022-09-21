@@ -36,22 +36,24 @@ Griffith University offers various storage services to all researchers and resea
 
 
 ## 2 Storage options
-  *note this are a very small selection of what type of storage options are availble to you*
+  *note this is a very small selection of the type of storage options availble to you*
  
 **Griffith Research Online (GRO) Research data collection**
 This repository makes research data collections accessible and searchable via a web interface. Current submissions are restricted to approval from the Library. Please see the Collection Statement for more information.
 
-***QRISCloud***
+**QRISCloud**
 Virtual machines for research use (such as compute-intensive analysis) and provides high-volume data storage capacity for research data
 
 **Microscopy Portal** 
 Analyse, visualise and store your microscopy images and easily create and customise algorithms to compare multiple samples, plates or batches
+
 ```
 Please note, Griffith research storage services does not include: 
     Non-research and personal data storage and data management.
     Infrastructure provisioning for non-research based or personal websites.
     Support for research storage options managed by other organisational units at Griffith.
     Internal Network-Attached Storage (NAS) that is available to Staff (G Drive) and Students (H Drive).
+```
 
 **Retention and achiving**
 Retention
