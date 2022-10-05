@@ -52,7 +52,9 @@ You can find existing data sets [here](https://libraryguides.griffith.edu.au/fin
 
  **Data organisation** 
  
-This section describes how you will file, name and organise your data. We suggest that you create readme files to describe your naming convention and folder organization system(s). If you are using existing data sets, it will explain you have adapted these data sets for your project. The conventions and associated readme files are known as metadata or data that describes data. It will assist you in setting up safe storage systems for general use, for sharing and archiving your data while your project is running and after the project has finished. 
+Data organisation describes how you will file, name and organise your data. This section defines and describes the the file and folder naming conventions you are using to organise your reserach data. Even when using established conventions we suggest that you create readme documents to describe the naming convention and folder organization system(s). If you are using existing data sets the readme documents will explain how you have adapted these data sets for your project. 
+
+The file and folder naming conventions and associated readme files are known as metadata, this is data that describes data. These files will assist you in setting up safe storage systems for general use, for sharing and archiving your data while your project is running and after the project has finished. 
 
 This looks like...
  - Tools and software you will use during your project
@@ -67,7 +69,7 @@ More details examples and explanations of data organisation can be found in [Dat
 
 ## Processing and analysing data
 
-In the context of you data management plan, document the processes, systems, workflows and tools used to porcess and analyse your research data.
+In the context of your data management plan, this section documents the processes, systems, workflows and tools used to process and analyse your research data.
 
 **How did you create your dataset?**
 - Was the data created via digitisation?
