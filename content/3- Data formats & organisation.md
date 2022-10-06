@@ -3,7 +3,7 @@ title: Data formats & organisation
 nav: true
 ---
 
-This module will show the many forms data can take and how you can organise them. We will explain folder and file naming systems, showing you how to can organise your research for finding and sharing as well as good record keeping practice. Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan).
+This module will show the many forms data can take and how you can organise them. We will explain folder and file naming systems, showing you how to organise your research and demonstrate good record keeping practice. Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan).
 
 ----
 
