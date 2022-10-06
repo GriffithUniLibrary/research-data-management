@@ -58,13 +58,15 @@ A File Naming Convention (FNC) or protocol allows you to systematically name you
 
 best practice is to set up and standardise your naming conventions and file structures early in your research project. This will help you build your frameworks and organise research data with sections of your dissertation. 
 
-**IMPORTANT** Check for standards or existing file name conventions in your field **BEFORE** you start. It is particularly important when working with external parties that file naming conventions (FNC) are agreed upon at the beginning of any project. 
+---
+Prior to starting your project it is very important that you check for standards or existing file name conventions in your field. This is particularly important when working with external parties where file naming conventions (FNC) are already in use and any changes will need to be agreed upon before commencing the project. 
+--- 
 
-If you are creating your own file naming conventions be sure to document them. 
+If you are creating your own file naming conventions,  be sure to document how they work and they were developed. Once decided, document your file naming structure into a README file located in the folders where your documents are stored. 
+The hardest part of file naming conventions is compliance, for best results start to embed the systems early in your project to make them part of your reserach practice.
 
-Once decided, document your file naming structure into a README file located in the folders where your documents are stored. The hardest part of file naming conventions is adherence, embed the systems early to make them part of your reserach practice.
+When creating your FNC, make sure that your system is;
 
-File naming conventions need to be: 
 - machine readable
 - human readable
 - ordered
