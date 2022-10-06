@@ -16,19 +16,19 @@ Data management planning templates are available for download [here](https://www
 
 
 ### 1 Research data management and storage services
-Research Integrity and management of research data are critical elements of your research project. We can work with you to develop systems to manage data for capture through to long term presentation. There are in-house solutions, such as Research Space, Storage and Vault and a number of external providers that we endorse who offer discipline specific and general data management and storage.
+Research Integrity and management of research data are critical elements of your research project. We can work with you to develop systems to manage data for capture through to long term presentation. 
+Griffith University offers various storage services to all researchers and research students affiliated with the University. The Research Storage Service is an area where researchers can gain access to digital storage based on their storage needs. The project data stored in these services are freely accessible and securely stored on Griffith servers. For more information, access the Research Space, Research Drive and the Research Vault options below. To acces this storage follow the link [here](https://research-storage.griffith.edu.au/).
 
 The following services are available to researchers and HDR students. Service specific information can be found for each tool listed below by clicking on the associated link or visiting the Service Catalogue. 
 
 Digital solutions data management and storage solutions inlcude:
 
 ![image](https://user-images.githubusercontent.com/42364968/173257008-e4827a47-9ec4-41ea-b64d-588dd76cf087.png)
-Griffith University offers various storage services to all researchers and research students affiliated with the University. The Research Storage Service is an area where researchers can gain access to digital storage based on their storage needs. The project data stored in these services are freely accessible and securely stored on Griffith servers. For more information, access the Research Space, Research Drive and the Research Vault options below. To acces this storage follow the link [here](https://research-storage.griffith.edu.au/).
 
-| working research storage | | 
+| Working Research Storage | | 
 |--- | --- |
-| Research Space | 5GB+ to store primary data and associated documentation from research projects conducted at Griffith |
 | Research Drive | designed to specifically meet the needs of laboratories or other situations where large volumes of data are produced |
+| Research Space | 5GB+ to store primary data and associated documentation from research projects conducted at Griffith |
 | Research Vault | long term archival of digital data that is infrequently accessed (slower to access than other tiers of storage) |
 | Please note, if the standard offerings don't fit your research or if you have more than 2TB of data contact [eResearch support](https://www.griffith.edu.au/digital-solutions/service-catalogue/eresearch-services) |
 {:.table .table-bordered}
