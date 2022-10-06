@@ -56,7 +56,8 @@ Please note, Griffith research storage services does not include:
 
 **Retention and achiving**
 
-Retention
+There are minimum periods required for data retention as set out by the [Schedule of Retention Periods for Research Data and Primary Materials
+Annexure to The Responsible Conduct of Research](https://sharepointpubstor.blob.core.windows.net/policylibrary-prod/Schedule%20of%20Retention%20Periods%20for%20Research%20Data%20and%20Primary%20Materials.pdf) 
 
 What is retention
 
