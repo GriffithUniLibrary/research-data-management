@@ -71,11 +71,11 @@ When creating your FNC, make sure that your system is;
 - human readable
 - ordered
 
-Machine readable means that it is easy to search your files, that you can refine your file lists based on how you have named them and you can easily extract the information you need from the file name. 
+**Machine readable** for FNC this means that it is easy to search your files, that you can refine your file lists based on how you have named them and you can easily extract the information you need simply from the file name. 
 
-File names to need to be easily read and understood by other people, not just you. Give your files meaningful and consistent titles so you can identify which project the file applies to, which part of the project and when it was created. 
+**Human Readable** File names are easily read and understood by other people, that your colleagues, collaborators or supervisors can easily decifer what is in each file. To make files readable, give your files meaningful and consistent titles which easily identify which part of the project the file applies to, which project you are looking at and when the file was created. 
 
-The creation date is the best place to begin organising our files. We strongly recommend that dates for file management are formatted as YYYYMMDD order eg : 20220815, in line with intenational standards [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
+**Ordered** The creation date is the best place to begin organising our files. We strongly recommend that dates for file management are formatted as YYYYMMDD order eg : 20220815, in line with intenational standards [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html). If you are using additional numnering systems use a zero first to avoid any confusion. 
 
 **An example file name convention**
 
