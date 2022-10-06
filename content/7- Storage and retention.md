@@ -59,15 +59,13 @@ Please note, Griffith research storage services does not include:
 There are minimum periods required for data retention as set out by the [Schedule of Retention Periods for Research Data and Primary Materials
 Annexure to The Responsible Conduct of Research](https://sharepointpubstor.blob.core.windows.net/policylibrary-prod/Schedule%20of%20Retention%20Periods%20for%20Research%20Data%20and%20Primary%20Materials.pdf) 
 
-What is retention
+The data required for retention is defined by the schecule as "factual records, which may take the form of numbers, symbols, text, images or sounds, used as primary sources for research, and that are commonly accepted in the research community as necessary to validate research findings."(pg 4, Schedule of Retention Periods for Research Data and Primary Materials Annexure to The Responsible Conduct of Research) 
 
-How long do I need to retain the data: Link to retention in policy library 
+The tables in the schedule show how long each data set needs to be retained and the security requirements for each. 
 
-Where do I retain the data: Research vault, https://research-storage.griffith.edu.au/vault/
+Data can be retained in the [Research vault](https://research-storage.griffith.edu.au/vault/), you will need to request access to the research vault via this [form](https://www.griffith.edu.au/digital-solutions/research-storage/online-forms/research-vault-request-form). 
 
-Log job for access here: https://www.griffith.edu.au/digital-solutions/research-storage/online-forms/research-vault-request-form
-
-[Griffith Information managment guides](https://griffitheduau.sharepoint.com/sites/Information-Management?OR=Teams-HL&CT=1660620159077&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA3MDMwMDgxNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
+For more information please consult the [Griffith Information managment guides](https://griffitheduau.sharepoint.com/sites/Information-Management?OR=Teams-HL&CT=1660620159077&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA3MDMwMDgxNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D). 
 
 ## 3 Sensitive data
 If your data is sensitive, you need to know that affects storage options. 
