@@ -30,7 +30,7 @@ The [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.
 
 
 
-The Code and the guide apply to all research conducted under the auspices of Australian institutions. Whilst Griffith University will also have specific institutional policies and processes capable of fulfilling the aim of this guide there are appropriate options for flexibility in the application of this content.
+The Code and the guide apply to all research conducted under the auspices of Australian institutions. Whilst Griffith University will also have specific institutional policies and processes capable of fulfilling the aim of this guide, there are appropriate options for flexibility in the application of this content.
 
 
 ## Section 2: Responsibilities for institutions
