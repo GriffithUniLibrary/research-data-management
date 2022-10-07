@@ -7,13 +7,13 @@ Data management planning templates are available [here](https://www.griffith.edu
 
 ----
 
-Here you will find useful links to assist with your data managment planning and data management through out your project.
+Useful links to assist with your data managment planning and data management throughout your project.
 
-- Find liinks for library research help [here](https://www.griffith.edu.au/library/contact)
+- Find links for library research help [here](https://www.griffith.edu.au/library/contact)
 - [Considerations for Sharing research data](https://sway.office.com/wFPGt0xXui0XMOrh) For anyone wanting to share their data at any stage of their candidature.
 
 
-file and folder naming conventions
+##File and folder naming conventions
 
 https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
 
