@@ -30,8 +30,8 @@ Digital solutions data management and storage solutions inlcude:
 | Research Drive | designed to specifically meet the needs of laboratories or other situations where large volumes of data are produced |
 | Research Space | 5GB+ to store primary data and associated documentation from research projects conducted at Griffith |
 | Research Vault | long term archival of digital data that is infrequently accessed (slower to access than other tiers of storage) |
-| Please note, if the standard offerings don't fit your research or if you have more than 2TB of data contact [eResearch support](https://www.griffith.edu.au/digital-solutions/service-catalogue/eresearch-services) |
 {:.table .table-bordered}
+*Please note, if the standard offerings don't fit your research or if you have more than 2TB of data contact [eResearch support](https://www.griffith.edu.au/digital-solutions/service-catalogue/eresearch-services)* 
 
 
 ## 2 Storage options
