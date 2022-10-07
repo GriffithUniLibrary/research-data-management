@@ -71,7 +71,7 @@ When creating your file name convention, make sure that your system is;
 - human readable
 - ordered
 
-**Machine readable** it is easy to search your files, that you can refine your file lists based on how you have named them and you can extract the information you need simply from the file name. 
+**Machine readable** A machine readable format makes easy to search your files; you can refine your file lists based on how you have named them and you can extract the information you need simply from the file name. 
 
 **Human Readable** File names are easily read and understood by other people, and that your colleagues, collaborators or supervisors can easily decipher what is in each file. To make files readable, give your files meaningful and consistent titles which easily identify which part of the project the file applies to, which project you are looking at and when the file was created. 
 
