@@ -36,7 +36,7 @@ Digital solutions data management and storage solutions inlcude:
 
 
 ## 2 Storage options
-  *note this is a very small selection of the type of storage options availble to you*
+  *Note this is a very small selection of the type of storage options availble to you*
  
 **Griffith Research Online (GRO) Research data collection**
 This repository makes research data collections accessible and searchable via a web interface. Current submissions are restricted to approval from the Library. Please see the Collection Statement for more information.
