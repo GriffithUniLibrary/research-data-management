@@ -23,7 +23,7 @@ Watch the video [here](https://vimeo.com/741709358/733f17efba)
 - Section 5: Help and support
 - Section 6: Frequently asked questions
 
-This page has been adapted from the Griffith University Copyright [research data](https://www.griffith.edu.au/copyright-matters/hdr-candidates/research-data) pages. 
+This page has been adapted from the Griffith University's Copyright [research data](https://www.griffith.edu.au/copyright-matters/hdr-candidates/research-data) pages. 
 
 ## Overview
 - HDRs normally own © in their research data
@@ -37,7 +37,7 @@ This page has been adapted from the Griffith University Copyright [research data
 # Copyright ownership
 
 Higher degree by Research (HDR) candidates own the copyright in the datasets they create (except when copyright is transferred to the University or another body by agreement). Griffith University owns the copyright in datasets staff create and permits their publication. Where two or more researchers significantly contribute to a dataset when working on a project, there is joint copyright ownership. Often researchers will sign an agreement assigning the copyright in the data to the project at the beginning.
-Griffith universitys Intellectual Property policy framework [here](https://sharepointpubstor.blob.core.windows.net/policylibrary-prod/Intellectual%20Property%20Policy.pdf)
+Griffith University s Intellectual Property policy framework [here](https://sharepointpubstor.blob.core.windows.net/policylibrary-prod/Intellectual%20Property%20Policy.pdf)
 
 
 ## Copyright requirements when publishing data
