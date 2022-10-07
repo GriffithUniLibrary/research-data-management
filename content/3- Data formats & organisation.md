@@ -20,7 +20,7 @@ Section 3: File naming conventions
 {% include figure.html img="2022-files-formats-folders.jpg" alt="File and folder images" caption="Formats, files and folders - how will you organise your data?" width="100%" %}
 Images: [Brett Jordan](https://unsplash.com/@brett_jordan) and [Markus Spiske](https://unsplash.com/@markusspiske) and [Maksym Kaharlytskyi](https://unsplash.com/@qwitka) on [Unsplash](https://unsplash.com/)
 
-Your research data, when properly organised and mananged, can document; how your conclusions were reached, validate your findings and help troubleshoot issues in your work. Well organised research data will be interopable for reuse in future projects. 
+Your research data, when properly organised and managed, can document how your conclusions were reached, validate your findings and help troubleshoot issues in your work. Well organised research data will be interoperable for reuse in future projects. 
 
 Research data can take many forms including;
 
@@ -46,7 +46,7 @@ To create a folder naming convention:
 - Create new folders and sub folders for new areas of work
 - Pre-fix folder names with numbers, e.g. 01, 02 etc to order files by the steps in your workflow. Use zero before each number to maintain numerical order. 
 
-We recommend documenting your folder structures into a "README" file saved in each folder set. The README file will explain your folder system and outline the contents of your folders. 
+We recommend documenting your folder structures in a "README" file saved in each folder set. The README file will explain your folder system and outline the contents of your folders. 
 
 
 {% include figure.html img="2022-06-Folder_Structure.jpg" alt="Image showing folder structure with README file and number to force folder order to workflow steps" caption="Folder structure with README file and number to force folder order to workflow steps" width="100%" %}
@@ -56,14 +56,14 @@ We recommend documenting your folder structures into a "README" file saved in ea
 
 A File Naming Convention (FNC) or protocol allows you to systematically name your files, describing not only what each file contains but also how the project files relate to each other. 
 
-best practice is to set up and standardise your naming conventions and file structures early in your research project. This will help you build your frameworks and organise research data with sections of your dissertation. 
+Best practice is to set up and standardise your naming conventions and file structures early in your research project. This will help you to build your frameworks and organise research data with sections of your dissertation. 
 
 ---
-Prior to starting your project it is very important that you check for standards or existing file name conventions in your field. This is particularly important when working with external parties where file naming conventions (FNC) are already in use and any changes will need to be agreed upon before commencing the project. 
+Prior to starting your project it is very important that you check for standards or existing file name conventions in your field. This is particularly important when working with external parties where FNC are already in use, and any changes will need to be agreed upon before commencing the project. 
 --- 
 
-If you are creating your own file naming conventions,  be sure to document how they work and they were developed. Once decided, document your file naming structure into a README file located in the folders where your documents are stored. 
-The hardest part of file naming conventions is compliance, for best results start to embed the systems early in your project to make them part of your reserach practice.
+If you are creating your own file naming conventions, be sure to document how they work and how they were developed. Once decided, document your file naming structure into a README file located in the folders where your documents are stored. 
+The hardest part of file naming conventions is compliance. For best results, start to embed the systems early in your project to make them part of your research practice.
 
 When creating your FNC, make sure that your system is;
 
@@ -71,11 +71,11 @@ When creating your FNC, make sure that your system is;
 - human readable
 - ordered
 
-**Machine readable** for FNC this means that it is easy to search your files, that you can refine your file lists based on how you have named them and you can easily extract the information you need simply from the file name. 
+**Machine readable** for FNC this means that it is easy to search your files, that you can refine your file lists based on how you have named them and you can extract the information you need simply from the file name. 
 
-**Human Readable** File names are easily read and understood by other people, that your colleagues, collaborators or supervisors can easily decifer what is in each file. To make files readable, give your files meaningful and consistent titles which easily identify which part of the project the file applies to, which project you are looking at and when the file was created. 
+**Human Readable** File names are easily read and understood by other people, and that your colleagues, collaborators or supervisors can easily decipher what is in each file. To make files readable, give your files meaningful and consistent titles which easily identify which part of the project the file applies to, which project you are looking at and when the file was created. 
 
-**Ordered** The creation date is the best place to begin organising our files. We strongly recommend that dates for file management are formatted as YYYYMMDD order eg : 20220815, in line with intenational standards [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html). If you are using additional numnering systems use a zero first to avoid any confusion. 
+**Ordered** The creation date is the best place to begin organising our files. We strongly recommend that dates for file management are formatted as YYYYMMDD order eg : 20220815, in line with international standards [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html). If you are using additional numbering systems, use a zero first to avoid any confusion. 
 
 **An example file name convention**
 
@@ -95,7 +95,7 @@ File name sections or chunks are separated file by an underscore or hyphen.
 
 This example uses *underscores* between key sections and *hyphens* to connect the elements. 
 
-You can clearly see what the file is about, the version and when the file was created. The convention will allow you to add additional files that can be easily searched based off the file name.
+You can clearly see what the file is about, the version and when the file was created. The convention will allow you to add additional files that can be easily searched based on the file name.
 
 **TIP!** DO NOT use punctuation, upper case or special characters as this may alter the file order 
 
