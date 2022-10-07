@@ -9,11 +9,11 @@ Research data management (RDM) is a process for protecting the quality and valid
 
 This guide will assist you to prepare the data management planning documentation required for your dissertation or research project. Templates are available from the Library’s [Data Management](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan) page.  
 
-Research data can consist of many different formats and media types. 
+Research data is recorded in many different formats and media types. 
 Physical items, such as artifacts and organic samples, will demand careful management over time. 
 Even digital files can be challenging to manage because several file formats may exist for each kind of information; from simple spreadsheets to test equipment readouts, from simple images to 3D photogrammetry. 
 
-To highlight this vital task in research, you will be required to fill out a Data management planning document. This guide will help you complete the documentation and to create your file and folder naming conventions, to decide how and where you will save your data, and to consider the copyright and ethical implications which you will need to adress to complete your dissertation.  
+To highlight this vital task in research, you will be required to fill out a data management planning document. This guide will help you complete the documentation and to create your file and folder naming conventions, to decide how and where you will save your data, and to consider the copyright and ethical implications which you will need to adress to complete your dissertation.  
 
 Should you need further help please [contact the library.](https://intranet.secure.griffith.edu.au/library/forms/help?_gl=1*12aku8h*_ga*NDAwNzA0OTEzLjE2NTg5ODI2MTk.*_ga_5GKYJEBSN9*MTY1ODk4MjYxOS4xLjEuMTY1ODk4NjU5Ni4w)
 
