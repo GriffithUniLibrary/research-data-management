@@ -3,7 +3,7 @@ title: Introduction
 nav: true
 ---
 ---
-The validity of your research depends on the quality of your data, and the quality of your data can be seriously degraded if any part is lost, corrupted, or mislabelled.  
+The validity of your research depends on the quality of your data, and the quality of your data can be degraded if any part is lost, corrupted, or mislabelled.  
 
 Research data management (RDM) protects the quality and validity of your research by systematically organising, managing, and saving your data.  
 
