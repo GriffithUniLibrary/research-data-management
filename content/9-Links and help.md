@@ -13,7 +13,7 @@ Useful links to assist with your data managment planning and data management thr
 - [Considerations for Sharing research data](https://sway.office.com/wFPGt0xXui0XMOrh) For anyone wanting to share their data at any stage of their candidature.
 
 
-##File and folder naming conventions
+**File and folder naming conventions
 
 https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
 
