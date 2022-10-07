@@ -65,13 +65,13 @@ Prior to starting your project it is very important that you check for standards
 If you are creating your own file naming conventions, be sure to document how they work and how they were developed. Once decided, document your file naming structure into a README file located in the folders where your documents are stored. 
 The hardest part of file naming conventions is compliance. For best results, start to embed the systems early in your project to make them part of your research practice.
 
-When creating your FNC, make sure that your system is;
+When creating your file name convention, make sure that your system is;
 
 - machine readable
 - human readable
 - ordered
 
-**Machine readable** for FNC this means that it is easy to search your files, that you can refine your file lists based on how you have named them and you can extract the information you need simply from the file name. 
+**Machine readable** it is easy to search your files, that you can refine your file lists based on how you have named them and you can extract the information you need simply from the file name. 
 
 **Human Readable** File names are easily read and understood by other people, and that your colleagues, collaborators or supervisors can easily decipher what is in each file. To make files readable, give your files meaningful and consistent titles which easily identify which part of the project the file applies to, which project you are looking at and when the file was created. 
 
