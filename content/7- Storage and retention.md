@@ -69,11 +69,11 @@ Data can be retained in the [Research vault](https://research-storage.griffith.e
 For more information please consult the [Griffith Information managment guides](https://griffitheduau.sharepoint.com/sites/Information-Management?OR=Teams-HL&CT=1660620159077&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA3MDMwMDgxNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D). 
 
 ## 3 Sensitive data
-If your data is sensitive, you need to know that affects storage options. 
+If your data is sensitive, you need to know that effects your storage and archival options. 
 
 ![Storage options](https://user-images.githubusercontent.com/42364968/185262811-f3b6479d-effb-431e-990f-fcd34b8a886a.png)
 
-There are several steps that you will need to work through to assess your datas sensitivy and what that means for storage and sharing purposes, this process is the same for electronic and hardcopy datasets. 
+There are several steps that you will need to work through to assess your data's sensitivy and what that means for storage and sharing purposes. This process is the same for electronic and hardcopy datasets;
 
 **First** work out how [sensitive the dataset is.](https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/information-security.aspx)
 
