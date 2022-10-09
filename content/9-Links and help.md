@@ -15,7 +15,7 @@ Useful links to assist with your data managment planning and data management thr
 
 **File and folder naming conventions**
 
-[University of Edinburgh Records managent guide](htttps://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
+[University of Edinburgh Records management guide](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
 
 [CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure) 
 
