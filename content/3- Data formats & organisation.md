@@ -120,3 +120,14 @@ File name sections or chunks are separated by an underscore
 *This section has been adapted from Jenny Bryan's [Naming Things]( https://speakerdeck.com/jennybc/how-to-name-files?slide=14) presentation for the Reproduclible Science Workshop.*
 
 
+## Links and references
+**File and folder naming conventions**
+The following links contain excellent additional information and tips for naming and organising your files.
+
+[University of Edinburgh Records management guide](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
+
+[CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure) 
+
+[Reproducible Science - how to name files](https://speakerdeck.com/jennybc/how-to-name-files?slide=27) *particularly the content around slide 27*
+
+[Earley Information Science](https://www.earley.com/insights/tips-and-tricks-simple-and-quick-folder-and-file-naming-conventions)
