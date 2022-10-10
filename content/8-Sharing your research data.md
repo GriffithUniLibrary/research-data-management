@@ -94,11 +94,11 @@ Most repositories will need information around the following elements:
 | Topic/Question | Description/notes | Follow up  |
 | ---- | ---- | ---- |
 | Singular data set or collection of data? | | |
-| Does the dataset meet deposit requirements for deposit in Griffith research online (GRO)? | GRO is for data required for new manuscripts, or new/old data supporting projects funded by ARC/NHMRC. | Does the data meet the requirements for High use in the GRO team |
-| Who funded the research | | | 
+| Does the dataset meet deposit requirements for deposit in Griffith research online (GRO)? | GRO is for data required for new manuscripts, or new/old data supporting projects funded by ARC/NHMRC. | Does the data meet the requirements for High use in the GRO team? |
+| Who funded the research? | | | 
 | Where is the data currently stored? | Griffith university storage •	External drives •	Other?  | | 
 | Does the dataset have a DOI? | GRO can create DOI’s, however most external data repositories will also mint a DOI for you that can be linked back to the GRO repository | |
-| Is the data in a publishable state/ready state? | Does the meet open research/FAIR/CAIR guidelines? Is the data; •	De- identified •	De- sensitised.  
+| Is the data in a publishable state/ready state? | Does the meet open research/FAIR/CAIR guidelines? Is the data: •	De- identified •	De- sensitised.  
 Have you used File & folder naming conventions | Is this convention intuitive or described in a read me file? |
 | Access level of the data | What level of access do you need for the dataset? Open or mediated access? |  |
 | Do you want to deposit the data or link to the dataset in GRO? | Does the physical data need to go into the Griffith repository? | |
