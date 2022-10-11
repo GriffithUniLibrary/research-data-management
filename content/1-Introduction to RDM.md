@@ -18,5 +18,6 @@ To higlight the importance of research data management, you are required to comp
 Should you need further help please [contact the library.](https://intranet.secure.griffith.edu.au/library/forms/help?_gl=1*12aku8h*_ga*NDAwNzA0OTEzLjE2NTg5ODI2MTk.*_ga_5GKYJEBSN9*MTY1ODk4MjYxOS4xLjEuMTY1ODk4NjU5Ni4w)
 
 ![DMP](https://user-images.githubusercontent.com/42364968/181428485-e03158c5-89c8-4605-a1d0-a6ec20b04808.png)
+
 Data management planning templates are available for download [here](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) or directly from our library data management page [here](https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan).
 
