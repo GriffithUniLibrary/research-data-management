@@ -23,7 +23,7 @@ The following services are available to researchers and HDR students. Service sp
 
 Digital solutions data management and storage solutions inlcude:
 
-![image](https://user-images.githubusercontent.com/42364968/173257008-e4827a47-9ec4-41ea-b64d-588dd76cf087.png)
+[![image](https://user-images.githubusercontent.com/42364968/173257008-e4827a47-9ec4-41ea-b64d-588dd76cf087.png)](https://research-storage.griffith.edu.au/)
 
 | Working Research Storage | | 
 |--- | --- |
