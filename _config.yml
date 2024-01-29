@@ -31,7 +31,7 @@ github_username: GriffithUniLibrary
 # year or date published
 pub_year: 2021
 # location of code, the full url to your github repository
-source-code: https://github.com/GriffithUniLibrary/research-data-management.git
+source-code: https://github.com/GriffithUniLibrary/research-data-management
 
 ##########
 # URL VARIABLES [optional!]
