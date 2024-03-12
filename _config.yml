@@ -40,11 +40,11 @@ source-code: https://github.com/GriffithUniLibrary/research-data-management
 #
 # use url for the domain, e.g. https://evanwill.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url:
+url: https://griffithunilibrary.github.io
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl:
+baseurl: /research-data-management/
 
 
 ##########
